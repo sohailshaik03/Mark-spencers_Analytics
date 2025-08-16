@@ -1,0 +1,1001 @@
+product_id,sku,product_name,category,subcategory,brand,price,cost,launch_date,color,size_options,material,is_active
+07cf650c-3967-4999-be5f-dbd45b428913,MSWO00000,Essential Dresses 0,Womens_Clothing,Dresses,Essential,19.05,13.45,13/02/2025,Blue,S,Polyester,TRUE
+63923dd9-4f2b-48fa-9aa0-f8c181e413a2,MSFO00001,Foodies Frozen 1,Food,Frozen,Foodies,10.76,7.09,08/12/2024,Red,XS,Cotton,TRUE
+8ae19dd1-305a-4bf4-99ff-1197799336c4,MSFO00002,M&S Collection Deli 2,Food,Deli,M&S Collection,15.66,10.93,05/01/2025,White,S,Blend,TRUE
+7754b1d9-60ab-4cd0-9452-11f8009af67d,MSFO00003,Limited Edition Bakery 3,Food,Bakery,Limited Edition,30.25,14.21,18/07/2025,Black,XL,Wool,TRUE
+b9fcbeff-24df-469b-b128-ae3f82a95353,MSWO00004,Foodies Tops 4,Womens_Clothing,Tops,Foodies,7.98,4.1,12/05/2025,Green,M,Polyester,TRUE
+09f32d98-934e-42b2-ac22-7f2f61c8c4b0,MSHO00005,Autograph Bedding 5,Home,Bedding,Autograph,19.85,13.22,18/06/2025,Black,XS,Wool,TRUE
+461be93f-15e2-4dd3-8ddc-62918e31c7e2,MSFO00006,M&S Collection Ambient 6,Food,Ambient,M&S Collection,1.16,0.64,06/10/2024,Beige,L,Linen,TRUE
+359d1719-7cce-4dbd-9b3d-d91e1b2818a5,MSBE00007,Essential Skincare 7,Beauty,Skincare,Essential,28.66,16.91,12/02/2025,Multi,OneSize,Linen,TRUE
+cbb5ee3d-143c-4603-bd3a-97f80ba66a04,MSHO00008,Limited Edition Storage 8,Home,Storage,Limited Edition,6.47,4.69,28/09/2024,Beige,XS,Cotton,TRUE
+f670316a-9292-4732-85df-2d7c6d7b215c,MSHO00009,Limited Edition Bedding 9,Home,Bedding,Limited Edition,1.78,1.04,09/04/2025,Multi,XS,Silk,TRUE
+1a403315-0526-474b-accd-842266ed67a5,MSHO00010,Home Range Kitchen 10,Home,Kitchen,Home Range,7.46,4.94,29/08/2024,Green,S,Blend,TRUE
+549ca55b-6ba9-476f-8b37-edeee764a841,MSWO00011,Per Una Leggings 11,Womens_Clothing,Leggings,Per Una,13.46,8.18,09/05/2025,White,OneSize,Polyester,TRUE
+c2037c55-59d7-4c07-9d34-31dbe8229725,MSBE00012,Limited Edition Fragrance 12,Beauty,Fragrance,Limited Edition,7.1,3.44,14/07/2025,Beige,M,Cotton,TRUE
+60dcc300-efa8-4ba6-90d0-d4f3a6c450b1,MSWO00013,Foodies Knitwear 13,Womens_Clothing,Knitwear,Foodies,28.58,15.27,29/04/2025,Green,XS,Polyester,FALSE
+c3b17951-d991-4435-836d-6345e8696203,MSFO00014,Limited Edition Ambient 14,Food,Ambient,Limited Edition,25.54,14.28,01/10/2024,Beige,L,Silk,TRUE
+04349e4c-a376-49dd-87b7-54fe538c88e6,MSBE00015,Essential Makeup 15,Beauty,Makeup,Essential,4.06,2.6,14/06/2025,Blue,S,Blend,TRUE
+42fc69c0-a7d4-4550-9cf4-399d818d0bae,MSHO00016,Foodies Storage 16,Home,Storage,Foodies,1.72,1.33,25/07/2025,White,L,Wool,TRUE
+38132edb-365d-4f9d-b7f5-094a32e611ce,MSME00017,Beauty Line Shorts 17,Mens_Clothing,Shorts,Beauty Line,4.76,3.68,11/03/2025,Red,XS,Cotton,TRUE
+96dbcf84-2094-44d4-80f8-a30c9d310399,MSME00018,Autograph Outerwear 18,Mens_Clothing,Outerwear,Autograph,20.25,15.1,02/04/2025,Black,L,Linen,FALSE
+a77f321a-d2f0-49d2-8756-9e3d2561e2ef,MSFO00019,M&S Collection Ambient 19,Food,Ambient,M&S Collection,12.47,6.8,30/09/2024,Beige,OneSize,Cotton,TRUE
+a47db167-8bcd-4940-a727-6e12ebf5f094,MSFO00020,Home Range Ambient 20,Food,Ambient,Home Range,18.44,12.22,18/09/2024,Red,M,Silk,TRUE
+fe7776fc-293d-40d8-94f6-7284ebae724e,MSWO00021,Per Una Knitwear 21,Womens_Clothing,Knitwear,Per Una,13.16,7.29,05/06/2025,White,XS,Blend,TRUE
+0e0e9157-56d2-42ee-802a-a41192d9b84b,MSFO00022,Limited Edition Deli 22,Food,Deli,Limited Edition,6.62,2.99,25/12/2024,Blue,M,Polyester,TRUE
+4f7515a0-56a6-4d13-999d-3a941a27cb97,MSFO00023,Home Range Frozen 23,Food,Frozen,Home Range,21.13,10.98,18/01/2025,Black,XS,Cotton,FALSE
+e88a1c0f-ed87-412b-aa3a-11439f293c7e,MSHO00024,M&S Collection Kitchen 24,Home,Kitchen,M&S Collection,18.7,14.48,18/09/2024,Blue,XL,Cotton,TRUE
+443da7f4-fc52-4672-9296-6e5b9cfd359d,MSBE00025,Per Una Skincare 25,Beauty,Skincare,Per Una,39.38,30.33,25/02/2025,Blue,OneSize,Silk,FALSE
+a6628496-593c-4b74-8793-9a237258ed29,MSME00026,Foodies Knitwear 26,Mens_Clothing,Knitwear,Foodies,3.14,1.48,09/10/2024,Blue,XL,Blend,TRUE
+6085c8c6-74fe-4b4c-b871-833449afbc06,MSHO00027,Home Range Furniture 27,Home,Furniture,Home Range,32.78,18.48,15/11/2024,Black,XL,Silk,TRUE
+339c864a-458b-4b2a-96c7-b32d4839027e,MSME00028,Home Range Shirts 28,Mens_Clothing,Shirts,Home Range,2.95,1.91,23/03/2025,Red,XL,Linen,TRUE
+cf4002f4-047a-455d-a58f-85bdb80b2c74,MSME00029,Autograph Shirts 29,Mens_Clothing,Shirts,Autograph,21.63,10.64,17/12/2024,Beige,OneSize,Cotton,TRUE
+48a22dba-9326-4c95-ae23-e64e2c231eb7,MSWO00030,Autograph Knitwear 30,Womens_Clothing,Knitwear,Autograph,16.87,12.14,02/08/2025,White,S,Wool,TRUE
+722abc7e-675c-4360-87e5-6247d7381e9e,MSME00031,Per Una Shorts 31,Mens_Clothing,Shorts,Per Una,48.63,22.57,03/03/2025,Beige,XL,Linen,TRUE
+fbf21de6-ece7-4047-a33c-b7ef463c59c4,MSBE00032,Limited Edition Haircare 32,Beauty,Haircare,Limited Edition,8.51,4.15,10/10/2024,Red,XS,Blend,TRUE
+7656caeb-7ad9-4f1e-9710-878ed54d5d2a,MSBE00033,Beauty Line Haircare 33,Beauty,Haircare,Beauty Line,11.53,8.8,06/04/2025,Multi,OneSize,Cotton,TRUE
+8dc974cc-d8d0-41a3-8ccb-10cf3c5b42f0,MSWO00034,Foodies Dresses 34,Womens_Clothing,Dresses,Foodies,13.23,10.16,27/03/2025,Beige,M,Cotton,TRUE
+045d0ba7-9b28-4212-99b2-06cb08f6e628,MSME00035,Beauty Line Shorts 35,Mens_Clothing,Shorts,Beauty Line,2.04,1.21,26/01/2025,Blue,L,Polyester,TRUE
+ffc2c5bb-bfe2-4a97-8ab5-f8a69dcb6675,MSME00036,Beauty Line Shirts 36,Mens_Clothing,Shirts,Beauty Line,52.49,39.8,25/01/2025,Multi,XL,Cotton,TRUE
+6f69e3c1-d6a7-462a-894b-123633b95ab5,MSFO00037,Autograph Frozen 37,Food,Frozen,Autograph,25.57,18.74,20/12/2024,Multi,S,Polyester,TRUE
+854d568d-9e0c-4de1-8e8c-d3d01e702ba5,MSBE00038,Foodies Makeup 38,Beauty,Makeup,Foodies,3.21,1.91,05/07/2025,Red,S,Silk,TRUE
+db08c1b4-df99-466d-9af1-fe78d4502048,MSBE00039,Beauty Line Fragrance 39,Beauty,Fragrance,Beauty Line,9.91,5.58,22/07/2025,Green,L,Blend,FALSE
+b72d1225-0272-4aeb-b95f-a1a3b8238006,MSFO00040,Per Una Bakery 40,Food,Bakery,Per Una,23.38,12.75,18/05/2025,Blue,M,Polyester,FALSE
+2abfb2a4-f9cd-4a47-974d-f64ce64f7c25,MSFO00041,M&S Collection Deli 41,Food,Deli,M&S Collection,9.68,5.8,02/12/2024,Beige,M,Cotton,TRUE
+ad55f995-e43c-47a9-aeb7-8288a0799031,MSBE00042,Per Una Bath 42,Beauty,Bath,Per Una,3.62,1.84,23/12/2024,Red,XL,Cotton,TRUE
+a9c8b771-599b-4484-b6e3-f2f7325303eb,MSWO00043,Autograph Leggings 43,Womens_Clothing,Leggings,Autograph,4.87,3.02,21/03/2025,Beige,S,Silk,TRUE
+dc8a4de7-ddc0-49cc-99d0-196e1cd17b9a,MSFO00044,M&S Collection Fresh 44,Food,Fresh,M&S Collection,8.95,6.98,15/01/2025,White,XS,Silk,TRUE
+f4ffba8e-a746-45f6-9865-7de80447f3a1,MSFO00045,Home Range Deli 45,Food,Deli,Home Range,5.92,3.74,29/03/2025,Green,S,Blend,TRUE
+0672c989-59d4-4047-a5da-41a274ee7196,MSME00046,Foodies Knitwear 46,Mens_Clothing,Knitwear,Foodies,6.71,3.62,03/05/2025,Blue,OneSize,Blend,TRUE
+09d51b12-08cf-49f7-bd3e-e8e8cf0f5d32,MSHO00047,M&S Collection Bedding 47,Home,Bedding,M&S Collection,10.68,5.75,29/11/2024,Black,XL,Linen,FALSE
+c9e3e90b-dc0d-429f-80b7-b945b747e7cb,MSWO00048,Limited Edition Leggings 48,Womens_Clothing,Leggings,Limited Edition,8.19,4.67,12/12/2024,White,M,Polyester,FALSE
+d5a1ca84-f263-4974-b6d3-8adf438f11ed,MSWO00049,Home Range Tops 49,Womens_Clothing,Tops,Home Range,11.29,5.65,27/01/2025,Green,S,Silk,TRUE
+61ef42cc-d33c-4be0-a02d-7703a1db1c68,MSHO00050,M&S Collection Storage 50,Home,Storage,M&S Collection,71.42,46.95,27/02/2025,Beige,XL,Wool,FALSE
+b666afd5-4107-428d-8ed8-89dc4af1107f,MSWO00051,Essential Tops 51,Womens_Clothing,Tops,Essential,2.13,1.23,20/04/2025,Red,XS,Blend,TRUE
+42221a1c-ba73-4f72-8356-bdfaf91f4ba3,MSHO00052,Limited Edition Decor 52,Home,Decor,Limited Edition,10.77,8.55,05/04/2025,Beige,M,Polyester,TRUE
+48361c7a-d4a0-4776-8b3f-05a2bff77ecf,MSHO00053,Beauty Line Storage 53,Home,Storage,Beauty Line,43,31.37,25/02/2025,Green,XS,Cotton,TRUE
+8e331190-2799-4c24-b901-abeeefa4089b,MSHO00054,M&S Collection Bedding 54,Home,Bedding,M&S Collection,5,2.32,03/01/2025,Green,S,Blend,FALSE
+4475c9e2-e8c4-42cb-af8b-af0940c97eaa,MSME00055,Foodies Outerwear 55,Mens_Clothing,Outerwear,Foodies,7.32,4.13,20/07/2025,White,XS,Cotton,TRUE
+c115ed1f-926b-48a8-9457-11ec277f9e86,MSME00056,M&S Collection Shorts 56,Mens_Clothing,Shorts,M&S Collection,3.02,2.04,12/06/2025,Multi,M,Linen,TRUE
+7cf99ef4-20da-473f-b0d4-eae653929f89,MSBE00057,M&S Collection Makeup 57,Beauty,Makeup,M&S Collection,12.96,10.1,14/12/2024,Green,M,Cotton,TRUE
+e1eec01a-a7ac-4fd7-acb3-4a330b9d3cc8,MSME00058,Autograph Trousers 58,Mens_Clothing,Trousers,Autograph,37.49,25.74,06/01/2025,Green,XL,Silk,FALSE
+a6cea879-976f-4f3e-aa22-4f84301f4e96,MSME00059,Per Una Trousers 59,Mens_Clothing,Trousers,Per Una,12.92,8.26,02/06/2025,Multi,S,Silk,TRUE
+96ef24b4-9a83-4099-9f0a-6190129f4eec,MSHO00060,Limited Edition Furniture 60,Home,Furniture,Limited Edition,25.33,18.64,07/10/2024,Green,S,Blend,TRUE
+3f82a7a1-10c0-4cb9-b504-c04cc6c2ed1e,MSWO00061,Limited Edition Coats 61,Womens_Clothing,Coats,Limited Edition,4.02,2.18,08/06/2025,Blue,L,Wool,TRUE
+32206a78-17d7-4fb5-8bc2-f93803aad9ea,MSME00062,M&S Collection Trousers 62,Mens_Clothing,Trousers,M&S Collection,12.89,9.78,17/08/2024,Beige,S,Silk,TRUE
+3f1394c8-2f9f-4573-99af-84998081f11c,MSWO00063,Home Range Knitwear 63,Womens_Clothing,Knitwear,Home Range,19.13,10.48,02/01/2025,Beige,XL,Silk,TRUE
+f9550cf7-83e7-44cf-b255-11b615f49f7a,MSFO00064,M&S Collection Ambient 64,Food,Ambient,M&S Collection,19.49,14.82,06/12/2024,Red,M,Polyester,TRUE
+e24ef2c9-22ba-4e50-8a79-b022ab1696e1,MSHO00065,Autograph Bedding 65,Home,Bedding,Autograph,15.92,12.11,02/12/2024,White,L,Wool,TRUE
+475af0aa-935a-4df2-880e-c972c6b979c2,MSHO00066,Autograph Furniture 66,Home,Furniture,Autograph,14.93,6.77,15/11/2024,Black,XL,Polyester,TRUE
+f3fe0d1d-0034-4c92-8f6f-b18c2bdbee2a,MSBE00067,Limited Edition Skincare 67,Beauty,Skincare,Limited Edition,26.12,20.66,12/07/2025,Green,L,Cotton,FALSE
+544a1a11-08eb-4c0e-b7cc-f5b459f1c937,MSHO00068,Home Range Storage 68,Home,Storage,Home Range,0.91,0.73,16/01/2025,Beige,XS,Blend,FALSE
+7c0c8d35-5089-4a14-9e91-6ef86bed8070,MSFO00069,Foodies Ambient 69,Food,Ambient,Foodies,5.91,2.7,12/05/2025,Green,L,Blend,TRUE
+48d8cf2e-6aa1-4de7-9860-6c4f40aab59c,MSME00070,Foodies Trousers 70,Mens_Clothing,Trousers,Foodies,8.03,5.7,19/02/2025,Beige,L,Blend,TRUE
+8369a25f-f282-4f34-acec-0d5eb9a529d6,MSME00071,Essential Shorts 71,Mens_Clothing,Shorts,Essential,4.48,3.05,10/09/2024,Black,XL,Cotton,TRUE
+53017749-3174-4321-88e1-77d21932cd8a,MSME00072,Home Range Outerwear 72,Mens_Clothing,Outerwear,Home Range,21.56,14.5,30/08/2024,Black,L,Silk,TRUE
+d04c3445-7d1d-4b12-a310-88a1778519a2,MSFO00073,Per Una Bakery 73,Food,Bakery,Per Una,191.52,102.54,15/09/2024,Beige,XS,Wool,TRUE
+d9220176-338c-484b-8fef-e721ef72634c,MSFO00074,Autograph Ambient 74,Food,Ambient,Autograph,12.06,9.25,04/09/2024,Multi,S,Blend,TRUE
+886437c9-d8c8-414f-92ea-a3dceb4899a3,MSME00075,M&S Collection Trousers 75,Mens_Clothing,Trousers,M&S Collection,17.67,12.87,21/05/2025,Red,S,Silk,TRUE
+116deab1-20e4-42f5-94ef-4c0140236469,MSWO00076,Foodies Coats 76,Womens_Clothing,Coats,Foodies,41.6,31.3,21/06/2025,Beige,XL,Polyester,TRUE
+63360272-43b2-4e08-af25-555be3c8d85a,MSBE00077,Foodies Haircare 77,Beauty,Haircare,Foodies,34.98,21.85,12/08/2024,Blue,S,Blend,TRUE
+a00c4807-5fbd-4333-bb3e-44f8ec6618c7,MSWO00078,Limited Edition Coats 78,Womens_Clothing,Coats,Limited Edition,12.65,6.48,16/03/2025,Blue,OneSize,Linen,TRUE
+d7697d4c-949d-4eec-abfe-0a3e42e95e02,MSFO00079,Autograph Fresh 79,Food,Fresh,Autograph,10.77,6.62,23/09/2024,Black,S,Silk,TRUE
+38d37710-a073-475f-a9a3-7bf1f3ad3d45,MSFO00080,Home Range Deli 80,Food,Deli,Home Range,9.96,4.54,15/05/2025,Multi,L,Linen,TRUE
+6de777f6-4a01-4144-93d1-fb11bedeb0b2,MSFO00081,Beauty Line Bakery 81,Food,Bakery,Beauty Line,23.16,13.1,06/06/2025,Blue,OneSize,Silk,TRUE
+40f0a470-fd69-47cc-b7c0-49b75349b6c9,MSME00082,Beauty Line Knitwear 82,Mens_Clothing,Knitwear,Beauty Line,8.11,4.74,16/01/2025,Beige,S,Wool,TRUE
+988708d3-6bc0-4038-8b9a-19669b5529cf,MSHO00083,Essential Kitchen 83,Home,Kitchen,Essential,24.52,13.75,14/12/2024,Green,M,Linen,TRUE
+1d88fb1e-5f2c-46dc-91c0-6ef534e051af,MSME00084,Foodies Trousers 84,Mens_Clothing,Trousers,Foodies,3.64,2.71,27/06/2025,Beige,S,Blend,TRUE
+95815e91-f5f9-4234-881b-5bf4487ee4a9,MSBE00085,Home Range Haircare 85,Beauty,Haircare,Home Range,2.83,1.84,15/05/2025,White,L,Silk,TRUE
+41947a05-1f90-4099-9bda-00e677c0ce53,MSBE00086,M&S Collection Haircare 86,Beauty,Haircare,M&S Collection,21.58,12.42,13/12/2024,Multi,XL,Silk,TRUE
+0c909d79-4bef-42b2-8de7-aff77e898d30,MSHO00087,Foodies Decor 87,Home,Decor,Foodies,4.61,2.91,08/05/2025,Multi,L,Linen,TRUE
+60f5bfb4-b17b-47f3-9262-3e6ea16d5991,MSFO00088,Limited Edition Deli 88,Food,Deli,Limited Edition,18.26,10.11,03/09/2024,Black,S,Wool,TRUE
+7a4cd3f3-8027-4325-832e-8c124215e1f6,MSWO00089,Home Range Coats 89,Womens_Clothing,Coats,Home Range,60.4,44.31,21/08/2024,Beige,OneSize,Silk,TRUE
+a8af8c5d-bf84-45d4-a2c9-e908dc20c1d2,MSBE00090,M&S Collection Makeup 90,Beauty,Makeup,M&S Collection,4.2,1.99,28/12/2024,Black,XL,Linen,TRUE
+17c50b00-6038-4541-a73c-6b3069ebb6a9,MSWO00091,Per Una Coats 91,Womens_Clothing,Coats,Per Una,19.02,14.48,29/12/2024,Multi,L,Polyester,TRUE
+d6d287da-c2a1-4861-b9b4-bc494fe0ba48,MSBE00092,Limited Edition Fragrance 92,Beauty,Fragrance,Limited Edition,6.08,3.97,16/07/2025,Black,M,Wool,TRUE
+c481f145-962e-4dd8-80b5-cf6e8d82c11e,MSBE00093,Foodies Fragrance 93,Beauty,Fragrance,Foodies,9.84,5.56,10/02/2025,Green,XS,Silk,TRUE
+77f66d87-9977-4dbb-8073-4923734cde47,MSFO00094,Home Range Frozen 94,Food,Frozen,Home Range,2.44,1.6,16/07/2025,Blue,OneSize,Cotton,TRUE
+daea30d7-caa3-40ae-bbdb-4eeb7b7ee1ab,MSWO00095,Limited Edition Dresses 95,Womens_Clothing,Dresses,Limited Edition,16.8,9.03,25/01/2025,Blue,XS,Linen,TRUE
+3a8fed19-7559-4364-bfa5-d12a344d1f4a,MSME00096,Autograph Outerwear 96,Mens_Clothing,Outerwear,Autograph,7.97,3.94,29/04/2025,White,S,Silk,TRUE
+809c590f-e976-40fd-a7eb-bbc1e92d1b8f,MSHO00097,Autograph Kitchen 97,Home,Kitchen,Autograph,32.46,23.35,24/11/2024,Multi,S,Wool,TRUE
+d6074adf-171b-414f-977f-df77a7942365,MSWO00098,Foodies Knitwear 98,Womens_Clothing,Knitwear,Foodies,6.31,2.95,24/07/2025,Black,OneSize,Polyester,TRUE
+f91b61f6-c0f3-4fe8-bd47-9b7e2797c727,MSME00099,Essential Shirts 99,Mens_Clothing,Shirts,Essential,14.8,9.46,15/06/2025,Multi,OneSize,Linen,TRUE
+aa94a19f-81e2-4eef-b429-bdfe4090fd50,MSFO00100,Home Range Frozen 100,Food,Frozen,Home Range,11.06,6.66,05/10/2024,White,L,Blend,TRUE
+45b2435f-df70-492e-8358-e99aca72eadc,MSFO00101,M&S Collection Ambient 101,Food,Ambient,M&S Collection,7.86,3.75,25/03/2025,Multi,L,Silk,TRUE
+ec671cd7-c3b8-48ea-bc25-ba4f2996e3c2,MSHO00102,Per Una Furniture 102,Home,Furniture,Per Una,60.53,28.47,08/12/2024,Black,S,Blend,TRUE
+2265b5ac-36ea-4f88-b244-84d0bd76fcd9,MSHO00103,Beauty Line Storage 103,Home,Storage,Beauty Line,6.62,3.34,25/05/2025,Black,L,Blend,TRUE
+7975a5a3-72a4-42bf-811f-f78218d9a7ac,MSHO00104,Autograph Kitchen 104,Home,Kitchen,Autograph,9.14,4.7,02/04/2025,Green,L,Polyester,TRUE
+4789370d-e925-4a8d-b156-35a39fb7332e,MSFO00105,Foodies Deli 105,Food,Deli,Foodies,10.13,5.55,07/05/2025,Green,XS,Silk,TRUE
+8f01d5b0-991c-444f-b777-77737563ec70,MSME00106,Limited Edition Outerwear 106,Mens_Clothing,Outerwear,Limited Edition,83.19,50.12,23/07/2025,Green,M,Wool,TRUE
+f11113df-e510-4e1a-a076-4ba47d7b1a8d,MSFO00107,M&S Collection Ambient 107,Food,Ambient,M&S Collection,14.94,8.92,23/10/2024,White,S,Cotton,TRUE
+d909d6a8-d37e-43b5-9ff1-5d5ae7ad4faa,MSBE00108,Limited Edition Haircare 108,Beauty,Haircare,Limited Edition,4.2,2.07,20/05/2025,Beige,L,Blend,TRUE
+132df0e2-d22f-4bea-8e12-412d840eb5ce,MSBE00109,Autograph Skincare 109,Beauty,Skincare,Autograph,14.97,7.34,16/10/2024,Green,S,Silk,TRUE
+9b9e6f45-e9eb-40cc-8509-6b8c16d06e08,MSHO00110,Home Range Storage 110,Home,Storage,Home Range,9.46,7.5,28/02/2025,Black,XL,Linen,TRUE
+69298b37-6393-4051-9677-a0b3d8ee8497,MSFO00111,Home Range Ambient 111,Food,Ambient,Home Range,7.07,3.22,15/07/2025,Beige,L,Wool,TRUE
+e8a3e0fa-7534-44fc-90ed-834ab69e8b5a,MSME00112,Limited Edition Shirts 112,Mens_Clothing,Shirts,Limited Edition,3.8,2.29,31/08/2024,Green,XS,Blend,TRUE
+8e13b16c-505d-49bf-bade-b34d9daffec2,MSME00113,Limited Edition Trousers 113,Mens_Clothing,Trousers,Limited Edition,11.08,5.17,11/04/2025,Beige,L,Wool,TRUE
+e4cfbb3f-188a-4705-962c-1664ada7f502,MSFO00114,Essential Deli 114,Food,Deli,Essential,8.2,4.77,15/04/2025,Red,S,Wool,TRUE
+0946b73f-eb8f-4ec3-854e-5cb4b2f7908a,MSME00115,M&S Collection Knitwear 115,Mens_Clothing,Knitwear,M&S Collection,13.7,10.64,12/11/2024,Beige,XL,Polyester,TRUE
+c33ad527-3aec-414b-92fc-8b7e33772236,MSWO00116,Essential Leggings 116,Womens_Clothing,Leggings,Essential,17.54,8.89,15/05/2025,Beige,S,Blend,TRUE
+a7654b20-94ed-4604-bd4c-4de55b758a0b,MSBE00117,M&S Collection Skincare 117,Beauty,Skincare,M&S Collection,27.63,21.56,23/04/2025,White,M,Silk,TRUE
+64c2b444-656b-4f51-8a71-20e22c130088,MSHO00118,M&S Collection Kitchen 118,Home,Kitchen,M&S Collection,12.97,10.1,07/01/2025,Green,L,Cotton,TRUE
+8f073609-0264-4ccf-a3ea-c58489014e77,MSBE00119,Autograph Haircare 119,Beauty,Haircare,Autograph,8.61,5.92,18/01/2025,White,OneSize,Blend,TRUE
+7754e460-da91-4d74-a791-93954e495cf1,MSME00120,Essential Shorts 120,Mens_Clothing,Shorts,Essential,7,4.49,17/11/2024,Red,S,Cotton,TRUE
+05f236c9-e81e-45b3-baf2-458f638aa4d7,MSBE00121,Limited Edition Bath 121,Beauty,Bath,Limited Edition,81.47,54.51,12/10/2024,Multi,XL,Silk,TRUE
+4e8624c5-1821-456e-84a7-3266c3811df5,MSBE00122,Foodies Fragrance 122,Beauty,Fragrance,Foodies,15.69,7.45,29/04/2025,Green,XL,Linen,TRUE
+eb508223-3819-4387-a47a-7c6a8065c059,MSWO00123,Limited Edition Tops 123,Womens_Clothing,Tops,Limited Edition,6.96,4.07,06/11/2024,Green,OneSize,Cotton,TRUE
+278bffa5-1cc1-4f8c-8c10-1c518170e5a1,MSME00124,Autograph Shorts 124,Mens_Clothing,Shorts,Autograph,4,2.49,18/06/2025,Blue,XS,Silk,TRUE
+5fe32408-adbc-4daa-bb85-728ef747fc82,MSFO00125,Essential Bakery 125,Food,Bakery,Essential,5.8,4.02,22/10/2024,Red,S,Wool,TRUE
+1631ffdd-d651-45da-a79a-c5825b3ceaa4,MSBE00126,Limited Edition Skincare 126,Beauty,Skincare,Limited Edition,16.87,12.34,14/04/2025,Green,OneSize,Linen,TRUE
+fd68dfe8-fcde-4c0b-9e0a-e7bac336f88f,MSME00127,Autograph Outerwear 127,Mens_Clothing,Outerwear,Autograph,20.56,13.2,31/07/2025,White,S,Blend,TRUE
+238e4252-241c-4ce5-9cc9-9407d5969104,MSHO00128,Autograph Kitchen 128,Home,Kitchen,Autograph,23.87,19.02,13/09/2024,Red,S,Wool,TRUE
+134717b6-3989-4318-a557-1a884d5320d9,MSFO00129,Beauty Line Ambient 129,Food,Ambient,Beauty Line,21.1,12.24,12/11/2024,Red,L,Blend,TRUE
+3e5b7a24-2a2c-4478-81f9-7c84b78e01d4,MSBE00130,Beauty Line Fragrance 130,Beauty,Fragrance,Beauty Line,19.93,14.96,07/02/2025,Black,XS,Linen,TRUE
+c3b4277d-5b3d-4518-8eed-f787bfd0ae50,MSBE00131,Essential Fragrance 131,Beauty,Fragrance,Essential,10.16,7.24,13/03/2025,Red,XS,Polyester,FALSE
+2950385f-f1bd-436c-89cd-e34af225c898,MSFO00132,M&S Collection Deli 132,Food,Deli,M&S Collection,6.93,4.41,31/10/2024,Multi,OneSize,Wool,TRUE
+6dcfdd7a-f840-43f5-a22e-f5db6c48a227,MSME00133,Beauty Line Outerwear 133,Mens_Clothing,Outerwear,Beauty Line,3.64,2.69,16/07/2025,Green,S,Linen,TRUE
+51a40be3-8c09-442e-9171-f346bb2a7b16,MSBE00134,Beauty Line Skincare 134,Beauty,Skincare,Beauty Line,7.17,3.36,29/03/2025,Green,L,Wool,TRUE
+270ad691-053f-41c9-827e-880a3e9f3242,MSWO00135,Home Range Tops 135,Womens_Clothing,Tops,Home Range,9.31,6.95,30/04/2025,Black,OneSize,Silk,TRUE
+594246ea-7ab2-45e2-89cc-86a6c2b96200,MSBE00136,M&S Collection Bath 136,Beauty,Bath,M&S Collection,16.31,12.77,13/07/2025,Black,XS,Wool,TRUE
+06b41a88-473e-44fd-89cb-b611f4c49b59,MSWO00137,M&S Collection Coats 137,Womens_Clothing,Coats,M&S Collection,10.84,6.75,30/12/2024,Beige,XL,Silk,TRUE
+de74ba93-8d37-4a17-8e75-6105c95d9926,MSME00138,Home Range Shorts 138,Mens_Clothing,Shorts,Home Range,2.43,1.37,30/09/2024,White,L,Blend,TRUE
+6ac0eed2-33b6-451a-9841-8f230d2fb78c,MSWO00139,Essential Tops 139,Womens_Clothing,Tops,Essential,8.15,5.93,04/10/2024,White,S,Wool,TRUE
+37d6df98-c8bd-43ed-b9bd-5b90359a01c0,MSBE00140,M&S Collection Skincare 140,Beauty,Skincare,M&S Collection,62.32,49.17,17/08/2024,Beige,XL,Polyester,TRUE
+bc40814d-6984-4cb8-9b04-549bd1eaeea7,MSHO00141,M&S Collection Storage 141,Home,Storage,M&S Collection,17.53,12.56,18/04/2025,White,L,Cotton,TRUE
+81c05f3c-8667-49fa-a8d0-aaca0913a8b9,MSWO00142,Autograph Coats 142,Womens_Clothing,Coats,Autograph,9.65,5.09,18/05/2025,Beige,S,Silk,FALSE
+d9bacfea-2c93-4521-99ad-1673670f6169,MSHO00143,Essential Storage 143,Home,Storage,Essential,35.34,24.64,13/08/2024,Black,L,Silk,TRUE
+e40d3027-e11c-4f62-83b3-db6374f973d9,MSFO00144,Foodies Fresh 144,Food,Fresh,Foodies,2.93,1.91,08/08/2025,Blue,XL,Linen,TRUE
+6f65580c-17bf-4cce-8f5b-7f8395703ed9,MSME00145,Essential Shirts 145,Mens_Clothing,Shirts,Essential,13.08,7.58,31/12/2024,Multi,L,Wool,FALSE
+a249f378-b65a-4cba-99a9-6e7b94c67634,MSFO00146,M&S Collection Ambient 146,Food,Ambient,M&S Collection,6.7,3.21,07/08/2025,Green,OneSize,Wool,TRUE
+fd730f8a-ebc9-46f5-85d7-5e366aefa234,MSFO00147,Per Una Bakery 147,Food,Bakery,Per Una,41.43,26.74,07/11/2024,Black,XL,Silk,TRUE
+aef7238c-2972-4760-b6f1-7fd707cc3c74,MSFO00148,Foodies Deli 148,Food,Deli,Foodies,5.97,3.59,28/01/2025,Black,M,Polyester,FALSE
+b635a2c9-05f9-421c-b3d5-9ae06c522139,MSME00149,Foodies Shorts 149,Mens_Clothing,Shorts,Foodies,4.24,1.92,16/03/2025,Blue,L,Cotton,TRUE
+fe1b122c-832c-4203-a829-3d699851b6aa,MSBE00150,Foodies Haircare 150,Beauty,Haircare,Foodies,50.97,36.62,04/08/2025,Beige,OneSize,Polyester,TRUE
+bd1bada5-b889-4bc1-a76e-b9794f6b8f52,MSWO00151,Home Range Tops 151,Womens_Clothing,Tops,Home Range,18.62,13.23,22/07/2025,Multi,XS,Silk,TRUE
+6dd5753e-5bd2-4f73-9adc-87569aa87bc3,MSBE00152,Per Una Skincare 152,Beauty,Skincare,Per Una,11.05,6.08,16/06/2025,Black,OneSize,Polyester,TRUE
+0ef955d4-e0aa-4fca-91fb-135fc1332f73,MSHO00153,Foodies Decor 153,Home,Decor,Foodies,17.49,11.1,03/12/2024,Beige,XS,Wool,TRUE
+e8fd076a-1be4-4685-9142-25ad98809420,MSFO00154,Home Range Bakery 154,Food,Bakery,Home Range,12.97,10.34,25/03/2025,Beige,OneSize,Silk,TRUE
+cb853220-ff09-44fd-aaf6-cb8c46ee2557,MSWO00155,Autograph Leggings 155,Womens_Clothing,Leggings,Autograph,29.52,15.9,02/01/2025,Blue,OneSize,Blend,FALSE
+3baf1047-3918-4f69-8c56-3887f792502e,MSME00156,Foodies Shirts 156,Mens_Clothing,Shirts,Foodies,12.45,8.35,22/08/2024,Red,OneSize,Blend,TRUE
+f0e6af51-f296-413b-ab7f-fbb363ede5a1,MSBE00157,Essential Makeup 157,Beauty,Makeup,Essential,19.07,10.55,09/08/2024,Red,XS,Wool,TRUE
+2a11921e-a956-4f2a-a86b-605e7e87c5ce,MSHO00158,Home Range Decor 158,Home,Decor,Home Range,35.89,27.47,20/08/2024,Black,S,Polyester,TRUE
+c312e7ce-b442-42e2-b297-47b05036d66b,MSFO00159,Per Una Fresh 159,Food,Fresh,Per Una,62.46,49.07,07/05/2025,Blue,XS,Linen,TRUE
+7591cd91-a2d1-491d-94e8-a7ade08714fb,MSFO00160,Beauty Line Fresh 160,Food,Fresh,Beauty Line,11.02,7.35,16/08/2024,White,S,Polyester,TRUE
+f9309955-7e4e-4fff-8f61-8a189de1cf16,MSHO00161,Essential Furniture 161,Home,Furniture,Essential,29.33,14.94,19/01/2025,Beige,XS,Silk,FALSE
+13d5e078-59a1-4211-b500-38fc7f87a25f,MSFO00162,Autograph Fresh 162,Food,Fresh,Autograph,1.8,1.18,16/03/2025,Black,M,Linen,TRUE
+7dada7e8-87ae-40e2-9353-3c0255febc97,MSBE00163,Beauty Line Fragrance 163,Beauty,Fragrance,Beauty Line,7.59,4.37,24/03/2025,Multi,M,Polyester,FALSE
+22f5936a-367c-4a1f-a985-3530152cee30,MSBE00164,Limited Edition Skincare 164,Beauty,Skincare,Limited Edition,2.18,1.6,16/03/2025,Black,XL,Wool,TRUE
+8a1a1856-7d1f-4c90-a354-270946988af9,MSHO00165,Foodies Bedding 165,Home,Bedding,Foodies,16.88,9.2,23/09/2024,Green,XS,Linen,TRUE
+4fa212be-6b5a-4461-b4a0-f9da35e20619,MSWO00166,Beauty Line Leggings 166,Womens_Clothing,Leggings,Beauty Line,55.49,42.82,18/08/2024,Multi,M,Polyester,TRUE
+81443ff9-0086-49da-8a25-fb970cc94d3d,MSHO00167,Limited Edition Kitchen 167,Home,Kitchen,Limited Edition,2.57,2,07/04/2025,White,M,Blend,TRUE
+d91449a1-4fee-4a85-97c1-43463aecf2c8,MSME00168,M&S Collection Shirts 168,Mens_Clothing,Shirts,M&S Collection,4.02,2.39,12/10/2024,Green,L,Cotton,TRUE
+6bdf5d34-c69f-4bb1-87e2-89db4a1499b4,MSME00169,Essential Shirts 169,Mens_Clothing,Shirts,Essential,14.45,8.93,04/04/2025,Green,OneSize,Silk,TRUE
+66f16535-f89a-457f-a133-9115692c7b12,MSME00170,Home Range Shorts 170,Mens_Clothing,Shorts,Home Range,15.89,9.27,16/07/2025,White,XL,Wool,TRUE
+d158669f-79a3-460c-a81e-e7e9df877d72,MSHO00171,Essential Furniture 171,Home,Furniture,Essential,4.54,3.36,01/02/2025,Beige,M,Cotton,TRUE
+86993acd-bf2f-4fe3-afc6-a35eb915f34d,MSWO00172,Limited Edition Tops 172,Womens_Clothing,Tops,Limited Edition,10.99,6.54,15/06/2025,Multi,OneSize,Blend,TRUE
+c89c021b-af2b-4cfc-89c5-6f9a13158cfc,MSBE00173,Home Range Bath 173,Beauty,Bath,Home Range,37.12,27.94,21/02/2025,Red,L,Cotton,TRUE
+62b0e781-b17d-457d-af89-6e56deeadede,MSWO00174,Home Range Coats 174,Womens_Clothing,Coats,Home Range,47.68,37.22,30/10/2024,Beige,OneSize,Blend,TRUE
+c0dc5d26-6ed8-44a0-bf91-5f4d76b79316,MSBE00175,Autograph Fragrance 175,Beauty,Fragrance,Autograph,16.14,8.66,25/10/2024,Beige,S,Silk,TRUE
+e346d9de-1489-409b-a53f-8553569d6247,MSFO00176,Limited Edition Ambient 176,Food,Ambient,Limited Edition,6.75,3.69,25/04/2025,Beige,XS,Blend,TRUE
+fef7b8f3-d8fa-4abd-ab41-92ab68c5d3b4,MSHO00177,Autograph Furniture 177,Home,Furniture,Autograph,6.04,3.2,23/05/2025,Blue,XS,Cotton,TRUE
+7b444151-8a5a-4b86-8ac8-5384f99bdaff,MSBE00178,Autograph Skincare 178,Beauty,Skincare,Autograph,12.16,7.5,24/04/2025,Blue,XL,Polyester,TRUE
+c1ea504e-89b8-4635-b2f9-0aef2c452380,MSHO00179,Foodies Storage 179,Home,Storage,Foodies,8.3,5.25,03/05/2025,White,OneSize,Blend,TRUE
+3637806e-1f74-48cc-b6bd-f43cc9589307,MSBE00180,Beauty Line Skincare 180,Beauty,Skincare,Beauty Line,7.34,4.38,25/03/2025,White,L,Wool,TRUE
+cb806ba2-528a-48f8-b936-5aae77f3f784,MSHO00181,Beauty Line Kitchen 181,Home,Kitchen,Beauty Line,119.74,79.88,13/10/2024,Black,S,Wool,TRUE
+9103a06b-3bfb-4319-b3ec-9afc3f2c8c8c,MSHO00182,Home Range Storage 182,Home,Storage,Home Range,14.63,9.7,12/07/2025,Red,L,Wool,TRUE
+64446ed6-cb70-482e-a931-dc06bd2dac09,MSWO00183,Autograph Coats 183,Womens_Clothing,Coats,Autograph,12.74,7.48,21/07/2025,Beige,S,Blend,TRUE
+8753ecf8-76d9-4ca8-bfe2-aaa4f8bb1466,MSWO00184,Home Range Dresses 184,Womens_Clothing,Dresses,Home Range,15.27,9.8,09/07/2025,Blue,S,Linen,TRUE
+61940ed2-6246-474e-ae4b-9776d662ec94,MSFO00185,Limited Edition Fresh 185,Food,Fresh,Limited Edition,8.1,4.77,12/04/2025,Multi,S,Wool,TRUE
+b83b848b-013f-46d2-81bd-daa44a0584fa,MSFO00186,Essential Frozen 186,Food,Frozen,Essential,67.72,49.35,24/12/2024,Multi,S,Polyester,TRUE
+9f5b5548-f895-428d-9e6b-20401f7aa4cf,MSME00187,M&S Collection Shirts 187,Mens_Clothing,Shirts,M&S Collection,14.95,11.58,04/07/2025,Blue,XS,Wool,TRUE
+31661316-a931-4828-a36c-01fd83146f9b,MSME00188,Home Range Shorts 188,Mens_Clothing,Shorts,Home Range,13.67,7.81,12/12/2024,Red,S,Wool,TRUE
+67131c14-e921-4244-b1ff-82df4e7d3c7c,MSBE00189,Autograph Bath 189,Beauty,Bath,Autograph,7.9,5.31,05/04/2025,Beige,XS,Silk,TRUE
+fffa911c-2e87-4c96-a270-de985e78330b,MSHO00190,Autograph Storage 190,Home,Storage,Autograph,18.85,11.52,10/07/2025,Black,XL,Polyester,FALSE
+16de2e34-37b6-4eea-8781-3249763fc57a,MSWO00191,Essential Leggings 191,Womens_Clothing,Leggings,Essential,1.9,0.96,16/08/2024,Black,OneSize,Cotton,TRUE
+f6d8748c-a12c-45a7-9947-cc27c379b8f6,MSBE00192,Foodies Haircare 192,Beauty,Haircare,Foodies,20.17,11.98,26/07/2025,Beige,XS,Silk,TRUE
+c70b6762-97d3-44b0-a6d3-658cdd1a8161,MSBE00193,Autograph Skincare 193,Beauty,Skincare,Autograph,5.36,3.3,09/11/2024,Green,XL,Polyester,TRUE
+34c9d9fd-754a-4092-89ff-0991f2cc6023,MSHO00194,Home Range Storage 194,Home,Storage,Home Range,13.05,6.89,12/05/2025,Black,XL,Linen,TRUE
+6b05edc4-1117-4507-b529-f946f80cf981,MSFO00195,Foodies Deli 195,Food,Deli,Foodies,16.74,8.52,08/11/2024,Red,OneSize,Cotton,TRUE
+fa36e406-9070-48e5-9077-96b532f31a30,MSFO00196,Foodies Fresh 196,Food,Fresh,Foodies,9.85,6.32,19/12/2024,Black,S,Silk,TRUE
+78039307-f3a3-48b5-b5a1-4c86663e99d2,MSBE00197,Foodies Haircare 197,Beauty,Haircare,Foodies,11.37,6.95,20/07/2025,Beige,XS,Wool,TRUE
+5acd018d-676d-4589-9fef-21b680f8da96,MSHO00198,Per Una Decor 198,Home,Decor,Per Una,4.07,1.96,24/09/2024,Beige,L,Cotton,TRUE
+d996b68f-a192-4fa0-8ba6-cf27f285222b,MSWO00199,Foodies Dresses 199,Womens_Clothing,Dresses,Foodies,4.29,2.87,04/04/2025,Red,OneSize,Blend,TRUE
+c23a93a8-8a3a-4093-a5d9-0a599477b11d,MSME00200,M&S Collection Shorts 200,Mens_Clothing,Shorts,M&S Collection,4.04,2.35,11/07/2025,White,XL,Linen,TRUE
+09239ce1-0b0e-43eb-a697-0da0d64b808e,MSWO00201,Home Range Coats 201,Womens_Clothing,Coats,Home Range,12.65,6.92,22/04/2025,Multi,OneSize,Silk,TRUE
+a1327dca-c5ba-409d-a062-99dcfb892074,MSWO00202,Essential Knitwear 202,Womens_Clothing,Knitwear,Essential,14.34,11.4,07/06/2025,Green,XS,Linen,TRUE
+5d2c3050-479f-418f-b7fd-6832284a08ac,MSME00203,Limited Edition Outerwear 203,Mens_Clothing,Outerwear,Limited Edition,6.06,3.51,10/03/2025,Multi,XS,Wool,TRUE
+74a00aaf-c14e-4b79-ab8b-2a41ae84922c,MSHO00204,Essential Bedding 204,Home,Bedding,Essential,24.33,15.47,08/08/2025,White,S,Silk,TRUE
+542d2dba-c4f6-4aed-bf87-95a3f3bd8cff,MSFO00205,M&S Collection Deli 205,Food,Deli,M&S Collection,6.04,2.85,11/02/2025,White,OneSize,Blend,TRUE
+73f4b6f7-ad12-4ca8-b6b7-d7200539c698,MSME00206,Essential Knitwear 206,Mens_Clothing,Knitwear,Essential,26.21,20.01,03/04/2025,Green,M,Cotton,TRUE
+65a455ee-8a88-40eb-9573-ff16bd4fb3e9,MSME00207,Foodies Shorts 207,Mens_Clothing,Shorts,Foodies,5.01,3.57,09/05/2025,Red,S,Blend,TRUE
+85e53fb5-7ea4-48dc-83c6-d2d103dd9a87,MSWO00208,Limited Edition Dresses 208,Womens_Clothing,Dresses,Limited Edition,48.01,25.68,05/12/2024,Black,L,Silk,TRUE
+d703bb47-e58c-4f9b-b131-48b412429795,MSHO00209,Home Range Decor 209,Home,Decor,Home Range,1.33,0.77,26/02/2025,Multi,XL,Linen,TRUE
+37fce5c6-62ee-4eab-8531-8249c3b825a6,MSWO00210,Per Una Tops 210,Womens_Clothing,Tops,Per Una,35.54,17.1,12/12/2024,Multi,XL,Cotton,TRUE
+c913e372-3506-460d-8473-12c467542c53,MSHO00211,Foodies Furniture 211,Home,Furniture,Foodies,14.89,7.32,31/12/2024,Black,XL,Silk,TRUE
+3a9d83ef-5103-4df6-9867-69296a0bc2fa,MSME00212,Autograph Shorts 212,Mens_Clothing,Shorts,Autograph,8.89,5.11,29/03/2025,Green,L,Cotton,TRUE
+04c7f399-55d6-435e-bfdf-9a4a8e77f2a0,MSFO00213,Essential Bakery 213,Food,Bakery,Essential,1.82,1.14,27/11/2024,Red,S,Silk,FALSE
+cce674bb-bf9f-4fbf-8d03-2d7be7b43c51,MSWO00214,Limited Edition Dresses 214,Womens_Clothing,Dresses,Limited Edition,49.73,32.09,01/04/2025,Green,S,Polyester,TRUE
+db2bfe69-cb8b-4039-9e25-2cf6d4e64c5f,MSHO00215,Autograph Decor 215,Home,Decor,Autograph,20.09,9.94,17/11/2024,Red,L,Blend,TRUE
+fdb9d7f2-ea53-4a20-98cc-ac94718ed8cd,MSME00216,Limited Edition Outerwear 216,Mens_Clothing,Outerwear,Limited Edition,42.78,27.8,19/06/2025,White,XL,Blend,TRUE
+fe63e9cb-a3fe-4cf1-8fe3-d9951798c10c,MSWO00217,M&S Collection Coats 217,Womens_Clothing,Coats,M&S Collection,3.75,2.98,25/03/2025,Black,XS,Silk,FALSE
+a089dd8d-b493-4b1a-9419-f14c882ec3e2,MSHO00218,Foodies Storage 218,Home,Storage,Foodies,6.99,4.34,24/07/2025,White,L,Blend,TRUE
+18b42f02-16c2-4dcc-a637-0307fcfa4821,MSHO00219,Foodies Bedding 219,Home,Bedding,Foodies,3.92,2.02,22/06/2025,Red,M,Polyester,TRUE
+2f1ea48a-f22a-4647-be11-0410b3d236cc,MSFO00220,Home Range Bakery 220,Food,Bakery,Home Range,24.97,11.28,04/12/2024,Red,L,Cotton,TRUE
+d3034f30-afbb-4522-baff-a92dbfbfd4cb,MSFO00221,Autograph Bakery 221,Food,Bakery,Autograph,13.88,7.5,09/10/2024,Black,M,Blend,TRUE
+2ce69d58-cc25-46df-baa2-ec75cfa45e56,MSHO00222,Autograph Kitchen 222,Home,Kitchen,Autograph,13.32,8.66,28/01/2025,White,OneSize,Cotton,TRUE
+88a44133-453b-4dd0-a559-4d32a59bfd69,MSME00223,Home Range Knitwear 223,Mens_Clothing,Knitwear,Home Range,23.96,17.23,30/06/2025,Beige,OneSize,Polyester,TRUE
+11970e90-4be5-46c4-aade-573f56c756a5,MSME00224,Limited Edition Knitwear 224,Mens_Clothing,Knitwear,Limited Edition,21.68,13.78,09/08/2024,Blue,XL,Polyester,TRUE
+ecedb685-897f-4c19-b695-f77bead63de5,MSWO00225,Beauty Line Tops 225,Womens_Clothing,Tops,Beauty Line,5.85,3.88,24/06/2025,Black,XL,Linen,TRUE
+39cb5824-c08c-495f-8590-b4011fc13c01,MSFO00226,Home Range Deli 226,Food,Deli,Home Range,12.33,9.57,07/07/2025,Multi,OneSize,Wool,TRUE
+c756a5b5-b784-4f55-b356-3a7f0965dc4f,MSWO00227,Beauty Line Coats 227,Womens_Clothing,Coats,Beauty Line,5.54,3.53,16/01/2025,Beige,M,Wool,TRUE
+23c0a470-6e63-40f9-934e-64c76ddadc97,MSHO00228,Autograph Storage 228,Home,Storage,Autograph,6.21,3.99,24/12/2024,Green,L,Silk,TRUE
+d3a25136-8d3d-4726-9044-cb0f07444027,MSHO00229,Autograph Decor 229,Home,Decor,Autograph,1.78,1.42,21/08/2024,Beige,XS,Linen,TRUE
+2db13d76-f20e-4b4c-b270-edc97e12bae5,MSBE00230,M&S Collection Haircare 230,Beauty,Haircare,M&S Collection,7.21,3.59,03/07/2025,Black,XL,Blend,TRUE
+b8f44d01-f112-4b8f-a75c-c6b7e7c68108,MSFO00231,Per Una Bakery 231,Food,Bakery,Per Una,15.41,11.03,15/09/2024,Red,L,Cotton,TRUE
+ed21fcad-87c2-4ecd-85d1-47bc359fa108,MSHO00232,Per Una Bedding 232,Home,Bedding,Per Una,2.48,1.92,22/06/2025,Red,S,Blend,TRUE
+e26a96bc-c1f6-4d85-a59f-ad2930626529,MSBE00233,Per Una Bath 233,Beauty,Bath,Per Una,4.81,3.42,08/07/2025,Green,M,Wool,TRUE
+455fe0c1-8b8c-4974-aa5a-c7356b8f2971,MSHO00234,M&S Collection Storage 234,Home,Storage,M&S Collection,7.71,5.97,24/06/2025,Multi,OneSize,Blend,TRUE
+105a3e10-1229-47a9-8bf1-374f23b615e7,MSHO00235,Foodies Bedding 235,Home,Bedding,Foodies,3.98,2.59,24/06/2025,Green,M,Blend,TRUE
+dd1024ba-b622-4452-9f1d-9a5f6b025109,MSFO00236,Home Range Fresh 236,Food,Fresh,Home Range,20.52,14.62,20/06/2025,Red,XL,Blend,TRUE
+6dcb3faa-81de-4d5a-ae93-a0a3af17bf00,MSHO00237,Foodies Decor 237,Home,Decor,Foodies,19.06,9.67,09/03/2025,Blue,XL,Blend,FALSE
+06f1f318-6c37-4cd0-b0d0-8ee45bed94aa,MSHO00238,Foodies Storage 238,Home,Storage,Foodies,7.27,4.88,09/10/2024,Beige,M,Polyester,TRUE
+23e6d561-abe9-4d81-99cd-cd1a6a8a4ff6,MSFO00239,Foodies Frozen 239,Food,Frozen,Foodies,6.6,3.8,02/04/2025,White,M,Cotton,TRUE
+4385ab38-292e-4a09-ae54-c791360152ea,MSME00240,Home Range Trousers 240,Mens_Clothing,Trousers,Home Range,56.73,34.5,20/11/2024,Multi,L,Polyester,TRUE
+8e0acab3-5334-408a-bda2-3ab09dd7d121,MSME00241,Autograph Trousers 241,Mens_Clothing,Trousers,Autograph,25.6,14.9,03/02/2025,Green,XS,Linen,TRUE
+a069e2a3-26f0-42df-8059-010237f7181e,MSFO00242,Home Range Frozen 242,Food,Frozen,Home Range,23.04,13.91,08/01/2025,Multi,XL,Polyester,TRUE
+bcbe3920-3ed1-4170-823b-253e38cc0ba4,MSME00243,Per Una Trousers 243,Mens_Clothing,Trousers,Per Una,88.91,51.07,13/06/2025,Multi,OneSize,Linen,TRUE
+41552317-0658-420e-9ad3-cefe47827c8d,MSME00244,M&S Collection Outerwear 244,Mens_Clothing,Outerwear,M&S Collection,15.06,7.39,20/12/2024,Black,M,Blend,TRUE
+0b282018-3fe8-401f-afb2-8ce925cc7eb2,MSBE00245,Essential Bath 245,Beauty,Bath,Essential,24.38,13.81,03/02/2025,Multi,OneSize,Silk,TRUE
+b9ab5e68-a199-4eb9-aaac-cd75b22dea34,MSME00246,Beauty Line Knitwear 246,Mens_Clothing,Knitwear,Beauty Line,5.54,4.03,12/01/2025,Multi,S,Wool,TRUE
+bb5746a1-0050-4fa0-b90a-6d2abac84967,MSFO00247,Beauty Line Bakery 247,Food,Bakery,Beauty Line,8.5,5.3,27/03/2025,Multi,M,Silk,TRUE
+489d5303-7df0-4c5f-8bee-46cbac2d1b30,MSBE00248,Limited Edition Makeup 248,Beauty,Makeup,Limited Edition,25.67,18.55,24/05/2025,Multi,XL,Polyester,TRUE
+0baaa20c-dac0-4a8c-9848-31840f9058cf,MSWO00249,Home Range Coats 249,Womens_Clothing,Coats,Home Range,30.23,13.96,02/11/2024,White,XS,Blend,TRUE
+526816e6-0e45-4704-82e5-82e78c1786b0,MSWO00250,Autograph Knitwear 250,Womens_Clothing,Knitwear,Autograph,11.63,8.31,04/12/2024,Multi,S,Wool,TRUE
+672ffaad-f3e0-46c6-bfb5-0325e35b7600,MSFO00251,Foodies Fresh 251,Food,Fresh,Foodies,63.87,47.1,14/01/2025,Red,S,Silk,TRUE
+43204165-4982-481d-bcf4-4e6734f9b624,MSWO00252,M&S Collection Coats 252,Womens_Clothing,Coats,M&S Collection,6.04,3.99,23/08/2024,Black,XL,Wool,TRUE
+73d92723-c04e-4e54-9059-29b88b7f5098,MSWO00253,Limited Edition Knitwear 253,Womens_Clothing,Knitwear,Limited Edition,1.69,1.23,26/04/2025,Red,M,Cotton,TRUE
+d39636ca-d5bd-4f93-b838-287b7474756a,MSHO00254,Per Una Kitchen 254,Home,Kitchen,Per Una,1.2,0.86,11/11/2024,Red,M,Silk,TRUE
+3e5cb5a4-9934-4a16-a563-fc858442ab4c,MSME00255,Beauty Line Outerwear 255,Mens_Clothing,Outerwear,Beauty Line,8.61,5.68,27/05/2025,White,XS,Cotton,TRUE
+66ee96d5-ad6e-4b85-9db8-dcd1d53c50aa,MSME00256,Foodies Trousers 256,Mens_Clothing,Trousers,Foodies,23.25,17.19,19/04/2025,Red,M,Polyester,TRUE
+08521c71-f93a-4348-9b19-54e1ec82144b,MSWO00257,Foodies Tops 257,Womens_Clothing,Tops,Foodies,49.94,38.35,15/09/2024,Beige,XL,Silk,TRUE
+92139bc7-d220-44ac-ab84-1f02132a0903,MSBE00258,M&S Collection Bath 258,Beauty,Bath,M&S Collection,8.45,4.65,06/08/2025,Beige,XL,Linen,TRUE
+31f62c05-c263-43d4-ae55-17b562c4bc62,MSME00259,Foodies Knitwear 259,Mens_Clothing,Knitwear,Foodies,3.3,1.66,27/12/2024,Red,XL,Wool,TRUE
+5e950902-4570-40f3-ab2e-f43c7d6130b4,MSBE00260,Autograph Makeup 260,Beauty,Makeup,Autograph,26.6,17.49,30/07/2025,White,M,Cotton,FALSE
+2fcf01f0-56df-4bfe-b4af-3464d4c1f53a,MSFO00261,M&S Collection Deli 261,Food,Deli,M&S Collection,5.24,4.04,19/12/2024,Black,L,Cotton,TRUE
+31703571-9f9f-4eff-92f2-436a2d30601e,MSHO00262,M&S Collection Decor 262,Home,Decor,M&S Collection,14.81,7.46,08/11/2024,Green,XS,Wool,TRUE
+58c9401b-0a08-48bf-96ed-502bc787037b,MSWO00263,Home Range Leggings 263,Womens_Clothing,Leggings,Home Range,18.14,10.54,28/09/2024,Blue,XS,Wool,TRUE
+beef35a2-6140-487d-b3bc-d61e4a468c6f,MSME00264,Beauty Line Outerwear 264,Mens_Clothing,Outerwear,Beauty Line,14.38,11.13,22/04/2025,Beige,S,Polyester,TRUE
+00d0aeab-f769-4982-a593-caec41ce6f73,MSBE00265,Essential Skincare 265,Beauty,Skincare,Essential,13.33,6.53,20/07/2025,Blue,XS,Polyester,TRUE
+4dcb25c6-8bbe-4584-89a5-45ec49298c72,MSHO00266,Foodies Decor 266,Home,Decor,Foodies,119.68,70.57,13/06/2025,Multi,XL,Silk,TRUE
+db8481fe-ff8d-4e99-8618-9b75e7020359,MSME00267,Home Range Knitwear 267,Mens_Clothing,Knitwear,Home Range,19.52,11.07,17/06/2025,Multi,XS,Blend,TRUE
+6072b863-bb8a-4eef-9c09-119f7dda56a1,MSWO00268,Foodies Knitwear 268,Womens_Clothing,Knitwear,Foodies,26.23,20.25,06/03/2025,Black,OneSize,Silk,TRUE
+7b686c6e-92a3-46ca-90fa-5bd4ab0d5e2d,MSBE00269,Per Una Fragrance 269,Beauty,Fragrance,Per Una,1.51,0.93,21/07/2025,Black,OneSize,Silk,TRUE
+980d3499-1d8f-4ed4-8b97-601d607fbea9,MSFO00270,Autograph Ambient 270,Food,Ambient,Autograph,3.15,1.92,03/02/2025,Beige,L,Cotton,TRUE
+9fa3718a-cf2c-48d1-8380-f731cfede499,MSME00271,Essential Shorts 271,Mens_Clothing,Shorts,Essential,9.63,5.17,02/09/2024,Green,XS,Cotton,TRUE
+2e1e6b80-48c8-4626-8a3f-29b4449ccdd3,MSHO00272,Beauty Line Decor 272,Home,Decor,Beauty Line,1.08,0.83,01/02/2025,White,OneSize,Silk,TRUE
+4f00fb1a-6776-4582-9816-cee1ff40135c,MSBE00273,Beauty Line Fragrance 273,Beauty,Fragrance,Beauty Line,11.6,8.39,05/01/2025,Red,OneSize,Wool,TRUE
+456a69c0-8f69-4b53-960c-acce1f362db0,MSBE00274,M&S Collection Fragrance 274,Beauty,Fragrance,M&S Collection,6.65,4.19,11/07/2025,Red,OneSize,Blend,TRUE
+6bff7dea-142d-49c0-9b91-45081acf22c7,MSFO00275,M&S Collection Fresh 275,Food,Fresh,M&S Collection,6.76,5.32,01/02/2025,Blue,XL,Blend,TRUE
+6074c366-4a95-47a1-9ddb-882e46fe6787,MSWO00276,Autograph Tops 276,Womens_Clothing,Tops,Autograph,33,21.03,03/08/2025,Blue,OneSize,Wool,TRUE
+acd1b071-3a4b-4bd1-965b-015c7e189657,MSFO00277,Per Una Frozen 277,Food,Frozen,Per Una,14.27,8.93,22/04/2025,Beige,L,Wool,TRUE
+8df8e0f5-11c6-4a6f-b38e-945636c471fd,MSWO00278,Per Una Leggings 278,Womens_Clothing,Leggings,Per Una,5.56,3.33,07/03/2025,White,M,Silk,TRUE
+bc227de0-9bb8-4dec-9fb1-69e8905aee0e,MSHO00279,Autograph Kitchen 279,Home,Kitchen,Autograph,2.86,1.64,13/01/2025,Red,OneSize,Polyester,TRUE
+bd8d799e-d309-4f06-8987-b1a5725a68d9,MSBE00280,Autograph Bath 280,Beauty,Bath,Autograph,123.09,58.22,25/10/2024,Green,M,Blend,TRUE
+908eb6b1-dce7-4d48-87ad-35fce483b796,MSFO00281,Beauty Line Ambient 281,Food,Ambient,Beauty Line,4.5,3.15,18/02/2025,Blue,XS,Polyester,TRUE
+f4d52145-52c3-416c-9848-417c006b4a90,MSBE00282,Beauty Line Makeup 282,Beauty,Makeup,Beauty Line,3.06,1.91,23/06/2025,Red,OneSize,Wool,TRUE
+0347d8db-37f0-4a38-83cf-a4c76b52451a,MSWO00283,Essential Leggings 283,Womens_Clothing,Leggings,Essential,150.87,73.33,29/04/2025,Green,S,Blend,TRUE
+52716aa5-d7ef-4d49-a82f-f39841a17261,MSME00284,Limited Edition Knitwear 284,Mens_Clothing,Knitwear,Limited Edition,3.43,2.32,03/11/2024,Red,S,Polyester,TRUE
+58f4081d-eec7-45b6-a426-fe5c9d60e7bd,MSBE00285,Home Range Skincare 285,Beauty,Skincare,Home Range,6.05,4.8,23/05/2025,White,XL,Wool,TRUE
+cd9e657f-9dbc-4595-ac7d-2f12f582dd98,MSFO00286,Autograph Fresh 286,Food,Fresh,Autograph,28.28,12.99,12/04/2025,Red,M,Silk,FALSE
+25ecdbc2-76aa-479e-9723-882a9831eac8,MSBE00287,Foodies Bath 287,Beauty,Bath,Foodies,38.26,20.62,20/04/2025,Multi,L,Linen,TRUE
+b95ab3f4-3a72-4a07-b6c2-fa2337e5813a,MSHO00288,Beauty Line Bedding 288,Home,Bedding,Beauty Line,7.6,5.16,29/04/2025,Black,OneSize,Linen,TRUE
+ab6cace3-f568-4892-82ba-faaea202e5c2,MSFO00289,Per Una Deli 289,Food,Deli,Per Una,18.92,9.17,12/11/2024,Multi,S,Silk,TRUE
+fc4413f3-ccb6-48e3-8f23-65e7b375ca67,MSWO00290,Per Una Dresses 290,Womens_Clothing,Dresses,Per Una,12.33,9.03,20/01/2025,Green,S,Polyester,TRUE
+320ccaff-0a71-4a44-8ab0-2ec93cc67036,MSME00291,Essential Knitwear 291,Mens_Clothing,Knitwear,Essential,12.88,6.43,19/03/2025,Multi,XS,Wool,TRUE
+939f85a7-53f5-4559-8883-06f8cc7ee4dc,MSFO00292,Per Una Ambient 292,Food,Ambient,Per Una,7.08,4.76,16/01/2025,Beige,M,Linen,TRUE
+7109b059-bd41-4425-968d-6527f96759e3,MSFO00293,Per Una Fresh 293,Food,Fresh,Per Una,9.67,5.06,02/01/2025,Blue,OneSize,Linen,TRUE
+16dee86c-7662-4c3d-858c-f31995a0bf22,MSFO00294,M&S Collection Ambient 294,Food,Ambient,M&S Collection,41.71,32.06,21/02/2025,Multi,XS,Cotton,TRUE
+eabe7249-c923-43a1-8cba-154e5eaec4ca,MSFO00295,Limited Edition Ambient 295,Food,Ambient,Limited Edition,28.86,16.44,30/03/2025,Multi,XL,Silk,TRUE
+2d6b7cbc-de4c-4bdb-8bfe-a079f94ca45c,MSWO00296,Essential Coats 296,Womens_Clothing,Coats,Essential,8.06,3.72,28/08/2024,Beige,M,Silk,TRUE
+01f6fe8a-68ce-45f9-ae1b-3dbe0288de0f,MSBE00297,Beauty Line Fragrance 297,Beauty,Fragrance,Beauty Line,32.45,21.69,21/04/2025,Red,OneSize,Cotton,TRUE
+e630d7ad-6c1a-4735-b6af-17a4c9f5c5d5,MSBE00298,Beauty Line Haircare 298,Beauty,Haircare,Beauty Line,1.87,1.03,16/07/2025,Blue,M,Linen,TRUE
+a8798f20-46cd-47b4-abbb-6c6d2805d689,MSHO00299,Foodies Decor 299,Home,Decor,Foodies,56.08,40.54,28/10/2024,Blue,M,Linen,TRUE
+4fb6c730-36a6-418e-902b-19ccb116b14a,MSHO00300,Beauty Line Kitchen 300,Home,Kitchen,Beauty Line,11.78,8.99,14/12/2024,Red,M,Silk,TRUE
+b0c7e617-e8c3-4613-bd19-a427163f9c11,MSWO00301,Essential Dresses 301,Womens_Clothing,Dresses,Essential,32.88,16.89,01/12/2024,Black,XL,Silk,TRUE
+67edefeb-0e3c-4c95-82f6-fc971a8e3403,MSME00302,Home Range Knitwear 302,Mens_Clothing,Knitwear,Home Range,56.33,39.13,16/05/2025,Blue,S,Silk,FALSE
+7a70ddeb-95fb-4df4-8d67-ae9032cf1db7,MSBE00303,Essential Haircare 303,Beauty,Haircare,Essential,13.18,7.12,11/04/2025,Black,XS,Cotton,FALSE
+d94e45ea-f930-4643-9aa1-d6009274e669,MSFO00304,Limited Edition Bakery 304,Food,Bakery,Limited Edition,4.95,2.46,06/09/2024,Blue,XL,Wool,TRUE
+c54fbb5a-77ee-4fbb-990c-3ec05d9d9189,MSHO00305,Beauty Line Furniture 305,Home,Furniture,Beauty Line,64.62,32.96,11/03/2025,Green,XL,Cotton,TRUE
+7686989c-5415-4207-be85-311800bcdcae,MSBE00306,Essential Makeup 306,Beauty,Makeup,Essential,28.65,18.2,19/09/2024,Beige,M,Silk,TRUE
+99daf12e-71c5-4f3a-b38c-a9ed9b05c602,MSBE00307,Limited Edition Skincare 307,Beauty,Skincare,Limited Edition,19.8,12.91,11/09/2024,Green,XL,Wool,TRUE
+c197ffa0-5462-4dc8-b1a6-f914d70d2482,MSFO00308,Essential Bakery 308,Food,Bakery,Essential,74.07,54.84,03/11/2024,Multi,XL,Blend,TRUE
+20cc1c7e-da5c-435b-8a4d-78a491a0c556,MSME00309,Foodies Shirts 309,Mens_Clothing,Shirts,Foodies,23.24,11.32,16/07/2025,Green,M,Linen,FALSE
+98c15e1c-6006-4ba7-98ac-497b72ddfefb,MSME00310,Foodies Trousers 310,Mens_Clothing,Trousers,Foodies,15.34,10.13,13/06/2025,White,XS,Cotton,TRUE
+e35e05d6-60ea-4f83-8090-b66283327aa2,MSHO00311,Beauty Line Furniture 311,Home,Furniture,Beauty Line,29.5,15.09,28/01/2025,Blue,XL,Linen,TRUE
+f75a4ded-af24-4da9-95a6-64eb69a7f418,MSFO00312,Per Una Ambient 312,Food,Ambient,Per Una,9.11,6.56,23/09/2024,Black,XL,Blend,TRUE
+13c09e60-1885-4add-83c3-aad634032882,MSFO00313,Beauty Line Ambient 313,Food,Ambient,Beauty Line,34.08,15.9,14/06/2025,Beige,XL,Wool,TRUE
+aa9d3993-12f9-41fa-9f60-1a8bf3202a04,MSWO00314,Home Range Knitwear 314,Womens_Clothing,Knitwear,Home Range,8.91,5.89,17/05/2025,Beige,XS,Silk,TRUE
+4f52501d-9afd-4f80-8a51-4f9a2b3a64df,MSWO00315,Beauty Line Leggings 315,Womens_Clothing,Leggings,Beauty Line,14.57,6.9,02/05/2025,Green,OneSize,Linen,TRUE
+dab48c67-2785-4ead-9690-2c63fa7070b8,MSWO00316,Beauty Line Leggings 316,Womens_Clothing,Leggings,Beauty Line,5.31,3.73,30/05/2025,Blue,XL,Blend,TRUE
+701752a4-2820-4462-b4a3-65cdbeee67a3,MSBE00317,Limited Edition Makeup 317,Beauty,Makeup,Limited Edition,3.61,2.4,14/06/2025,Red,XL,Blend,TRUE
+db148f92-d24e-4426-84af-730b504b66b7,MSWO00318,Home Range Coats 318,Womens_Clothing,Coats,Home Range,79.3,61.69,16/10/2024,Black,S,Silk,TRUE
+e4b5f5c6-c93d-4cff-9c2e-946d887077b9,MSBE00319,Beauty Line Bath 319,Beauty,Bath,Beauty Line,9.26,5.73,15/04/2025,Multi,OneSize,Blend,TRUE
+183d2438-ee4d-4893-9517-a61a25f71842,MSME00320,Limited Edition Shorts 320,Mens_Clothing,Shorts,Limited Edition,7.26,4.53,08/08/2025,White,M,Blend,TRUE
+4a22c15c-7682-4219-8b76-410e82fe2ad8,MSBE00321,Per Una Fragrance 321,Beauty,Fragrance,Per Una,13.6,6.86,25/02/2025,Black,XL,Wool,TRUE
+040c68f2-f447-4ab9-8d84-c02464f79901,MSHO00322,Beauty Line Storage 322,Home,Storage,Beauty Line,8.87,4.22,25/08/2024,Blue,S,Wool,TRUE
+62e90fc7-31ff-4f52-94de-872311673503,MSME00323,Essential Knitwear 323,Mens_Clothing,Knitwear,Essential,15.15,9.01,08/10/2024,Beige,S,Blend,TRUE
+77885a11-f3f8-447a-9b82-6c21fee539f1,MSHO00324,Home Range Furniture 324,Home,Furniture,Home Range,6.93,3.72,17/12/2024,White,OneSize,Wool,TRUE
+ef6b0331-7913-4764-ad1d-882bb92fbfaf,MSFO00325,Foodies Deli 325,Food,Deli,Foodies,62.25,29.71,24/11/2024,Black,M,Polyester,TRUE
+ff973c4b-2ad1-4f90-879d-e5f90c44c1a6,MSHO00326,Home Range Bedding 326,Home,Bedding,Home Range,4.58,3.01,10/05/2025,Black,OneSize,Wool,TRUE
+827ddb80-a837-4cd0-a401-325df4313858,MSME00327,Essential Trousers 327,Mens_Clothing,Trousers,Essential,28.12,15.75,09/06/2025,White,OneSize,Wool,TRUE
+c3818cc6-3c60-49e5-8805-2dbcbd856025,MSFO00328,Limited Edition Deli 328,Food,Deli,Limited Edition,3.72,2.38,12/03/2025,Blue,XS,Blend,FALSE
+8e8a8ad3-7098-48f9-9765-412890b356c9,MSME00329,M&S Collection Trousers 329,Mens_Clothing,Trousers,M&S Collection,9.94,7.11,04/01/2025,Red,L,Wool,TRUE
+bc955198-6327-475e-b797-cb45dfaa9392,MSWO00330,M&S Collection Tops 330,Womens_Clothing,Tops,M&S Collection,25.14,16.92,24/02/2025,White,S,Silk,TRUE
+e82d1240-2d31-49fd-91ea-ad638f8f9b84,MSBE00331,Limited Edition Haircare 331,Beauty,Haircare,Limited Edition,28.14,15.12,05/11/2024,Multi,M,Wool,TRUE
+5f1e1e11-8f8e-4fd5-a188-9bd1d9cabed2,MSWO00332,Limited Edition Dresses 332,Womens_Clothing,Dresses,Limited Edition,41.24,19.3,03/09/2024,White,OneSize,Blend,TRUE
+ed2aa120-7944-49f3-855a-7bc05f0e17ca,MSWO00333,Foodies Tops 333,Womens_Clothing,Tops,Foodies,30.75,14.26,01/05/2025,Multi,S,Cotton,FALSE
+52852642-dafa-4a22-ab17-a077bb51dbb8,MSBE00334,Per Una Haircare 334,Beauty,Haircare,Per Una,3.95,2.21,09/07/2025,Beige,M,Cotton,TRUE
+023fed61-626b-45ee-a3e9-3ce82815b820,MSFO00335,Autograph Deli 335,Food,Deli,Autograph,127.15,88.25,23/12/2024,Green,M,Silk,FALSE
+d8fc7207-2330-4260-88d2-f1cfa4e75940,MSFO00336,Beauty Line Deli 336,Food,Deli,Beauty Line,10.24,6.12,29/10/2024,Blue,XL,Silk,TRUE
+07df77a3-a46c-4636-a3fb-d551ae558f01,MSWO00337,Per Una Knitwear 337,Womens_Clothing,Knitwear,Per Una,10.61,7.54,19/11/2024,Beige,L,Blend,TRUE
+7539b054-1d35-4237-873b-43f3084b9216,MSME00338,Home Range Shirts 338,Mens_Clothing,Shirts,Home Range,13.28,7.05,12/02/2025,Multi,M,Linen,TRUE
+9f69fb11-0136-4d99-8244-d6a2f821cde1,MSME00339,Foodies Trousers 339,Mens_Clothing,Trousers,Foodies,8.04,4.97,17/12/2024,Multi,L,Linen,TRUE
+01399fc9-3900-41ff-8cdd-c03ef7c14489,MSBE00340,Per Una Skincare 340,Beauty,Skincare,Per Una,4.77,3.36,07/08/2025,Blue,L,Wool,FALSE
+089bff3d-a21a-4cbc-844d-c66e575a4286,MSWO00341,Foodies Knitwear 341,Womens_Clothing,Knitwear,Foodies,38.48,25.03,12/08/2024,Blue,L,Wool,FALSE
+19564529-c61c-433f-87b8-c16175dd18ef,MSHO00342,M&S Collection Storage 342,Home,Storage,M&S Collection,6.78,4.54,24/08/2024,Green,OneSize,Wool,TRUE
+43487bcd-89a9-4323-b9b4-fbfed504d57f,MSWO00343,Beauty Line Dresses 343,Womens_Clothing,Dresses,Beauty Line,31.16,18.68,24/11/2024,Green,S,Silk,TRUE
+e3f797b2-1414-4ce0-a8d6-c06389400f41,MSHO00344,Essential Bedding 344,Home,Bedding,Essential,13.12,10.22,23/03/2025,Green,XL,Polyester,TRUE
+2cd168da-3ba0-4f88-97a5-8ea135923660,MSME00345,Per Una Outerwear 345,Mens_Clothing,Outerwear,Per Una,31.78,15.08,06/06/2025,Black,OneSize,Linen,TRUE
+061073c3-09b9-4305-bcbb-d3ad4c90c4f2,MSFO00346,Limited Edition Bakery 346,Food,Bakery,Limited Edition,36.63,21.64,10/04/2025,Multi,S,Blend,TRUE
+5ca91b2e-f2ba-4556-8e8d-f1e49d31110b,MSWO00347,Beauty Line Leggings 347,Womens_Clothing,Leggings,Beauty Line,6.59,4.07,07/05/2025,White,OneSize,Wool,TRUE
+fac3e69c-414e-4b64-8171-948afc11cc32,MSFO00348,M&S Collection Frozen 348,Food,Frozen,M&S Collection,8.16,4.88,12/10/2024,Multi,XL,Linen,TRUE
+a3e8a00f-cf39-4a1c-9e48-b769223306f3,MSFO00349,Per Una Fresh 349,Food,Fresh,Per Una,45.06,24.04,11/08/2024,Green,XL,Silk,TRUE
+17d74cc8-d4ea-4d8a-acbc-371b521052eb,MSME00350,Beauty Line Shorts 350,Mens_Clothing,Shorts,Beauty Line,2.28,1.71,01/01/2025,Red,XL,Silk,TRUE
+62a26438-2ac5-4d4d-908a-7f53cc7acdb1,MSBE00351,Foodies Makeup 351,Beauty,Makeup,Foodies,9.3,4.95,08/01/2025,Black,XL,Cotton,TRUE
+e5bab020-1468-42a2-a02d-d3d2df41d45b,MSHO00352,Foodies Bedding 352,Home,Bedding,Foodies,18.43,8.58,09/06/2025,Green,XS,Blend,TRUE
+7f4d6d4f-19df-4eee-bade-4b3937f73660,MSWO00353,Foodies Dresses 353,Womens_Clothing,Dresses,Foodies,9.73,5.71,26/12/2024,Green,OneSize,Cotton,TRUE
+e807c363-cbe9-45d2-b637-4711b4d02305,MSWO00354,Beauty Line Dresses 354,Womens_Clothing,Dresses,Beauty Line,20.22,16.05,23/06/2025,Red,M,Silk,TRUE
+55d7079b-a1d6-40dd-a26f-e572926a0a28,MSME00355,Home Range Outerwear 355,Mens_Clothing,Outerwear,Home Range,3.07,2.4,19/08/2024,Black,L,Silk,TRUE
+328c61e0-f068-4a13-a825-af5cc1bbf633,MSFO00356,Home Range Fresh 356,Food,Fresh,Home Range,11.16,6.59,23/07/2025,Red,S,Linen,TRUE
+1239b258-f7b7-4578-946c-e2ef506259ec,MSME00357,M&S Collection Trousers 357,Mens_Clothing,Trousers,M&S Collection,12.79,8.66,08/04/2025,Multi,XS,Wool,TRUE
+efbd669b-4d6f-4156-9b25-e5098d3a0b63,MSFO00358,Foodies Bakery 358,Food,Bakery,Foodies,2.97,1.52,14/03/2025,Multi,S,Polyester,TRUE
+bbc7ab51-c250-4159-ada9-72e3a1f0d5d4,MSME00359,Limited Edition Knitwear 359,Mens_Clothing,Knitwear,Limited Edition,13.02,6.03,24/04/2025,Beige,XS,Cotton,TRUE
+726a97fd-c120-4238-9e82-b950ea8e3ec8,MSBE00360,M&S Collection Bath 360,Beauty,Bath,M&S Collection,18.57,12.45,11/03/2025,Blue,S,Cotton,TRUE
+dbd02a85-d2dc-40e7-9bb8-d85f7f297e66,MSWO00361,M&S Collection Coats 361,Womens_Clothing,Coats,M&S Collection,19.25,14.62,15/11/2024,Blue,OneSize,Cotton,TRUE
+871e76af-2a8e-4bee-abf3-41d98671ee6d,MSME00362,Limited Edition Shorts 362,Mens_Clothing,Shorts,Limited Edition,21.51,11.64,02/02/2025,Multi,XS,Polyester,TRUE
+681ee645-7743-4866-b1ba-2465146c3893,MSHO00363,Home Range Kitchen 363,Home,Kitchen,Home Range,110.88,68.96,31/12/2024,White,XL,Blend,TRUE
+8b377b9a-018a-4623-90b0-3f24b85f162f,MSME00364,Per Una Knitwear 364,Mens_Clothing,Knitwear,Per Una,16.6,8.77,06/12/2024,Beige,XL,Polyester,TRUE
+08b44080-dc8d-479f-9a75-ba573f7f5c02,MSHO00365,Per Una Bedding 365,Home,Bedding,Per Una,8.68,6.18,05/11/2024,Beige,OneSize,Silk,TRUE
+aebaa755-9fb0-4028-918f-38b5c1ea4e7f,MSWO00366,Foodies Knitwear 366,Womens_Clothing,Knitwear,Foodies,49.05,23.64,21/11/2024,Multi,XL,Wool,TRUE
+3ca4d3ec-b387-4d57-85cc-6e759ebb2468,MSBE00367,Essential Makeup 367,Beauty,Makeup,Essential,61.33,36,09/12/2024,Black,S,Linen,TRUE
+0f64edf9-b9f8-4451-963b-1eb139ca167f,MSME00368,Per Una Knitwear 368,Mens_Clothing,Knitwear,Per Una,19.87,12.77,22/03/2025,Multi,L,Cotton,TRUE
+eeaf1ea2-646e-4156-a6e8-4ead32c95290,MSBE00369,Per Una Bath 369,Beauty,Bath,Per Una,32.31,19.16,15/09/2024,Black,S,Wool,TRUE
+82c8ff54-614b-4608-b8ca-0c1a5df468f4,MSWO00370,Home Range Coats 370,Womens_Clothing,Coats,Home Range,27,16.84,14/09/2024,Red,XL,Blend,TRUE
+0ce4a9bc-6109-4c7b-b4b0-892b7adb1d31,MSWO00371,Foodies Knitwear 371,Womens_Clothing,Knitwear,Foodies,5.18,2.73,19/05/2025,Beige,XL,Linen,TRUE
+64e7c9a8-8d0b-4c08-9f5f-595aee6f5500,MSWO00372,Limited Edition Tops 372,Womens_Clothing,Tops,Limited Edition,0.53,0.35,10/02/2025,Black,S,Wool,TRUE
+b297ebae-435d-4076-8828-58bb9c7f8fd4,MSWO00373,Limited Edition Tops 373,Womens_Clothing,Tops,Limited Edition,5.57,3.62,17/09/2024,Beige,XS,Blend,FALSE
+aea45e6d-bb7d-42e6-b245-1e2a4219571f,MSBE00374,Limited Edition Makeup 374,Beauty,Makeup,Limited Edition,22.5,12.23,27/04/2025,Black,S,Linen,TRUE
+b4e15df7-be1c-45f3-8b74-f3b3e241ee34,MSHO00375,Beauty Line Furniture 375,Home,Furniture,Beauty Line,64.2,40.6,10/07/2025,White,OneSize,Wool,TRUE
+2ce3419d-5d2c-42c7-98a7-7cb265dc82af,MSHO00376,Beauty Line Storage 376,Home,Storage,Beauty Line,28.21,21.26,24/01/2025,Black,XS,Blend,TRUE
+2344bca2-23d6-44cc-b85a-cad0bf1e4117,MSHO00377,Home Range Kitchen 377,Home,Kitchen,Home Range,17.81,10.1,22/09/2024,Green,L,Cotton,TRUE
+6ce3f243-d0f0-436f-bddb-6eb6f06f9b0d,MSME00378,M&S Collection Trousers 378,Mens_Clothing,Trousers,M&S Collection,31.82,21.21,12/02/2025,Green,XL,Linen,TRUE
+66407a34-a484-4e71-bf4d-09698da518f1,MSBE00379,Per Una Fragrance 379,Beauty,Fragrance,Per Una,34.9,17.64,31/03/2025,Blue,M,Polyester,TRUE
+e515d2cc-d6c8-478b-bf39-f787525aff29,MSME00380,Home Range Outerwear 380,Mens_Clothing,Outerwear,Home Range,11.73,8.89,15/01/2025,Green,L,Blend,TRUE
+196a4092-03a1-43c4-987a-c490da5e17ff,MSBE00381,Per Una Haircare 381,Beauty,Haircare,Per Una,20.09,11.4,13/01/2025,Beige,M,Polyester,TRUE
+58572018-2db3-4347-b5ba-5d1c2e17531f,MSFO00382,Per Una Bakery 382,Food,Bakery,Per Una,49.93,26.99,20/03/2025,White,OneSize,Cotton,TRUE
+1c85e699-8ca3-4495-9f09-1e8d3d5805d6,MSWO00383,M&S Collection Dresses 383,Womens_Clothing,Dresses,M&S Collection,16.59,7.95,10/01/2025,Black,S,Blend,TRUE
+a7c1757f-080c-484d-a57c-2ff8e35b6fd7,MSME00384,Limited Edition Shirts 384,Mens_Clothing,Shirts,Limited Edition,12.46,6.74,12/02/2025,White,L,Wool,TRUE
+497e342a-72b1-4811-8fd6-76756c04203b,MSFO00385,Beauty Line Bakery 385,Food,Bakery,Beauty Line,13.21,5.99,08/08/2025,Red,XS,Linen,TRUE
+385f86a1-af53-4a9f-b7a6-9c0a5208e50b,MSWO00386,Essential Dresses 386,Womens_Clothing,Dresses,Essential,9.23,6.61,21/10/2024,White,M,Cotton,TRUE
+858d9fb7-8140-45fb-8143-b11bc8745eff,MSBE00387,Autograph Makeup 387,Beauty,Makeup,Autograph,14.84,8.92,23/06/2025,Red,XL,Polyester,TRUE
+ba6edd2b-8f36-435d-95f0-a7c6e6e33009,MSFO00388,Essential Deli 388,Food,Deli,Essential,4.19,2.99,13/05/2025,Multi,M,Wool,TRUE
+3ccfba3d-08c2-468b-b144-3a3c2a6e6856,MSWO00389,Foodies Knitwear 389,Womens_Clothing,Knitwear,Foodies,8.51,6.62,26/07/2025,Black,XL,Polyester,FALSE
+b445f872-e296-47f6-8d5f-dc221b48cad7,MSME00390,Autograph Knitwear 390,Mens_Clothing,Knitwear,Autograph,18.94,13.22,17/02/2025,Beige,OneSize,Cotton,TRUE
+317af7ea-0a02-4cb9-804f-e2d6f06cdc36,MSBE00391,Beauty Line Haircare 391,Beauty,Haircare,Beauty Line,7.08,3.33,06/12/2024,Red,OneSize,Cotton,TRUE
+70b1aa2c-92e5-4653-a964-e0a7222272d2,MSWO00392,Foodies Coats 392,Womens_Clothing,Coats,Foodies,7.37,5.27,15/08/2024,Beige,M,Linen,FALSE
+6670bcca-2996-4630-a2a6-e29e0ff83071,MSWO00393,M&S Collection Leggings 393,Womens_Clothing,Leggings,M&S Collection,17.11,8.09,10/09/2024,Blue,S,Blend,TRUE
+4c76181a-09c6-4111-92c5-c65cec5e259e,MSBE00394,M&S Collection Fragrance 394,Beauty,Fragrance,M&S Collection,10.83,7.79,05/10/2024,Red,OneSize,Wool,TRUE
+f18d0661-1655-4c44-9a83-b6b59b10605e,MSFO00395,Per Una Frozen 395,Food,Frozen,Per Una,1.95,0.88,22/03/2025,Multi,M,Cotton,FALSE
+c7823efd-7f20-418c-94ce-68656b2b0793,MSFO00396,Foodies Fresh 396,Food,Fresh,Foodies,4.03,2.93,12/01/2025,Red,M,Polyester,TRUE
+7a615232-14c0-4e2f-a1c5-3c1ef33800ca,MSFO00397,Home Range Bakery 397,Food,Bakery,Home Range,10.38,5.75,23/05/2025,Black,OneSize,Polyester,TRUE
+6ab9a3bc-67f6-4edc-882a-62598924fd6c,MSWO00398,Home Range Leggings 398,Womens_Clothing,Leggings,Home Range,15.17,10.3,04/09/2024,Red,XS,Silk,TRUE
+7099134a-91a0-4f12-b267-ff120edb72b7,MSWO00399,Foodies Knitwear 399,Womens_Clothing,Knitwear,Foodies,7.33,5.53,01/04/2025,Multi,M,Cotton,TRUE
+044ef85a-55e8-4aff-ac50-8da0908e193e,MSBE00400,Limited Edition Haircare 400,Beauty,Haircare,Limited Edition,2.31,1.3,23/08/2024,Green,XL,Silk,TRUE
+9ccca455-c895-4ca5-bd26-23f27f1b4c3a,MSFO00401,Autograph Bakery 401,Food,Bakery,Autograph,7.32,5.2,18/01/2025,Multi,XL,Wool,TRUE
+ea3cfa4f-9c7a-463d-a26e-fbf38a91d98f,MSWO00402,Essential Dresses 402,Womens_Clothing,Dresses,Essential,13.02,7.54,06/05/2025,Blue,L,Blend,TRUE
+574f8ded-ddf7-4a21-9627-5f8a9fa6e3b0,MSME00403,Home Range Outerwear 403,Mens_Clothing,Outerwear,Home Range,9.91,6.1,04/09/2024,Green,XS,Cotton,TRUE
+ab98a9a0-d078-4fa6-9c72-08da5ec5e3b3,MSHO00404,Home Range Furniture 404,Home,Furniture,Home Range,16.58,11.93,29/01/2025,Multi,M,Cotton,TRUE
+cb7044e5-6586-40b3-8378-f7fdc84a92f4,MSME00405,Beauty Line Outerwear 405,Mens_Clothing,Outerwear,Beauty Line,18.38,11.68,23/02/2025,White,XL,Linen,TRUE
+22cf884a-dfbd-40b1-88a0-71f6979fc728,MSWO00406,Home Range Dresses 406,Womens_Clothing,Dresses,Home Range,5.21,2.4,20/06/2025,White,XS,Linen,TRUE
+e624a51d-3a06-4445-992f-ea5aabcf1a73,MSHO00407,M&S Collection Furniture 407,Home,Furniture,M&S Collection,16.3,12.85,23/09/2024,Green,L,Silk,TRUE
+6e5c8a02-54a5-4f06-8dc3-607758ef5f43,MSFO00408,Per Una Fresh 408,Food,Fresh,Per Una,53.21,28.55,17/08/2024,Beige,L,Polyester,TRUE
+827c1a80-3a91-4f20-9e98-ec2a1aff7742,MSHO00409,Beauty Line Decor 409,Home,Decor,Beauty Line,47.04,24.47,23/06/2025,Blue,XS,Polyester,TRUE
+7658ec2c-0eb2-4cbd-be97-ef6306789787,MSBE00410,Beauty Line Fragrance 410,Beauty,Fragrance,Beauty Line,3.69,2.42,19/10/2024,Multi,XS,Wool,TRUE
+1719f4bd-f702-4d88-b783-aa124563d6a7,MSME00411,Limited Edition Outerwear 411,Mens_Clothing,Outerwear,Limited Edition,34.44,19.24,01/03/2025,Black,XS,Polyester,TRUE
+315097a5-65c6-48a8-9211-336136f66e12,MSBE00412,Foodies Fragrance 412,Beauty,Fragrance,Foodies,10.95,7.54,12/07/2025,Multi,M,Silk,TRUE
+0bcedec1-4336-4cd8-bada-40407c2cbf7c,MSFO00413,Essential Fresh 413,Food,Fresh,Essential,4.22,2.61,11/11/2024,Green,XL,Blend,TRUE
+8a7d1040-6d77-4ccb-9386-9763a6cb532f,MSHO00414,Foodies Kitchen 414,Home,Kitchen,Foodies,27.43,19.61,18/11/2024,Green,M,Blend,TRUE
+b2ebca55-d3b2-4007-ba97-e019cc5815fc,MSBE00415,Limited Edition Bath 415,Beauty,Bath,Limited Edition,38.37,29.46,02/05/2025,Green,L,Wool,TRUE
+afb69bd0-51b2-48ab-8540-1937582ae107,MSBE00416,Autograph Fragrance 416,Beauty,Fragrance,Autograph,5.1,2.73,23/09/2024,White,S,Linen,FALSE
+966951d3-4bb1-4398-9a7d-e81e78225e53,MSME00417,M&S Collection Shorts 417,Mens_Clothing,Shorts,M&S Collection,11.67,5.83,27/10/2024,Beige,L,Blend,TRUE
+64d8d36a-57a6-4a03-ad21-0b30b559e6ff,MSHO00418,Foodies Bedding 418,Home,Bedding,Foodies,3.24,1.85,07/04/2025,Beige,L,Polyester,TRUE
+2364e9ec-2762-45a1-97a8-3afc57c6645d,MSME00419,Per Una Knitwear 419,Mens_Clothing,Knitwear,Per Una,11.24,6.34,10/08/2024,Beige,L,Silk,TRUE
+84b76e43-8d66-40d5-9414-5eb10a3f77f8,MSFO00420,Foodies Bakery 420,Food,Bakery,Foodies,30.59,14.65,24/10/2024,White,XL,Blend,TRUE
+6cf08a6d-51d6-495f-b366-8785a9512b69,MSWO00421,Autograph Knitwear 421,Womens_Clothing,Knitwear,Autograph,13.23,6.32,19/11/2024,Red,S,Blend,TRUE
+81cf9565-e761-4dd6-b84b-43f56472863e,MSME00422,M&S Collection Shorts 422,Mens_Clothing,Shorts,M&S Collection,14.52,10.04,29/12/2024,White,OneSize,Blend,TRUE
+5c559b9b-0a34-4e8c-9100-edbc0abc9484,MSHO00423,Autograph Furniture 423,Home,Furniture,Autograph,4.68,2.43,09/06/2025,Red,XS,Wool,TRUE
+cc653f25-0551-474f-befb-f192c1969d26,MSFO00424,Limited Edition Deli 424,Food,Deli,Limited Edition,14.72,9.8,19/03/2025,Black,M,Silk,TRUE
+edb3d2a1-fe9c-4a2d-b590-a354a5f6ad29,MSFO00425,Per Una Deli 425,Food,Deli,Per Una,26.9,17.2,28/02/2025,Green,XS,Silk,TRUE
+1365b355-5792-49bd-8d4d-817f51f034aa,MSBE00426,Autograph Skincare 426,Beauty,Skincare,Autograph,17.36,12.68,22/06/2025,Multi,OneSize,Polyester,TRUE
+8b37dea8-160c-4047-a13d-f359bb116bac,MSHO00427,Limited Edition Furniture 427,Home,Furniture,Limited Edition,22.5,14.95,15/08/2024,White,L,Wool,TRUE
+fbf7bf96-6f52-44a1-846b-c7986815757d,MSBE00428,Home Range Haircare 428,Beauty,Haircare,Home Range,21.9,14.43,30/08/2024,Red,M,Cotton,TRUE
+fb903466-0bef-4910-9e73-4650a1c28b46,MSWO00429,Home Range Dresses 429,Womens_Clothing,Dresses,Home Range,72.16,43.9,11/08/2024,Beige,XS,Blend,TRUE
+7fff7ca8-ce02-4175-a8f9-2446fe7bfe0a,MSME00430,Per Una Shorts 430,Mens_Clothing,Shorts,Per Una,55.54,36.53,20/08/2024,White,S,Wool,TRUE
+6772589a-8989-498b-9a1b-1ab590e7bdd6,MSBE00431,Foodies Makeup 431,Beauty,Makeup,Foodies,8.05,4.07,05/06/2025,Beige,S,Polyester,TRUE
+8dd7a49f-92af-4ad5-b447-7bc3ccbaacba,MSBE00432,M&S Collection Haircare 432,Beauty,Haircare,M&S Collection,3,1.84,28/01/2025,Beige,XL,Polyester,TRUE
+42a86d29-b1fe-400a-ac3d-574d07ab211c,MSBE00433,M&S Collection Haircare 433,Beauty,Haircare,M&S Collection,31.47,16.17,05/12/2024,Beige,S,Polyester,TRUE
+bb0bdcfa-8017-4acd-a5b1-1959dc738fe6,MSWO00434,Autograph Leggings 434,Womens_Clothing,Leggings,Autograph,7.34,3.72,07/03/2025,Multi,XL,Polyester,TRUE
+ed5644fc-aaaa-4b1e-9922-14ed799fb581,MSME00435,Autograph Outerwear 435,Mens_Clothing,Outerwear,Autograph,11.32,6,26/07/2025,Green,OneSize,Silk,TRUE
+551504e2-d01c-45d5-a941-deb4c7d0e8fb,MSHO00436,Foodies Storage 436,Home,Storage,Foodies,7.84,3.75,08/04/2025,White,L,Linen,TRUE
+010e4fd8-9084-4e98-abbc-4fedf348aa56,MSHO00437,Per Una Furniture 437,Home,Furniture,Per Una,197.28,135.74,09/11/2024,Multi,OneSize,Blend,TRUE
+bc305483-bedc-4171-869b-9fe5fcbbae3d,MSFO00438,Autograph Deli 438,Food,Deli,Autograph,3.63,2.7,09/06/2025,Beige,S,Wool,TRUE
+bbd200ea-9dde-45c3-abf9-221a5f560bdf,MSHO00439,Per Una Bedding 439,Home,Bedding,Per Una,8.73,6.58,14/01/2025,Green,OneSize,Polyester,TRUE
+f2277360-7f0f-4e1f-b828-def256ad3860,MSBE00440,Per Una Bath 440,Beauty,Bath,Per Una,33.72,22.59,16/03/2025,White,L,Silk,TRUE
+4da6dd42-b6d2-4dc1-95bd-84d87d4dbaa1,MSFO00441,Per Una Fresh 441,Food,Fresh,Per Una,9.51,5.51,28/08/2024,Black,M,Polyester,TRUE
+974503f4-3b9d-4628-b777-15a776040aa7,MSBE00442,M&S Collection Bath 442,Beauty,Bath,M&S Collection,199.21,125.48,21/11/2024,Multi,M,Cotton,TRUE
+b4b8b6a2-44cc-4dd7-8101-807a41b52358,MSME00443,Beauty Line Outerwear 443,Mens_Clothing,Outerwear,Beauty Line,16.65,10.05,03/12/2024,Black,OneSize,Silk,TRUE
+85382748-7838-4909-839f-ebd0fb35ef16,MSBE00444,Per Una Haircare 444,Beauty,Haircare,Per Una,49.99,32.95,27/04/2025,Red,XL,Cotton,TRUE
+4cf64a22-287f-4069-862f-49ecba5234ba,MSME00445,M&S Collection Knitwear 445,Mens_Clothing,Knitwear,M&S Collection,3.04,2.06,08/04/2025,Green,S,Linen,TRUE
+6f06924f-36f3-4428-87cb-d560499a4675,MSBE00446,Beauty Line Bath 446,Beauty,Bath,Beauty Line,25.04,13.11,02/04/2025,White,XL,Cotton,TRUE
+8104e903-5844-434a-86ef-cf7671a19625,MSHO00447,Home Range Storage 447,Home,Storage,Home Range,14.32,8.78,29/08/2024,White,XS,Blend,TRUE
+cf3bd579-0b92-46eb-8fea-61f7d4ece735,MSME00448,Autograph Outerwear 448,Mens_Clothing,Outerwear,Autograph,6.94,4.86,05/04/2025,Beige,OneSize,Polyester,TRUE
+5a05d72a-5125-4935-bfc0-194da62b9946,MSWO00449,Essential Coats 449,Womens_Clothing,Coats,Essential,17.4,11.5,02/06/2025,Green,XS,Silk,TRUE
+bf4975bd-711b-45c8-aef4-643b8bb6f160,MSWO00450,Limited Edition Tops 450,Womens_Clothing,Tops,Limited Edition,16.3,10.14,22/06/2025,Multi,OneSize,Linen,TRUE
+eb668a17-e407-4106-bc9b-28fb7983d6a1,MSFO00451,Per Una Bakery 451,Food,Bakery,Per Una,9.37,4.54,27/11/2024,White,S,Polyester,TRUE
+07d8381c-d3da-4c30-9196-088e2b7be24f,MSWO00452,Home Range Leggings 452,Womens_Clothing,Leggings,Home Range,48.81,33.28,27/03/2025,White,M,Linen,TRUE
+542d6c9f-998c-4b53-b6e3-742e451914e4,MSHO00453,Essential Decor 453,Home,Decor,Essential,61.81,31.35,19/07/2025,White,M,Linen,FALSE
+6346fc4f-2621-418b-aae4-449969b18c0f,MSWO00454,Foodies Tops 454,Womens_Clothing,Tops,Foodies,3.8,2.74,19/01/2025,Red,M,Blend,TRUE
+0571ea1c-6f00-4ccd-a328-2329b3f366fd,MSME00455,Per Una Trousers 455,Mens_Clothing,Trousers,Per Una,34.63,27.34,07/06/2025,Beige,M,Polyester,TRUE
+8d08b522-66ff-47dd-a38c-71b2e4d94c20,MSBE00456,Per Una Haircare 456,Beauty,Haircare,Per Una,17.99,10.88,27/10/2024,White,OneSize,Wool,TRUE
+f40fa92d-c026-4226-8b32-65a2febdb32d,MSBE00457,Autograph Haircare 457,Beauty,Haircare,Autograph,9.3,5.88,01/05/2025,Beige,XS,Silk,TRUE
+3fa29120-4094-4151-9aa5-bfeb60ba2660,MSHO00458,Beauty Line Decor 458,Home,Decor,Beauty Line,5.48,3.33,29/04/2025,Black,M,Linen,TRUE
+1402ee7f-9ab5-4c9d-bd98-ac29b73dfcc7,MSWO00459,Home Range Coats 459,Womens_Clothing,Coats,Home Range,17.85,11.89,09/08/2024,Multi,XS,Linen,TRUE
+135aee0e-3ca6-488c-8ba1-9e5d528a332d,MSBE00460,Beauty Line Makeup 460,Beauty,Makeup,Beauty Line,6.25,3.64,23/11/2024,Green,M,Wool,TRUE
+c314e96c-d3b1-494b-a49d-7d5333691c50,MSFO00461,Beauty Line Fresh 461,Food,Fresh,Beauty Line,3.77,2.67,28/02/2025,Multi,M,Blend,TRUE
+82337ad7-3429-49b2-baa4-34d3aba55129,MSWO00462,Beauty Line Dresses 462,Womens_Clothing,Dresses,Beauty Line,36.35,26.61,11/01/2025,Red,XS,Polyester,TRUE
+5f4fa553-3c52-4c7e-afaa-4be35406f35a,MSWO00463,Limited Edition Coats 463,Womens_Clothing,Coats,Limited Edition,11.24,8.46,24/11/2024,Beige,S,Blend,TRUE
+5712569e-cf50-433d-a410-b683aa78d525,MSHO00464,Home Range Bedding 464,Home,Bedding,Home Range,7.65,6.08,28/05/2025,Green,XS,Wool,TRUE
+bb5dd723-7eda-4416-9fd7-d54c1546cd1a,MSME00465,Foodies Shirts 465,Mens_Clothing,Shirts,Foodies,12.68,9.86,20/05/2025,Beige,M,Blend,TRUE
+0f0b4d71-6e6d-4478-874f-2609b3313519,MSME00466,Autograph Outerwear 466,Mens_Clothing,Outerwear,Autograph,4,2.05,06/10/2024,Beige,XS,Cotton,TRUE
+8cf65785-01c4-4024-81b4-e2fee3ffbf51,MSWO00467,Limited Edition Tops 467,Womens_Clothing,Tops,Limited Edition,21.46,12.03,03/02/2025,White,OneSize,Silk,TRUE
+7ccddf84-1542-45be-9e4c-fdb3a4ab8f15,MSHO00468,Foodies Bedding 468,Home,Bedding,Foodies,27.79,16.93,02/02/2025,Beige,S,Silk,TRUE
+47682a06-2f7d-4bce-b3e3-fc7823e4d64b,MSBE00469,Autograph Skincare 469,Beauty,Skincare,Autograph,16.64,9.48,29/05/2025,Red,M,Wool,TRUE
+cf7c6dca-9a53-45ad-a566-a327821b5bbf,MSME00470,Per Una Outerwear 470,Mens_Clothing,Outerwear,Per Una,33.03,17.2,16/08/2024,Beige,OneSize,Polyester,TRUE
+9c3273f1-1234-451a-a921-2a89fcc4e470,MSFO00471,Per Una Frozen 471,Food,Frozen,Per Una,4.78,3.77,15/12/2024,Black,M,Blend,TRUE
+622b6f35-4931-495f-b5e4-fc03eed557a6,MSME00472,Beauty Line Outerwear 472,Mens_Clothing,Outerwear,Beauty Line,6.37,3.39,02/11/2024,Multi,S,Cotton,TRUE
+098e6964-dde6-405d-86c8-3d33a995178d,MSME00473,Foodies Shirts 473,Mens_Clothing,Shirts,Foodies,18.83,10.16,17/02/2025,Green,L,Wool,TRUE
+7645aa37-bac7-44f0-a185-caa0ec09902e,MSME00474,Autograph Knitwear 474,Mens_Clothing,Knitwear,Autograph,11.85,7.9,22/12/2024,Blue,XL,Linen,TRUE
+97bea946-b51b-4783-bb9d-39c91cab606b,MSFO00475,M&S Collection Ambient 475,Food,Ambient,M&S Collection,73.93,55.64,23/10/2024,Multi,OneSize,Wool,TRUE
+4db156d7-80dd-4597-86a2-f272888f1fcd,MSFO00476,Limited Edition Deli 476,Food,Deli,Limited Edition,14.56,11.23,09/08/2024,Beige,L,Wool,TRUE
+283d27d3-f6a8-4869-b5c4-d3cc2e8219dd,MSME00477,Foodies Outerwear 477,Mens_Clothing,Outerwear,Foodies,9.64,5.07,28/12/2024,Red,S,Silk,TRUE
+e88f11b0-35f0-42d1-b04e-69088a42f61a,MSWO00478,M&S Collection Leggings 478,Womens_Clothing,Leggings,M&S Collection,52.99,25.82,16/03/2025,Green,M,Polyester,TRUE
+31b0f297-a57c-4257-8d08-a89f62fdb6db,MSFO00479,Home Range Bakery 479,Food,Bakery,Home Range,4.34,2.19,16/02/2025,White,OneSize,Polyester,TRUE
+fef6621a-369c-4912-b03b-314fd831c492,MSWO00480,Autograph Dresses 480,Womens_Clothing,Dresses,Autograph,30.1,21.79,24/10/2024,Red,M,Polyester,TRUE
+fc7aa32b-4e8e-428c-9f14-702156a29ced,MSWO00481,Essential Coats 481,Womens_Clothing,Coats,Essential,9.71,5.35,28/06/2025,Beige,OneSize,Linen,TRUE
+d8ae260f-9307-474d-9b4e-7fd09324969c,MSBE00482,Autograph Haircare 482,Beauty,Haircare,Autograph,36.63,28.35,27/08/2024,Beige,XL,Linen,TRUE
+8d91a476-2ebf-494f-975c-41f340316dc3,MSHO00483,Essential Bedding 483,Home,Bedding,Essential,22.76,16.68,29/10/2024,Red,XL,Polyester,FALSE
+8f1ae7ad-ab04-4dec-bf1b-73799de99543,MSME00484,Home Range Shorts 484,Mens_Clothing,Shorts,Home Range,8.78,6.62,15/12/2024,Black,XL,Blend,TRUE
+c8ba3be5-0156-421f-b5d2-bb8b75b69c3a,MSWO00485,Foodies Knitwear 485,Womens_Clothing,Knitwear,Foodies,23.99,11.8,14/06/2025,Beige,S,Cotton,TRUE
+2978baa2-f54b-409a-9285-3f80417c5bff,MSBE00486,Beauty Line Skincare 486,Beauty,Skincare,Beauty Line,3.65,2.45,23/02/2025,White,XL,Cotton,TRUE
+280bdca9-b930-468a-8a70-4a1eb1ddbfeb,MSME00487,M&S Collection Shirts 487,Mens_Clothing,Shirts,M&S Collection,34.74,22.48,20/06/2025,Beige,S,Blend,TRUE
+d4094f54-8643-4f61-b48f-e5fee07c177b,MSBE00488,Essential Fragrance 488,Beauty,Fragrance,Essential,89.21,57.18,26/05/2025,Blue,M,Polyester,TRUE
+be3b32e2-1aab-4a37-924d-f95436aeeae5,MSHO00489,M&S Collection Bedding 489,Home,Bedding,M&S Collection,33.14,17.55,02/05/2025,Green,L,Wool,TRUE
+b6cff418-9a3a-4de2-ab0f-89387ef64302,MSHO00490,Autograph Storage 490,Home,Storage,Autograph,53.4,35.61,30/04/2025,Black,L,Linen,TRUE
+e2166220-9e0a-4ca1-a513-06a07decd251,MSBE00491,Per Una Bath 491,Beauty,Bath,Per Una,30.23,17.62,17/05/2025,Green,S,Wool,TRUE
+b17032b7-5498-4fdf-a47d-56a4b50056c1,MSFO00492,Limited Edition Frozen 492,Food,Frozen,Limited Edition,2.81,1.73,20/09/2024,Beige,XL,Cotton,TRUE
+ca804724-2241-4ca6-b067-e440b6435bf1,MSWO00493,M&S Collection Tops 493,Womens_Clothing,Tops,M&S Collection,14.21,10.2,30/06/2025,Black,M,Silk,FALSE
+9f4f887e-c055-47da-adc7-32b257fc311f,MSME00494,Foodies Shirts 494,Mens_Clothing,Shirts,Foodies,26.3,16.63,29/08/2024,Blue,M,Polyester,TRUE
+359294f4-0c5d-4235-af38-82547a54ce26,MSHO00495,Autograph Decor 495,Home,Decor,Autograph,29.41,15.25,10/07/2025,White,M,Cotton,TRUE
+fdc5c825-4947-4569-8bb4-edcc3e0e09c2,MSWO00496,Limited Edition Tops 496,Womens_Clothing,Tops,Limited Edition,24.12,12.91,27/02/2025,Multi,XL,Cotton,FALSE
+2165b0c3-7d78-4c51-8fa1-8983bad05661,MSWO00497,Essential Coats 497,Womens_Clothing,Coats,Essential,15.69,9.15,28/06/2025,Multi,M,Wool,TRUE
+5529a944-8f79-4549-b932-b247a171e564,MSBE00498,Home Range Skincare 498,Beauty,Skincare,Home Range,10.28,4.99,29/09/2024,Blue,M,Linen,TRUE
+84f42f17-4688-49ce-aa58-978dbba81420,MSFO00499,Beauty Line Fresh 499,Food,Fresh,Beauty Line,20.04,13.72,12/01/2025,Green,XL,Silk,FALSE
+fc3b5de9-f127-45ee-8130-f304d6e4e7af,MSME00500,Limited Edition Shorts 500,Mens_Clothing,Shorts,Limited Edition,14.32,8,13/01/2025,Blue,XS,Silk,TRUE
+8dd9828c-63e4-4b4b-8710-88ef4fb2c9dc,MSFO00501,M&S Collection Ambient 501,Food,Ambient,M&S Collection,42.64,29.88,24/10/2024,Green,XS,Blend,TRUE
+176498b3-88d6-493a-88de-899ae04dd6cd,MSHO00502,Limited Edition Bedding 502,Home,Bedding,Limited Edition,5.03,2.58,25/07/2025,White,S,Silk,TRUE
+1f5c0470-28f1-4859-9a32-c02f5cb2615c,MSWO00503,Essential Tops 503,Womens_Clothing,Tops,Essential,9.95,7.47,16/09/2024,Red,XS,Polyester,TRUE
+4962328a-7fa0-49c2-af8a-1c1d8378b63e,MSFO00504,Home Range Bakery 504,Food,Bakery,Home Range,64.2,31.29,02/06/2025,Black,OneSize,Cotton,TRUE
+3d5110d1-fe66-4f9e-8f9f-f2e2f2102723,MSFO00505,Foodies Fresh 505,Food,Fresh,Foodies,14.88,11.48,31/10/2024,Red,XL,Linen,TRUE
+58d06078-0995-49f3-bd34-da71dae75327,MSME00506,Essential Trousers 506,Mens_Clothing,Trousers,Essential,42.85,27.53,28/01/2025,Green,M,Silk,TRUE
+f4c0c161-9d67-491f-bbfe-1b6bd8cf539d,MSHO00507,Beauty Line Decor 507,Home,Decor,Beauty Line,11.39,7.65,27/12/2024,Green,S,Cotton,FALSE
+d12c1283-ecfa-497f-9bea-d05978f66973,MSME00508,Autograph Shorts 508,Mens_Clothing,Shorts,Autograph,36.07,27.39,03/09/2024,Blue,XS,Polyester,TRUE
+3900ba0e-2758-45ed-89e2-87b7929ec320,MSHO00509,Autograph Furniture 509,Home,Furniture,Autograph,17.21,9.02,18/08/2024,White,M,Polyester,TRUE
+a5c4a354-1b8e-44c7-acf6-43e7de97bda1,MSBE00510,Autograph Fragrance 510,Beauty,Fragrance,Autograph,8.03,6.16,07/01/2025,Red,S,Blend,TRUE
+13e8f332-1884-4d25-98f8-ba25a0f771c1,MSFO00511,Limited Edition Frozen 511,Food,Frozen,Limited Edition,4.6,2.64,09/01/2025,Multi,M,Polyester,TRUE
+789d7f12-6142-4e4e-a547-aa38f7dc18b5,MSME00512,Foodies Knitwear 512,Mens_Clothing,Knitwear,Foodies,5.63,3.98,16/11/2024,White,XS,Blend,TRUE
+1734113b-9882-47cf-bace-1f948de8760e,MSME00513,Foodies Shirts 513,Mens_Clothing,Shirts,Foodies,4.7,2.81,26/02/2025,Multi,L,Linen,TRUE
+9daa44dd-1f03-4b18-a5de-67e8437fcb95,MSME00514,Beauty Line Shirts 514,Mens_Clothing,Shirts,Beauty Line,20.66,10.38,07/04/2025,Red,S,Cotton,TRUE
+a6553381-6a78-451d-913f-bbc01135af30,MSME00515,Limited Edition Trousers 515,Mens_Clothing,Trousers,Limited Edition,22.49,11.32,26/09/2024,Multi,L,Wool,TRUE
+ba1b1ac6-9e3b-494d-a57b-fbdb68ceb0f4,MSWO00516,Essential Leggings 516,Womens_Clothing,Leggings,Essential,21.55,11.33,05/01/2025,Multi,XS,Cotton,FALSE
+f30a84b0-4cb9-47f8-a9de-53738c4f9c59,MSME00517,Per Una Outerwear 517,Mens_Clothing,Outerwear,Per Una,17.68,8.1,29/12/2024,Red,M,Cotton,TRUE
+dd60be07-dff0-4728-93fc-68e7fbd9b619,MSBE00518,Per Una Skincare 518,Beauty,Skincare,Per Una,6.49,4.37,25/10/2024,White,L,Blend,TRUE
+40c1fe4c-d756-46cb-a185-19f055dc3584,MSWO00519,Foodies Coats 519,Womens_Clothing,Coats,Foodies,6.83,4.58,19/04/2025,Blue,M,Polyester,FALSE
+bfe7c27e-fcd8-469d-96c6-3ac3a3813c58,MSHO00520,Beauty Line Decor 520,Home,Decor,Beauty Line,8.24,5.43,01/01/2025,Blue,XS,Linen,TRUE
+dbc7edba-bd16-4726-92fb-de67045deb01,MSME00521,Beauty Line Knitwear 521,Mens_Clothing,Knitwear,Beauty Line,6.54,3.87,11/12/2024,Black,XL,Silk,TRUE
+620a6984-15a8-4ac6-a6c0-17a34b1baf0e,MSHO00522,Per Una Furniture 522,Home,Furniture,Per Una,29.33,23.37,12/02/2025,Black,S,Blend,TRUE
+41211b27-2283-47a2-aa59-d9633f22e9f2,MSFO00523,M&S Collection Fresh 523,Food,Fresh,M&S Collection,32.91,24.24,15/10/2024,Black,OneSize,Wool,TRUE
+4026a5d7-8114-4f56-a3e6-582ec3a03ef7,MSBE00524,Home Range Fragrance 524,Beauty,Fragrance,Home Range,20.33,11.1,13/09/2024,Black,M,Polyester,TRUE
+690e878c-f6b5-4cb9-9d41-1c5e8dcd26bf,MSFO00525,M&S Collection Fresh 525,Food,Fresh,M&S Collection,52.75,25.32,27/07/2025,Multi,M,Cotton,TRUE
+f951e22c-8ba8-4e9f-a726-d6a75ec92691,MSBE00526,Home Range Bath 526,Beauty,Bath,Home Range,2.81,1.63,17/10/2024,Multi,XL,Polyester,FALSE
+6fd19541-fb51-43cc-8425-fe0916459bc7,MSWO00527,Limited Edition Tops 527,Womens_Clothing,Tops,Limited Edition,50.54,29.02,20/02/2025,Green,XL,Blend,TRUE
+526623a1-9a41-4132-b82b-287f00361175,MSME00528,Foodies Shorts 528,Mens_Clothing,Shorts,Foodies,37.14,25.42,04/09/2024,Green,S,Polyester,TRUE
+fb787379-4272-4007-8005-ccd2e85abd9a,MSHO00529,M&S Collection Decor 529,Home,Decor,M&S Collection,10.04,6.77,29/04/2025,Beige,OneSize,Wool,FALSE
+44f69dbd-5dda-416e-8df7-2439b06a4b2c,MSFO00530,Limited Edition Fresh 530,Food,Fresh,Limited Edition,16.41,10.45,05/10/2024,Multi,L,Linen,TRUE
+245867ee-6468-4f72-839b-1dff96870504,MSBE00531,Autograph Skincare 531,Beauty,Skincare,Autograph,25.79,14.61,30/06/2025,Red,S,Linen,TRUE
+8b13c4cf-140a-42a1-bd0c-155e5c7d9da0,MSFO00532,M&S Collection Bakery 532,Food,Bakery,M&S Collection,10.71,6.18,26/05/2025,Green,XL,Polyester,TRUE
+769c1ece-93b0-4668-8abe-e93a3e2a6cb4,MSHO00533,Home Range Kitchen 533,Home,Kitchen,Home Range,7.57,5.34,21/05/2025,Red,XS,Polyester,TRUE
+5c7a6824-4f16-4c7a-b057-c19a6cd9e7fa,MSME00534,Home Range Shirts 534,Mens_Clothing,Shirts,Home Range,26.62,12.81,07/07/2025,Red,M,Blend,FALSE
+8cd5e2f8-1507-433a-b145-13e2e70d9cb6,MSBE00535,Autograph Bath 535,Beauty,Bath,Autograph,2.42,1.63,07/06/2025,Green,M,Wool,TRUE
+a29cb016-dacd-4b4b-98c7-199774dc8c9c,MSME00536,Beauty Line Outerwear 536,Mens_Clothing,Outerwear,Beauty Line,14.19,6.87,07/12/2024,Beige,M,Polyester,TRUE
+b7633a61-61b4-4775-adbd-dee4550db46d,MSFO00537,Home Range Deli 537,Food,Deli,Home Range,3.41,2.52,20/08/2024,Blue,OneSize,Linen,TRUE
+5680090c-42d0-4fbe-ba4c-3581bcc892fa,MSBE00538,Essential Fragrance 538,Beauty,Fragrance,Essential,39.75,28.95,30/12/2024,Blue,S,Blend,TRUE
+6f406498-daff-4c64-aef0-dde804f7a599,MSFO00539,M&S Collection Bakery 539,Food,Bakery,M&S Collection,4.08,2.38,14/05/2025,Blue,XL,Wool,FALSE
+754c60da-dbd5-4516-ab68-0841c99e4968,MSFO00540,Autograph Fresh 540,Food,Fresh,Autograph,4.56,3.64,03/08/2025,Black,S,Wool,TRUE
+ac6a5b2c-f2d4-4abc-98ee-a9565a011eab,MSME00541,Home Range Knitwear 541,Mens_Clothing,Knitwear,Home Range,9.16,6.59,25/06/2025,Blue,OneSize,Cotton,TRUE
+b71abcb1-1b4d-47f8-a3b1-5e6542c8d791,MSHO00542,M&S Collection Furniture 542,Home,Furniture,M&S Collection,13.04,8.71,27/03/2025,Green,S,Polyester,TRUE
+c012e98c-4dd8-4f58-824e-366cb7931526,MSHO00543,Autograph Decor 543,Home,Decor,Autograph,36.76,27.67,07/05/2025,Beige,XS,Cotton,TRUE
+a083912e-ee4a-40bf-8fb9-5c9e4d487b24,MSBE00544,Foodies Makeup 544,Beauty,Makeup,Foodies,4,1.89,27/05/2025,Black,L,Wool,TRUE
+d7b0f3ef-b828-494a-9cff-7712688f6f9f,MSWO00545,Limited Edition Coats 545,Womens_Clothing,Coats,Limited Edition,12.46,6.93,30/11/2024,Blue,L,Cotton,TRUE
+8bb8c3e9-f56b-45cd-b814-7bd95800cdea,MSWO00546,M&S Collection Knitwear 546,Womens_Clothing,Knitwear,M&S Collection,4.3,2.46,14/04/2025,Green,M,Cotton,TRUE
+e8502ac6-9c9d-4444-8424-572d87ae3524,MSME00547,Per Una Outerwear 547,Mens_Clothing,Outerwear,Per Una,3.05,1.96,05/07/2025,Beige,XS,Linen,FALSE
+b2cc0c86-d630-4a13-8e3a-9f553ab38380,MSWO00548,Beauty Line Knitwear 548,Womens_Clothing,Knitwear,Beauty Line,7.42,5.79,15/06/2025,Beige,XS,Silk,FALSE
+7f6fb245-7125-4c17-be9d-bbb78d5e5aef,MSME00549,Foodies Shorts 549,Mens_Clothing,Shorts,Foodies,25.33,12.83,29/12/2024,Blue,XS,Cotton,TRUE
+0bc76fc2-a50f-4e01-924a-9673a38aeb78,MSME00550,Essential Outerwear 550,Mens_Clothing,Outerwear,Essential,13.11,7.65,12/03/2025,Beige,M,Wool,TRUE
+ebf2b3b5-7eb6-4f58-864b-3c7b6bf9a6ca,MSWO00551,Beauty Line Coats 551,Womens_Clothing,Coats,Beauty Line,11.15,7.1,20/12/2024,Blue,XS,Wool,TRUE
+414d0b20-70d3-40e4-8170-6ad21a67eeb7,MSWO00552,Beauty Line Knitwear 552,Womens_Clothing,Knitwear,Beauty Line,8.8,6.48,18/01/2025,Blue,XS,Cotton,TRUE
+99a5151c-9026-4447-b249-5c9dc6591d05,MSHO00553,Beauty Line Bedding 553,Home,Bedding,Beauty Line,8.12,4.15,16/12/2024,Multi,XS,Wool,TRUE
+b154bf8b-d256-4fc9-93d3-204e297a44b1,MSBE00554,Essential Haircare 554,Beauty,Haircare,Essential,23.13,15.06,18/04/2025,Red,OneSize,Linen,TRUE
+90e0d528-c1e3-456a-982d-eea876f0f241,MSHO00555,Home Range Furniture 555,Home,Furniture,Home Range,13.57,10.2,19/01/2025,Blue,L,Cotton,TRUE
+4efd3e34-8657-47b3-99b5-d15622eb4740,MSBE00556,Limited Edition Fragrance 556,Beauty,Fragrance,Limited Edition,4.85,3.71,03/04/2025,Multi,M,Linen,TRUE
+744449d4-56be-4d7a-8c4e-f47cabefc036,MSWO00557,Home Range Dresses 557,Womens_Clothing,Dresses,Home Range,15.98,8.17,02/09/2024,Multi,XL,Silk,FALSE
+a1d754bd-9123-42e2-a70c-92aa3da60851,MSFO00558,M&S Collection Fresh 558,Food,Fresh,M&S Collection,5.93,3.66,02/09/2024,Multi,L,Linen,TRUE
+edc723c8-4228-479e-85d0-0cee0a2c6733,MSFO00559,Limited Edition Bakery 559,Food,Bakery,Limited Edition,16.72,8.88,28/01/2025,Black,M,Cotton,TRUE
+7446fc09-1cd1-4f5e-95dc-6a06519ba6ba,MSWO00560,Per Una Leggings 560,Womens_Clothing,Leggings,Per Una,19.24,11.57,27/12/2024,Red,L,Polyester,FALSE
+d44e652c-b52c-4c0d-a15f-8b68a7f73b08,MSME00561,Limited Edition Trousers 561,Mens_Clothing,Trousers,Limited Edition,12.79,9.95,28/08/2024,Blue,XS,Silk,TRUE
+a15f1e0e-3795-479a-8196-982aa67224bd,MSBE00562,Per Una Makeup 562,Beauty,Makeup,Per Una,5.23,3.53,23/07/2025,Multi,XL,Wool,TRUE
+ac74fd1e-fdbe-4273-ad9b-ab42d31f4feb,MSWO00563,Foodies Dresses 563,Womens_Clothing,Dresses,Foodies,10.7,4.88,16/12/2024,White,L,Linen,TRUE
+b8272bf0-d739-4a11-a37b-3438613bbcbe,MSHO00564,Beauty Line Storage 564,Home,Storage,Beauty Line,5.1,2.4,01/05/2025,Multi,XS,Blend,TRUE
+7fd186a3-11f4-4318-856f-36ef701bc5da,MSFO00565,Autograph Bakery 565,Food,Bakery,Autograph,17.73,9.29,02/05/2025,Black,S,Polyester,TRUE
+09b0f306-b690-4056-bedc-b69ab993430e,MSFO00566,Autograph Frozen 566,Food,Frozen,Autograph,21.79,12.07,30/10/2024,White,XS,Wool,TRUE
+8f0c7948-8c2a-45ec-8de5-72e177f5f774,MSHO00567,Essential Furniture 567,Home,Furniture,Essential,41.97,21.39,04/01/2025,Black,OneSize,Silk,TRUE
+23cb9476-1711-4ef9-8fcc-7665a208b432,MSBE00568,Per Una Skincare 568,Beauty,Skincare,Per Una,8.75,4.25,27/10/2024,Green,L,Polyester,TRUE
+024202cd-8301-4c83-93b0-66aff2d38915,MSBE00569,Foodies Skincare 569,Beauty,Skincare,Foodies,6.45,4.46,13/11/2024,Green,OneSize,Polyester,TRUE
+d24bc416-c239-4224-ae9b-b69c0d5ae3be,MSBE00570,Home Range Fragrance 570,Beauty,Fragrance,Home Range,14.08,10.35,02/08/2025,Red,M,Wool,TRUE
+997c1f1e-f044-4cce-b829-029ce20f5d7f,MSBE00571,Limited Edition Skincare 571,Beauty,Skincare,Limited Edition,12.22,6.44,17/03/2025,Blue,M,Blend,TRUE
+81e6915c-7b17-47b5-b77e-aa1c6cf34276,MSHO00572,Foodies Decor 572,Home,Decor,Foodies,19.1,11.44,10/10/2024,White,OneSize,Cotton,TRUE
+551fe6fc-f3f3-4243-add6-72754c5b157c,MSME00573,Beauty Line Outerwear 573,Mens_Clothing,Outerwear,Beauty Line,95.57,69.5,15/02/2025,Multi,XL,Wool,TRUE
+97a893f7-ff28-4fa1-af53-7b95e5184c1f,MSFO00574,Autograph Fresh 574,Food,Fresh,Autograph,3.56,2.06,08/11/2024,Green,OneSize,Linen,TRUE
+be11686d-e14d-426d-83ce-b6829a9ba170,MSFO00575,M&S Collection Deli 575,Food,Deli,M&S Collection,9.95,6.15,25/03/2025,Blue,S,Polyester,TRUE
+b594f636-b569-4906-95b1-429887b81fdb,MSME00576,Beauty Line Shirts 576,Mens_Clothing,Shirts,Beauty Line,17.75,9.53,09/10/2024,Red,M,Blend,TRUE
+ebbdddf6-4e5d-40a0-957f-1e9abab8cc38,MSHO00577,Foodies Furniture 577,Home,Furniture,Foodies,11.12,6.88,11/04/2025,Beige,XS,Blend,TRUE
+59ecb7d6-c4db-4650-b87b-701e051ca646,MSHO00578,Beauty Line Furniture 578,Home,Furniture,Beauty Line,17.26,11.88,12/10/2024,Blue,L,Linen,TRUE
+d9526a22-21be-4752-8c63-2990173439bd,MSHO00579,Essential Kitchen 579,Home,Kitchen,Essential,41.72,23.5,07/04/2025,Beige,OneSize,Cotton,TRUE
+b1187094-3e69-4dcd-9402-4ade353abc1c,MSBE00580,Per Una Skincare 580,Beauty,Skincare,Per Una,4.16,1.97,15/01/2025,Multi,XL,Polyester,TRUE
+8a95836d-ec51-430d-a642-a07fecf6cebe,MSME00581,Essential Trousers 581,Mens_Clothing,Trousers,Essential,19.33,12,12/02/2025,Beige,L,Linen,TRUE
+23abcd50-f0a4-49e2-9680-96a4ceb3adff,MSWO00582,Per Una Coats 582,Womens_Clothing,Coats,Per Una,12.07,6.56,03/12/2024,Beige,S,Linen,TRUE
+e7406142-fa76-48b7-846a-b1724c6be8f9,MSME00583,Essential Knitwear 583,Mens_Clothing,Knitwear,Essential,89.71,55.7,20/02/2025,Beige,OneSize,Blend,TRUE
+645cf99d-2ec3-445c-90fc-1659a08159d2,MSBE00584,Beauty Line Fragrance 584,Beauty,Fragrance,Beauty Line,8.58,5.82,23/03/2025,Green,S,Silk,TRUE
+78d265c4-5496-46e1-948f-70f6ad546a12,MSFO00585,Foodies Deli 585,Food,Deli,Foodies,20.05,11.66,19/09/2024,White,XS,Cotton,TRUE
+e632d4ed-6977-4920-9512-ee4f4b8c27ef,MSHO00586,Essential Storage 586,Home,Storage,Essential,15.74,12.35,25/08/2024,Green,OneSize,Cotton,TRUE
+05c89cf5-674d-4b57-8b2e-08f8e5b983eb,MSHO00587,Home Range Decor 587,Home,Decor,Home Range,14.68,9.99,15/12/2024,Multi,M,Wool,TRUE
+c470e218-56e9-437e-8145-53ba93a2d1e2,MSHO00588,Per Una Kitchen 588,Home,Kitchen,Per Una,16.32,8.79,28/03/2025,White,S,Cotton,TRUE
+3fe7ba3a-996b-4a5e-9fab-3c1effeb0a33,MSFO00589,Home Range Bakery 589,Food,Bakery,Home Range,10.49,6.41,27/02/2025,Beige,S,Blend,TRUE
+29df3471-2dae-496f-aec7-83b175507993,MSBE00590,Essential Fragrance 590,Beauty,Fragrance,Essential,1.37,0.83,26/10/2024,Black,L,Silk,TRUE
+49397c5f-a285-4899-bc33-4d646759f416,MSFO00591,Limited Edition Deli 591,Food,Deli,Limited Edition,11.16,8.5,17/07/2025,Green,OneSize,Blend,TRUE
+da33099a-8c1d-49af-83ad-464d7e8c040f,MSFO00592,Home Range Bakery 592,Food,Bakery,Home Range,4.17,2.95,03/11/2024,White,M,Polyester,TRUE
+a010c46d-4315-45aa-a1b2-10d909464855,MSFO00593,Essential Fresh 593,Food,Fresh,Essential,12.89,8.87,07/07/2025,Red,L,Polyester,TRUE
+48481b19-2704-4292-be46-b55094cb190b,MSFO00594,Home Range Fresh 594,Food,Fresh,Home Range,32.58,15.86,25/08/2024,Beige,XS,Polyester,TRUE
+6a9246fe-272d-4533-b58e-6cc0b6cfa485,MSHO00595,Home Range Furniture 595,Home,Furniture,Home Range,20.45,16.05,12/05/2025,Green,M,Linen,TRUE
+1de310e6-d1e7-4774-9a2b-2e956140264d,MSWO00596,M&S Collection Coats 596,Womens_Clothing,Coats,M&S Collection,6.1,4.86,07/03/2025,Multi,OneSize,Linen,TRUE
+176ea1ae-3252-487e-89b1-4921b9c8a0c4,MSFO00597,Beauty Line Frozen 597,Food,Frozen,Beauty Line,1.58,1.08,05/09/2024,Blue,XL,Cotton,TRUE
+e5485a90-c1c8-4167-9016-d06cd1250fdd,MSBE00598,Essential Bath 598,Beauty,Bath,Essential,4.62,2.97,26/07/2025,Black,XS,Polyester,TRUE
+a2e93014-7931-4e50-84e4-5f577e7fbf98,MSME00599,Foodies Knitwear 599,Mens_Clothing,Knitwear,Foodies,2.46,1.17,24/12/2024,White,L,Polyester,TRUE
+413d377e-3f25-4e55-b652-7e6e535b46b4,MSME00600,Beauty Line Shirts 600,Mens_Clothing,Shirts,Beauty Line,21.04,12.28,26/09/2024,Green,OneSize,Polyester,TRUE
+f7a87d6c-b6d6-4ec5-a70f-5ff68d93596a,MSWO00601,Beauty Line Dresses 601,Womens_Clothing,Dresses,Beauty Line,39.65,21.39,28/06/2025,Green,S,Polyester,TRUE
+81f48ecf-fa31-431d-aff8-d83c83a4613a,MSME00602,Autograph Outerwear 602,Mens_Clothing,Outerwear,Autograph,21.7,13.79,14/02/2025,Blue,XL,Silk,TRUE
+c21941d7-b521-4df4-9756-c0c88ed8c09d,MSBE00603,Beauty Line Haircare 603,Beauty,Haircare,Beauty Line,36.68,28.01,01/05/2025,Black,XS,Cotton,TRUE
+0b5ff3a6-2a4a-4d32-8f8a-49564cf66713,MSHO00604,Home Range Bedding 604,Home,Bedding,Home Range,6.83,5.42,04/05/2025,Multi,XL,Polyester,TRUE
+53779cca-09cf-4308-838c-23f345e9727e,MSWO00605,Limited Edition Tops 605,Womens_Clothing,Tops,Limited Edition,28.08,18.36,25/07/2025,Beige,M,Wool,TRUE
+8cb2ebf8-ae60-4a99-917c-a8d17f08dba5,MSBE00606,Essential Bath 606,Beauty,Bath,Essential,102.23,51.61,18/08/2024,Blue,XS,Cotton,TRUE
+cfac0f31-1166-4714-820e-02d76bd8281a,MSHO00607,Home Range Furniture 607,Home,Furniture,Home Range,17.8,10.12,07/02/2025,Black,OneSize,Polyester,TRUE
+d7d03543-e7ac-45ef-9baa-587e87734e33,MSBE00608,Limited Edition Fragrance 608,Beauty,Fragrance,Limited Edition,9.83,6.32,30/11/2024,Blue,L,Cotton,TRUE
+5301202c-effd-4b3b-b82d-7eee112b4571,MSME00609,M&S Collection Trousers 609,Mens_Clothing,Trousers,M&S Collection,6.04,4.71,09/03/2025,White,XL,Polyester,TRUE
+711bbbab-8deb-48d9-a976-0ef7d06ffaa3,MSWO00610,Essential Coats 610,Womens_Clothing,Coats,Essential,11.69,5.31,08/12/2024,Multi,XL,Linen,TRUE
+d03f62f0-4586-466a-b0cd-e408537851fb,MSWO00611,M&S Collection Dresses 611,Womens_Clothing,Dresses,M&S Collection,76.61,56.35,05/12/2024,Red,OneSize,Cotton,TRUE
+469f7e70-8db1-4d64-8b66-9592cc4d84fd,MSBE00612,Essential Skincare 612,Beauty,Skincare,Essential,8.89,5.69,04/01/2025,Black,OneSize,Polyester,TRUE
+354c045e-bb5a-441d-8093-cc622982902a,MSWO00613,Foodies Knitwear 613,Womens_Clothing,Knitwear,Foodies,19.98,14.27,04/01/2025,Beige,XS,Blend,TRUE
+303a27aa-c9c2-4491-827b-bd5c84c2bf77,MSFO00614,Per Una Deli 614,Food,Deli,Per Una,3.8,1.78,21/04/2025,Black,XS,Linen,TRUE
+6496696b-7a2e-4275-a310-5d495acc2d5c,MSWO00615,Autograph Knitwear 615,Womens_Clothing,Knitwear,Autograph,15.04,9.64,31/03/2025,Multi,XS,Silk,TRUE
+18e92350-88d3-4983-afff-3e471cb07b92,MSME00616,Limited Edition Knitwear 616,Mens_Clothing,Knitwear,Limited Edition,15.88,11.19,23/04/2025,Green,OneSize,Silk,TRUE
+768c2f98-8880-4e52-907b-829e86fc3f97,MSWO00617,Beauty Line Leggings 617,Womens_Clothing,Leggings,Beauty Line,2.6,1.29,18/05/2025,Blue,OneSize,Silk,TRUE
+a5df95dc-3655-4588-a458-6937122321d1,MSWO00618,Autograph Dresses 618,Womens_Clothing,Dresses,Autograph,12.04,6.05,21/09/2024,Red,XL,Blend,TRUE
+1f96cd44-fd45-4a94-a074-8df17d7cdc6c,MSWO00619,Autograph Leggings 619,Womens_Clothing,Leggings,Autograph,19.74,13.95,26/01/2025,Beige,OneSize,Cotton,FALSE
+2180d294-c873-4776-834e-371d4d19017f,MSME00620,Essential Outerwear 620,Mens_Clothing,Outerwear,Essential,25.11,16.68,04/12/2024,Green,L,Cotton,TRUE
+f1354169-89ab-4a67-a807-d0002dc578cb,MSME00621,Essential Shirts 621,Mens_Clothing,Shirts,Essential,26.23,16.99,07/09/2024,Green,OneSize,Wool,TRUE
+4b405154-c7ef-4c57-acbe-522a45711bf2,MSWO00622,M&S Collection Dresses 622,Womens_Clothing,Dresses,M&S Collection,16.38,11.73,27/11/2024,Red,S,Blend,TRUE
+d9385a66-972e-4c43-9ef5-af8ba050d8b3,MSHO00623,Beauty Line Decor 623,Home,Decor,Beauty Line,27.39,13.87,10/02/2025,White,M,Blend,TRUE
+d97541d7-4657-4a77-8f36-4b3502a28555,MSHO00624,Autograph Kitchen 624,Home,Kitchen,Autograph,10.09,7.37,18/08/2024,Black,L,Silk,TRUE
+b5ab9cd5-4e6d-450d-b379-2410ded4bfe9,MSBE00625,Foodies Haircare 625,Beauty,Haircare,Foodies,5.67,4.02,06/06/2025,Beige,S,Cotton,TRUE
+285c187d-3a25-4183-a032-52ff882c68d6,MSWO00626,Autograph Tops 626,Womens_Clothing,Tops,Autograph,4.15,2.38,21/08/2024,Black,XL,Silk,TRUE
+0541a6fd-4c26-42a4-9ede-69856221fa9e,MSBE00627,Foodies Makeup 627,Beauty,Makeup,Foodies,18.18,11.61,02/11/2024,Multi,M,Linen,TRUE
+ee9e942b-e851-4cf8-a709-274eebc22799,MSME00628,Beauty Line Outerwear 628,Mens_Clothing,Outerwear,Beauty Line,15,11.12,22/08/2024,Red,L,Silk,TRUE
+db21a359-b140-45a6-b94f-af0268f3003b,MSHO00629,M&S Collection Decor 629,Home,Decor,M&S Collection,15.07,10.73,28/08/2024,Beige,OneSize,Linen,TRUE
+5b2332e1-a5c6-433c-9b9d-656532e62631,MSFO00630,Limited Edition Deli 630,Food,Deli,Limited Edition,5.48,3.05,16/06/2025,Beige,M,Linen,TRUE
+62b5aebf-992c-4be9-b3f1-4a726fe2f93b,MSFO00631,Foodies Frozen 631,Food,Frozen,Foodies,8.22,5.14,10/02/2025,Beige,OneSize,Polyester,TRUE
+27834006-47d3-43dc-80bb-b8b056bbfa60,MSBE00632,M&S Collection Makeup 632,Beauty,Makeup,M&S Collection,5.84,4.1,01/09/2024,Red,OneSize,Polyester,TRUE
+c4482764-f6d6-41a0-930d-4c0240ffd4bc,MSBE00633,Per Una Haircare 633,Beauty,Haircare,Per Una,1.85,0.97,09/01/2025,Red,L,Wool,TRUE
+8f3fd9b5-1536-4b8c-8f27-49e699223d3c,MSHO00634,Limited Edition Bedding 634,Home,Bedding,Limited Edition,3.4,2.36,26/02/2025,White,OneSize,Silk,TRUE
+b3582f94-6162-49eb-b3e7-60538c17a871,MSME00635,Beauty Line Shirts 635,Mens_Clothing,Shirts,Beauty Line,2.5,1.67,25/04/2025,Black,XL,Silk,TRUE
+8e52892e-8e70-4dd9-8799-3929fa9cb563,MSBE00636,Home Range Haircare 636,Beauty,Haircare,Home Range,8.38,4.95,18/10/2024,Red,L,Blend,TRUE
+73b43c23-ae82-4069-a6fc-2fced0114fe6,MSWO00637,Foodies Coats 637,Womens_Clothing,Coats,Foodies,4.21,2.6,22/08/2024,Red,XL,Linen,TRUE
+f76c3eb7-da46-4d3f-a577-ad33a87345ee,MSWO00638,Essential Leggings 638,Womens_Clothing,Leggings,Essential,7.51,3.97,19/04/2025,White,XL,Polyester,TRUE
+775087ca-2759-44d3-9c27-a70a66a8afd9,MSBE00639,Home Range Fragrance 639,Beauty,Fragrance,Home Range,16.01,9.93,13/01/2025,Multi,XS,Polyester,TRUE
+40b0a939-107b-4138-8bac-18d3886c9575,MSHO00640,Beauty Line Storage 640,Home,Storage,Beauty Line,6.94,5.13,09/06/2025,Beige,OneSize,Wool,TRUE
+5e1274ed-1e9d-46dd-9825-87a11f291d50,MSWO00641,Limited Edition Dresses 641,Womens_Clothing,Dresses,Limited Edition,25.66,17.26,07/03/2025,Red,M,Wool,TRUE
+00facabe-cb97-48d8-b06f-94e9c4e7b246,MSHO00642,Home Range Storage 642,Home,Storage,Home Range,10.45,7.57,03/12/2024,Beige,XS,Cotton,TRUE
+aae4263a-b201-46b8-8eb3-54c433d2e8b4,MSBE00643,Foodies Makeup 643,Beauty,Makeup,Foodies,8.1,5.88,16/02/2025,Red,M,Linen,TRUE
+1b11d5bc-f0af-4288-b756-99377b7ef28e,MSWO00644,Limited Edition Coats 644,Womens_Clothing,Coats,Limited Edition,1.53,0.75,29/11/2024,Black,S,Blend,TRUE
+9052a040-d731-4e2a-835e-e71ef695c354,MSBE00645,Autograph Skincare 645,Beauty,Skincare,Autograph,16.99,10.23,01/01/2025,Multi,L,Silk,TRUE
+cb48927d-2da3-4527-8c38-4525c692173f,MSFO00646,Beauty Line Fresh 646,Food,Fresh,Beauty Line,7.21,5.27,07/06/2025,Red,XL,Blend,TRUE
+aa288e6d-6d37-4b6f-ab6e-afa2f254b33f,MSBE00647,Beauty Line Bath 647,Beauty,Bath,Beauty Line,10.44,8.35,04/12/2024,White,S,Blend,TRUE
+223883f2-b7e9-4af7-8219-96facf9be458,MSME00648,Foodies Shirts 648,Mens_Clothing,Shirts,Foodies,4.85,3.26,05/04/2025,Beige,XL,Linen,TRUE
+a74215ba-dc13-46c6-a1f8-35d627c0c037,MSFO00649,Foodies Bakery 649,Food,Bakery,Foodies,64.63,33.12,22/02/2025,White,OneSize,Polyester,TRUE
+91873928-b18a-4ebd-98e0-ea5b91eb64db,MSHO00650,Beauty Line Decor 650,Home,Decor,Beauty Line,16.01,12.69,24/04/2025,Multi,S,Polyester,TRUE
+7bffd7fe-48ba-4bc8-af04-490a90b56bfe,MSFO00651,Home Range Ambient 651,Food,Ambient,Home Range,3.53,1.62,29/11/2024,Beige,OneSize,Linen,TRUE
+613785d8-6375-4b33-9472-ae66f5c6cfca,MSME00652,Essential Trousers 652,Mens_Clothing,Trousers,Essential,55.61,38.6,08/08/2025,Beige,M,Blend,TRUE
+57f33750-9146-4abb-9008-07031903be39,MSME00653,Home Range Shorts 653,Mens_Clothing,Shorts,Home Range,54.96,39.79,12/09/2024,Beige,XS,Wool,TRUE
+1eb6f312-004c-44b7-b0c3-b720968242ee,MSFO00654,Foodies Deli 654,Food,Deli,Foodies,30.87,22.99,26/09/2024,Beige,OneSize,Linen,TRUE
+1683249e-381f-4a0b-9fb6-75074b21e180,MSBE00655,Autograph Skincare 655,Beauty,Skincare,Autograph,10.22,6.16,16/02/2025,Red,L,Polyester,TRUE
+415e2414-2d4c-4cce-a2d7-768fefbd736a,MSWO00656,Essential Tops 656,Womens_Clothing,Tops,Essential,4.48,2.14,27/03/2025,Multi,S,Wool,TRUE
+212acf9a-237c-4147-8472-3144f522686f,MSME00657,Essential Shirts 657,Mens_Clothing,Shirts,Essential,11.63,8.91,15/12/2024,Blue,XL,Cotton,TRUE
+38ed11d4-07fb-4aed-906f-b33a4fc03d4e,MSBE00658,Limited Edition Skincare 658,Beauty,Skincare,Limited Edition,9.52,7.36,13/09/2024,Beige,OneSize,Linen,TRUE
+585f8f95-7daa-47bb-93a3-79f9eb9b83b9,MSFO00659,M&S Collection Ambient 659,Food,Ambient,M&S Collection,4.96,2.26,07/08/2025,Black,L,Silk,FALSE
+0133ea89-9a70-4938-8d8f-fc59b8f53c4e,MSHO00660,M&S Collection Storage 660,Home,Storage,M&S Collection,5.16,3.74,10/07/2025,Red,OneSize,Wool,TRUE
+0f52b183-be98-403b-8178-d49c7dce9a1e,MSBE00661,Home Range Makeup 661,Beauty,Makeup,Home Range,5.16,2.99,22/11/2024,Multi,XL,Linen,TRUE
+ecea3951-3ef7-43a9-a741-b8800d944b94,MSME00662,Essential Trousers 662,Mens_Clothing,Trousers,Essential,7.91,3.99,24/03/2025,Black,S,Blend,TRUE
+f5f7fddb-c20e-4b9b-a1eb-a86ae86a1a07,MSME00663,Autograph Shorts 663,Mens_Clothing,Shorts,Autograph,23.17,10.7,31/10/2024,Black,XS,Silk,TRUE
+5897a7ae-7261-4d7a-bd14-76b6ba7bb99d,MSHO00664,Per Una Kitchen 664,Home,Kitchen,Per Una,31.43,17.95,02/02/2025,White,M,Cotton,TRUE
+1b24a7d7-95c1-43dc-8221-07044a526c76,MSME00665,Per Una Shirts 665,Mens_Clothing,Shirts,Per Una,75.94,45.1,15/08/2024,Green,XL,Cotton,TRUE
+38966dcf-12bb-4b00-9921-3d4ea4cd6e28,MSFO00666,Beauty Line Ambient 666,Food,Ambient,Beauty Line,10.64,7.52,27/02/2025,Multi,XL,Linen,TRUE
+ba4ae99d-322d-4bb8-8185-5daed99daacd,MSHO00667,Limited Edition Storage 667,Home,Storage,Limited Edition,9.84,7.75,29/12/2024,Blue,XL,Cotton,TRUE
+e8a2ad67-6974-4b66-84d1-a174b211cfe9,MSME00668,Foodies Outerwear 668,Mens_Clothing,Outerwear,Foodies,9.65,7.14,28/12/2024,Red,M,Polyester,TRUE
+c9472e7a-b07f-4974-80c1-cd7190b0fcef,MSHO00669,Home Range Decor 669,Home,Decor,Home Range,28.05,19.8,18/06/2025,Green,S,Linen,TRUE
+c1fd024c-a6a3-493a-9f6b-c9ec2cab7703,MSFO00670,Autograph Frozen 670,Food,Frozen,Autograph,5.73,3.26,19/07/2025,Beige,M,Silk,TRUE
+99020f0e-4b50-466b-861a-3532c3f1a556,MSFO00671,Limited Edition Deli 671,Food,Deli,Limited Edition,21.11,16.5,16/01/2025,Red,OneSize,Wool,TRUE
+460335de-2669-45ca-9f61-683b98c1bd23,MSWO00672,Essential Coats 672,Womens_Clothing,Coats,Essential,8.3,4.46,01/07/2025,White,OneSize,Wool,TRUE
+3d7231b4-dd07-46c7-b52a-e5734ac54930,MSFO00673,Beauty Line Ambient 673,Food,Ambient,Beauty Line,7.48,5.16,24/05/2025,Black,XS,Wool,TRUE
+495156af-3e82-48d0-90f2-2c000568779c,MSME00674,Autograph Knitwear 674,Mens_Clothing,Knitwear,Autograph,4.88,3.67,20/09/2024,Red,S,Linen,TRUE
+8dafa95a-cdbe-47e6-a398-dca500533a7a,MSWO00675,Limited Edition Tops 675,Womens_Clothing,Tops,Limited Edition,12.88,6.1,02/11/2024,Multi,OneSize,Silk,TRUE
+b55aab38-d45e-4b14-9c56-5b0ff44f37ca,MSME00676,Foodies Shorts 676,Mens_Clothing,Shorts,Foodies,86.17,45.6,14/11/2024,Beige,XS,Blend,TRUE
+95b3af9b-8239-4d29-befe-01195d85d4fa,MSWO00677,Home Range Coats 677,Womens_Clothing,Coats,Home Range,28.4,17.6,15/07/2025,Red,XS,Cotton,TRUE
+aa1536c1-2879-4be8-8e10-c30e749d0eb4,MSHO00678,Autograph Storage 678,Home,Storage,Autograph,17.53,9.21,04/07/2025,White,S,Wool,TRUE
+59ae2979-95d0-4413-9bd7-f3f0342cb80a,MSBE00679,Foodies Haircare 679,Beauty,Haircare,Foodies,5.5,3.36,11/12/2024,Green,XS,Silk,TRUE
+bcd87bdd-4bc9-49c8-ba3d-412111b2ecd6,MSFO00680,Autograph Frozen 680,Food,Frozen,Autograph,5.71,4.14,29/05/2025,Multi,OneSize,Linen,TRUE
+84b7d8ff-740c-476e-b089-7bfe7efaa57d,MSWO00681,Autograph Knitwear 681,Womens_Clothing,Knitwear,Autograph,30.05,22,24/12/2024,Green,OneSize,Wool,TRUE
+1651f01d-728f-4389-9983-7f83d98d03fa,MSHO00682,Foodies Furniture 682,Home,Furniture,Foodies,1.79,1.35,09/01/2025,Black,OneSize,Cotton,TRUE
+7e0897ca-b926-41fb-b40b-4c43a7eda18e,MSFO00683,Per Una Fresh 683,Food,Fresh,Per Una,11.79,6.67,10/03/2025,Beige,L,Linen,TRUE
+b5574174-08b9-44d7-8a44-299d0388ad60,MSME00684,Home Range Knitwear 684,Mens_Clothing,Knitwear,Home Range,5.07,2.73,23/01/2025,Red,XL,Linen,TRUE
+b215c870-edef-4b72-84ef-289e0fbc751d,MSWO00685,Foodies Dresses 685,Womens_Clothing,Dresses,Foodies,18.42,14.64,03/09/2024,White,XL,Cotton,TRUE
+4196b2ec-5931-490d-b5fe-8cbb040b7c91,MSHO00686,Foodies Kitchen 686,Home,Kitchen,Foodies,63.16,30.5,21/09/2024,Beige,XL,Polyester,TRUE
+346ec6e0-5766-4fa5-9cf4-4308b5011835,MSME00687,Essential Shorts 687,Mens_Clothing,Shorts,Essential,74.97,47.87,23/03/2025,Blue,XS,Polyester,TRUE
+dc548760-257e-46e7-9152-f7a83c2165ed,MSFO00688,Beauty Line Frozen 688,Food,Frozen,Beauty Line,15.94,11.76,02/02/2025,Beige,XL,Cotton,TRUE
+ceacef87-c90d-4dee-8efd-2efad0d128c6,MSWO00689,Autograph Knitwear 689,Womens_Clothing,Knitwear,Autograph,6.19,2.99,21/02/2025,Blue,OneSize,Linen,TRUE
+f30e4821-a567-4309-9e36-78c336fd8bd7,MSHO00690,Per Una Decor 690,Home,Decor,Per Una,2.35,1.71,19/01/2025,Beige,OneSize,Polyester,TRUE
+8c84e0b4-bf9e-458b-a6aa-a2863cb60328,MSFO00691,Limited Edition Frozen 691,Food,Frozen,Limited Edition,14.59,7.98,19/10/2024,Green,L,Silk,TRUE
+3e0df5ed-4637-4c04-9b3c-b94791680b96,MSHO00692,Per Una Storage 692,Home,Storage,Per Una,8.15,6.28,20/11/2024,White,XL,Wool,TRUE
+24ce89f7-d241-4ae4-b361-898d5699a9fe,MSBE00693,M&S Collection Makeup 693,Beauty,Makeup,M&S Collection,38.59,24.39,20/06/2025,Green,S,Polyester,TRUE
+868e0b51-3016-4991-817a-5161f84aa52b,MSBE00694,Home Range Fragrance 694,Beauty,Fragrance,Home Range,29.5,16.55,08/08/2025,Blue,OneSize,Blend,TRUE
+adb57854-56a8-4674-abe8-7d7710d46c8d,MSBE00695,Beauty Line Haircare 695,Beauty,Haircare,Beauty Line,21.99,16.87,30/11/2024,Green,M,Silk,TRUE
+d9db6369-f712-4101-aadd-389d00f42d20,MSME00696,Autograph Shorts 696,Mens_Clothing,Shorts,Autograph,12.49,8.24,16/08/2024,Multi,M,Polyester,TRUE
+1cff9db9-5e4e-4415-a81a-81bffbc9d8a9,MSME00697,Autograph Knitwear 697,Mens_Clothing,Knitwear,Autograph,3.84,2.93,31/01/2025,Beige,XS,Cotton,TRUE
+c724abb1-524d-4756-962d-c48d8ee262a1,MSWO00698,Foodies Leggings 698,Womens_Clothing,Leggings,Foodies,10.18,6.77,11/04/2025,Multi,XL,Polyester,FALSE
+1ffd99c3-6a2e-4cfe-b674-a7d75160dd5a,MSFO00699,Beauty Line Ambient 699,Food,Ambient,Beauty Line,4.28,3.21,23/12/2024,Beige,S,Wool,TRUE
+5b97c0f2-74cd-497c-a575-d80c34554d7e,MSFO00700,Per Una Ambient 700,Food,Ambient,Per Una,12.45,9.82,10/10/2024,Black,XL,Linen,TRUE
+ea5554fb-3c12-43a6-957b-c5bfe458bceb,MSHO00701,M&S Collection Storage 701,Home,Storage,M&S Collection,43.42,26.92,29/08/2024,Beige,S,Linen,TRUE
+9584d8a5-7266-46a9-aa24-d7f73709fee3,MSFO00702,Beauty Line Fresh 702,Food,Fresh,Beauty Line,5.31,4.24,19/03/2025,Blue,S,Linen,FALSE
+255c3280-9a38-44bc-8dce-db8a8af6626f,MSME00703,Home Range Outerwear 703,Mens_Clothing,Outerwear,Home Range,35.04,23.81,14/12/2024,Red,S,Silk,TRUE
+83472737-c42c-47e6-aaee-937b45111e3d,MSHO00704,Limited Edition Decor 704,Home,Decor,Limited Edition,12.55,7.96,16/05/2025,Red,OneSize,Polyester,TRUE
+f579080f-bf07-4a54-ae71-7a5e422cc43c,MSHO00705,Beauty Line Furniture 705,Home,Furniture,Beauty Line,9.58,7.07,09/01/2025,Black,XS,Cotton,FALSE
+4501decc-9bd0-4f69-a2c0-46eb59fd825b,MSHO00706,Essential Bedding 706,Home,Bedding,Essential,14.51,7.48,30/04/2025,Multi,OneSize,Wool,TRUE
+dc58ec23-8632-4ebe-91e4-bd574c02a430,MSFO00707,Foodies Fresh 707,Food,Fresh,Foodies,8.87,6.53,20/12/2024,Beige,L,Wool,TRUE
+f105eb28-492b-4b18-8bf2-825f8cef7d62,MSWO00708,Essential Leggings 708,Womens_Clothing,Leggings,Essential,4.92,3.03,07/08/2025,Black,S,Linen,TRUE
+65359273-ed4d-4124-b027-52c0e3540bb7,MSHO00709,Beauty Line Furniture 709,Home,Furniture,Beauty Line,33.98,20.75,09/03/2025,White,XS,Linen,TRUE
+4c9b0d66-139a-47f1-a0e9-078fc5bf2a43,MSBE00710,Limited Edition Makeup 710,Beauty,Makeup,Limited Edition,23.64,17.92,21/05/2025,Red,XL,Blend,TRUE
+a400d1e7-92ff-4564-a01d-2254abfe5d4e,MSME00711,Per Una Trousers 711,Mens_Clothing,Trousers,Per Una,7.31,3.73,12/05/2025,Green,XL,Blend,TRUE
+89ee13e3-03c4-4d57-98be-7bc1a5cf6d0f,MSME00712,Home Range Outerwear 712,Mens_Clothing,Outerwear,Home Range,7.11,5.45,11/06/2025,Beige,XS,Silk,TRUE
+8c85212d-f4a5-4b2a-be7d-cfab61563573,MSBE00713,Per Una Makeup 713,Beauty,Makeup,Per Una,53.35,32.42,18/06/2025,Beige,L,Cotton,TRUE
+e0214c2d-dfb8-444f-b138-c56af4fd87ee,MSME00714,Per Una Shorts 714,Mens_Clothing,Shorts,Per Una,4.36,2.84,08/05/2025,Blue,OneSize,Linen,TRUE
+231a0d39-a8e1-422b-b65b-a0f3135bd0fb,MSFO00715,M&S Collection Fresh 715,Food,Fresh,M&S Collection,74.69,55.61,25/12/2024,Blue,M,Polyester,TRUE
+64ac75a7-bd61-473d-9913-e62dba4629c1,MSBE00716,M&S Collection Bath 716,Beauty,Bath,M&S Collection,7.93,3.65,07/05/2025,Beige,OneSize,Blend,TRUE
+34a9cefc-3c4c-4554-8539-61b80459e642,MSWO00717,Beauty Line Tops 717,Womens_Clothing,Tops,Beauty Line,22.19,10.81,13/04/2025,White,L,Silk,TRUE
+d54b39e0-3b66-425e-ad1a-31cad6c2139b,MSBE00718,Per Una Bath 718,Beauty,Bath,Per Una,8.48,6.3,17/07/2025,Multi,XL,Polyester,TRUE
+08525543-e461-4b84-b0cb-04b8c4985cd1,MSFO00719,Per Una Ambient 719,Food,Ambient,Per Una,19.53,9.32,14/10/2024,Beige,OneSize,Wool,FALSE
+88670a75-d188-47c7-ade6-baf68a77062e,MSFO00720,Autograph Deli 720,Food,Deli,Autograph,13.65,7.6,15/02/2025,Blue,L,Silk,TRUE
+bd0f71ac-e86e-4d52-85d6-8b9dc282a106,MSWO00721,Foodies Tops 721,Womens_Clothing,Tops,Foodies,69.76,33.06,17/06/2025,Multi,S,Linen,TRUE
+25bf6a66-6017-41a3-a563-cddd97d291d1,MSBE00722,M&S Collection Bath 722,Beauty,Bath,M&S Collection,30.75,23.94,16/09/2024,Multi,XL,Linen,TRUE
+2257a387-19f1-4495-b8b0-90b5a1c62d84,MSWO00723,Per Una Coats 723,Womens_Clothing,Coats,Per Una,3.72,2.73,17/04/2025,White,XL,Cotton,TRUE
+f010267e-e79b-432c-8187-ff844067ece8,MSBE00724,Foodies Bath 724,Beauty,Bath,Foodies,4.09,3.14,16/04/2025,Green,XS,Blend,TRUE
+14661d86-f3d0-47d3-ab25-d2efc0c45f74,MSME00725,Foodies Outerwear 725,Mens_Clothing,Outerwear,Foodies,25.81,11.62,07/11/2024,Green,XL,Blend,FALSE
+fe662002-e272-49af-8f94-e8cc61f22ecc,MSFO00726,Foodies Frozen 726,Food,Frozen,Foodies,2.99,1.58,02/07/2025,Blue,M,Silk,TRUE
+31f32ac7-c92e-4d48-8148-4f51a31d3455,MSWO00727,Foodies Knitwear 727,Womens_Clothing,Knitwear,Foodies,3.37,1.67,02/01/2025,Green,S,Cotton,TRUE
+63f15dc6-e346-4b00-b3c0-f087a6089a7a,MSWO00728,Autograph Leggings 728,Womens_Clothing,Leggings,Autograph,7.52,5.33,09/01/2025,White,XS,Silk,TRUE
+3ed27fdc-9f49-4a75-97cf-be5597c859eb,MSHO00729,Home Range Furniture 729,Home,Furniture,Home Range,11.23,8.85,05/01/2025,Red,S,Silk,TRUE
+94f13c94-1b8c-421c-a640-dbb5edbb431b,MSHO00730,Foodies Decor 730,Home,Decor,Foodies,8.23,6.33,10/05/2025,White,M,Linen,TRUE
+f71ab341-0c6d-42b1-bf75-c17265adc83c,MSBE00731,Foodies Makeup 731,Beauty,Makeup,Foodies,23.94,17.52,28/01/2025,White,XL,Silk,TRUE
+2c68ba29-8dc4-4232-aa56-7b88afca7bfe,MSFO00732,Beauty Line Deli 732,Food,Deli,Beauty Line,27.11,14.87,06/12/2024,Green,M,Linen,TRUE
+c682b04b-0bf6-4e77-94ec-a8aab2eba251,MSBE00733,Autograph Makeup 733,Beauty,Makeup,Autograph,7.58,5.28,21/06/2025,Beige,S,Silk,TRUE
+4e00f4f0-e64f-419b-946f-9fcfdc298c06,MSME00734,Limited Edition Shirts 734,Mens_Clothing,Shirts,Limited Edition,10.94,5.1,16/01/2025,White,L,Wool,TRUE
+b992b754-386a-47fd-ac2d-0f3db63dd4c8,MSFO00735,Per Una Frozen 735,Food,Frozen,Per Una,10.01,6.15,05/11/2024,Black,OneSize,Cotton,TRUE
+78933e54-70a7-4921-a8da-89c1e744e6e1,MSME00736,Foodies Outerwear 736,Mens_Clothing,Outerwear,Foodies,23.83,15.72,15/10/2024,Red,XS,Wool,TRUE
+d7783c6d-2579-4c0e-8cfd-baa8df3b70cb,MSWO00737,M&S Collection Leggings 737,Womens_Clothing,Leggings,M&S Collection,5.49,4.16,10/08/2024,Beige,L,Silk,TRUE
+b51eceb0-00a8-402d-8fc0-62b370fcbba2,MSFO00738,M&S Collection Ambient 738,Food,Ambient,M&S Collection,28.65,21.84,13/12/2024,Multi,S,Blend,TRUE
+cb207ffc-69e9-4cf5-9dc1-828085030579,MSWO00739,Essential Tops 739,Womens_Clothing,Tops,Essential,56.8,38.01,24/08/2024,Blue,XS,Linen,TRUE
+5223118a-0d22-4790-aa9b-f4ffc0fe476b,MSME00740,Per Una Shorts 740,Mens_Clothing,Shorts,Per Una,23.59,10.9,12/09/2024,Beige,XS,Wool,TRUE
+34cf869b-fb1e-4f98-a0b6-1523fc8fd8f5,MSWO00741,Autograph Tops 741,Womens_Clothing,Tops,Autograph,6.79,3.69,27/09/2024,Green,L,Wool,TRUE
+12629943-891b-4ef3-8798-80897e3e800b,MSBE00742,Limited Edition Bath 742,Beauty,Bath,Limited Edition,65.01,35,31/07/2025,White,XS,Blend,TRUE
+6e1be753-72ef-4efc-9493-5db317c81fb3,MSWO00743,Essential Leggings 743,Womens_Clothing,Leggings,Essential,26.4,17.41,25/02/2025,Beige,XL,Linen,TRUE
+66043620-d9b5-4e65-be92-0d956305ea6e,MSHO00744,Limited Edition Kitchen 744,Home,Kitchen,Limited Edition,15.47,11.45,12/03/2025,Black,L,Linen,TRUE
+6bbac6b3-c371-4003-87de-213fe0df9032,MSME00745,Autograph Outerwear 745,Mens_Clothing,Outerwear,Autograph,21.71,17.03,16/08/2024,White,XS,Linen,TRUE
+9b0d345d-d136-4ca0-93e7-b3c0e7f1d5d3,MSWO00746,Essential Leggings 746,Womens_Clothing,Leggings,Essential,1.07,0.6,23/10/2024,White,XL,Wool,TRUE
+69596089-da3f-4c5f-a8fa-322b90f49360,MSBE00747,Beauty Line Bath 747,Beauty,Bath,Beauty Line,22.42,13.73,23/08/2024,Multi,S,Wool,FALSE
+7ff5648d-32f8-4a2b-a973-188bea774b08,MSBE00748,M&S Collection Haircare 748,Beauty,Haircare,M&S Collection,27.04,16.36,28/03/2025,Black,XS,Wool,TRUE
+e26c749e-63c8-40d9-82d7-89f474d46bc6,MSME00749,Home Range Trousers 749,Mens_Clothing,Trousers,Home Range,14.98,11.71,15/09/2024,Black,M,Linen,TRUE
+9402eaaa-091e-41fe-9d4f-6bb2663c52ce,MSHO00750,Essential Kitchen 750,Home,Kitchen,Essential,53.3,28.41,22/07/2025,Red,L,Blend,TRUE
+da7fc486-37aa-4a42-8834-1baaf314e5e6,MSHO00751,Per Una Bedding 751,Home,Bedding,Per Una,23.76,11.56,23/10/2024,Black,M,Wool,TRUE
+6b31c102-e7a3-4ca4-bf7c-4416e9b2f628,MSFO00752,Per Una Ambient 752,Food,Ambient,Per Una,85.96,67.28,17/01/2025,Beige,OneSize,Polyester,TRUE
+47375f02-cc42-4b26-8e5f-7b32363e552d,MSME00753,Limited Edition Trousers 753,Mens_Clothing,Trousers,Limited Edition,10.4,6.4,04/08/2025,Multi,M,Polyester,TRUE
+53621089-0d92-4ff8-8c8d-f45351e75b13,MSME00754,Home Range Shorts 754,Mens_Clothing,Shorts,Home Range,95.76,45.47,08/01/2025,Blue,XS,Cotton,FALSE
+54f7d9e4-e46d-4020-9c01-2e1eb40307cc,MSBE00755,M&S Collection Bath 755,Beauty,Bath,M&S Collection,13.41,6.05,08/10/2024,Multi,XL,Cotton,TRUE
+0a715f46-93ff-4426-9d2c-85866d8d7944,MSHO00756,Home Range Storage 756,Home,Storage,Home Range,7.02,3.5,05/08/2025,Black,XL,Wool,TRUE
+2b9ca1d1-7764-4674-80a8-66babee32bfd,MSFO00757,Foodies Ambient 757,Food,Ambient,Foodies,11.78,9.31,09/11/2024,Blue,XL,Polyester,TRUE
+6399734f-6288-45d6-a78b-3d13d95add20,MSBE00758,M&S Collection Haircare 758,Beauty,Haircare,M&S Collection,96.24,59.13,02/04/2025,White,M,Silk,TRUE
+27b2b8c6-ad28-4d83-91d8-ac15374021c6,MSME00759,Autograph Outerwear 759,Mens_Clothing,Outerwear,Autograph,7.72,4.76,01/02/2025,Beige,XL,Silk,TRUE
+076090f8-c23e-44c1-9138-e9788c186b9e,MSWO00760,Limited Edition Dresses 760,Womens_Clothing,Dresses,Limited Edition,10.13,4.59,14/02/2025,Black,XL,Cotton,TRUE
+4f15d198-ce50-4c44-8758-9a8002c1ef26,MSFO00761,Per Una Ambient 761,Food,Ambient,Per Una,12.26,9.09,27/07/2025,White,M,Polyester,TRUE
+e04491da-4ba1-4254-a99e-3f646ce6ef98,MSFO00762,Home Range Ambient 762,Food,Ambient,Home Range,32.33,21.02,22/06/2025,Blue,L,Silk,TRUE
+acb10a68-3049-4b0a-93ce-0a088f526077,MSHO00763,Foodies Decor 763,Home,Decor,Foodies,7.24,4.26,14/06/2025,Green,L,Polyester,TRUE
+0cfa4083-bc10-442e-9edb-6d84c96fd6e2,MSFO00764,Autograph Fresh 764,Food,Fresh,Autograph,10.55,5.07,18/09/2024,Beige,M,Polyester,TRUE
+bb2c4a24-6db5-4190-83c2-a9bc82f8f6da,MSBE00765,Per Una Makeup 765,Beauty,Makeup,Per Una,22.29,16.41,12/05/2025,Multi,OneSize,Polyester,TRUE
+428f38c6-283f-4c83-a1dc-31f09c44663d,MSWO00766,Foodies Tops 766,Womens_Clothing,Tops,Foodies,13.37,10.11,16/02/2025,Black,S,Blend,TRUE
+510b0295-8892-41f4-9c40-69bc5b816e00,MSHO00767,Essential Furniture 767,Home,Furniture,Essential,1.74,1.21,02/01/2025,Green,XL,Linen,TRUE
+915b5171-4aef-48e2-87b6-2a6e1dfb6f7b,MSWO00768,M&S Collection Tops 768,Womens_Clothing,Tops,M&S Collection,24.1,12.24,23/01/2025,Blue,M,Silk,TRUE
+010c035f-71e3-4aef-b3d5-9027cd4c9679,MSWO00769,Home Range Coats 769,Womens_Clothing,Coats,Home Range,11.26,6.73,06/07/2025,Green,M,Wool,TRUE
+5831f93b-6007-404d-a70d-cb9b726aeb62,MSHO00770,M&S Collection Decor 770,Home,Decor,M&S Collection,16.6,8.97,05/04/2025,Black,XS,Wool,TRUE
+07b24289-3385-432f-8348-e79dd0c5db36,MSFO00771,Per Una Fresh 771,Food,Fresh,Per Una,24.34,13.48,06/11/2024,Multi,M,Wool,TRUE
+022f29b8-9269-43cb-aff0-e8a4ddc049ba,MSFO00772,Beauty Line Bakery 772,Food,Bakery,Beauty Line,13.88,9.58,28/06/2025,Red,L,Linen,TRUE
+cb7ca4de-e05f-478c-be2f-deb0a7dc64fa,MSME00773,Home Range Trousers 773,Mens_Clothing,Trousers,Home Range,7.01,4.1,13/12/2024,Black,OneSize,Linen,TRUE
+e2176264-08c7-4c59-817f-7cea955f1fc8,MSWO00774,Per Una Dresses 774,Womens_Clothing,Dresses,Per Una,6.66,4.39,31/10/2024,Green,S,Wool,TRUE
+6f995bf6-6b84-4691-b4e1-cab1c2d03d4e,MSHO00775,Foodies Decor 775,Home,Decor,Foodies,15.5,11.86,06/07/2025,Green,L,Wool,TRUE
+3fe968fb-06bf-472c-8c55-ec40fdc77a97,MSFO00776,Foodies Bakery 776,Food,Bakery,Foodies,9.95,7.76,20/05/2025,Blue,S,Cotton,TRUE
+11df3ce7-eb74-4209-8d06-320ae23c8dff,MSME00777,Autograph Knitwear 777,Mens_Clothing,Knitwear,Autograph,6.79,4.67,11/06/2025,Blue,S,Silk,TRUE
+a9c6ddbd-9c68-4840-bb5b-ec88196b92d9,MSWO00778,M&S Collection Coats 778,Womens_Clothing,Coats,M&S Collection,11.15,7.5,04/12/2024,Red,L,Linen,TRUE
+73b118fc-d1f4-4165-9792-2415967be235,MSWO00779,Essential Dresses 779,Womens_Clothing,Dresses,Essential,12.39,6.08,16/09/2024,White,S,Cotton,TRUE
+3f417fd3-30e8-453b-bed7-7b418ccb3d77,MSBE00780,Limited Edition Fragrance 780,Beauty,Fragrance,Limited Edition,17.17,8.45,10/08/2024,Blue,OneSize,Wool,TRUE
+1934c982-b574-4b4f-a8bf-3e3ac8ce85a3,MSME00781,Per Una Trousers 781,Mens_Clothing,Trousers,Per Una,21.61,13.73,24/07/2025,Red,XS,Blend,TRUE
+a4a426c3-1e47-44a6-9698-5db929fd1277,MSHO00782,Beauty Line Furniture 782,Home,Furniture,Beauty Line,2.64,1.64,05/06/2025,Multi,XL,Wool,TRUE
+d45aa2fe-3c00-45de-ba70-a74355453b3a,MSME00783,Per Una Shorts 783,Mens_Clothing,Shorts,Per Una,6.81,4.02,31/07/2025,White,XL,Silk,TRUE
+b1a87d2e-e74c-429f-8fbb-a20d64d40578,MSFO00784,Essential Bakery 784,Food,Bakery,Essential,14.07,8.02,14/05/2025,Green,L,Linen,TRUE
+938f25ec-535b-442b-bbdd-02ae3191da72,MSWO00785,Essential Coats 785,Womens_Clothing,Coats,Essential,4.83,3.55,29/05/2025,Green,L,Wool,TRUE
+011dcf6a-7b86-4d0c-91b7-29ad6b756e3c,MSWO00786,Per Una Dresses 786,Womens_Clothing,Dresses,Per Una,18.61,11.17,15/11/2024,Green,M,Silk,TRUE
+90944153-6ea7-4e26-b565-6a6567835037,MSBE00787,Essential Haircare 787,Beauty,Haircare,Essential,26.08,12.44,20/10/2024,Red,L,Wool,TRUE
+39ca5f48-ef90-4028-ba7c-e967081c3116,MSWO00788,Home Range Leggings 788,Womens_Clothing,Leggings,Home Range,29.98,18.18,28/07/2025,Blue,L,Linen,TRUE
+b82e646b-8eb3-4798-8ea4-ac542d984a06,MSME00789,Foodies Trousers 789,Mens_Clothing,Trousers,Foodies,6.66,3.89,19/02/2025,Multi,L,Polyester,TRUE
+27f563d3-851c-4110-9b5b-643591bf3924,MSBE00790,Essential Makeup 790,Beauty,Makeup,Essential,2.37,1.55,17/06/2025,Green,OneSize,Blend,TRUE
+4dbf9f05-eeb1-4423-8178-f2097717fdeb,MSHO00791,Limited Edition Furniture 791,Home,Furniture,Limited Edition,6.53,3,22/01/2025,Multi,XS,Polyester,TRUE
+8afb3ad7-2b5d-4708-989a-6f2a953118fe,MSWO00792,Beauty Line Coats 792,Womens_Clothing,Coats,Beauty Line,3.9,2.64,03/10/2024,Green,OneSize,Linen,TRUE
+13e4dd3c-03e2-4d9e-971c-dc30c6af07ed,MSHO00793,Per Una Bedding 793,Home,Bedding,Per Una,12.68,9.09,24/09/2024,Red,XL,Cotton,TRUE
+31f8eca5-2452-4a77-a878-eb285d521864,MSWO00794,Essential Knitwear 794,Womens_Clothing,Knitwear,Essential,39.62,22.55,12/12/2024,Blue,OneSize,Silk,TRUE
+54123958-d40b-4125-a10d-e6ad47ab281d,MSME00795,Per Una Shirts 795,Mens_Clothing,Shirts,Per Una,42.78,28.17,29/05/2025,Red,L,Polyester,TRUE
+c12b4c6a-0d08-4df9-a85e-5bffa3bb9637,MSHO00796,Home Range Furniture 796,Home,Furniture,Home Range,13.42,9.99,28/02/2025,Black,OneSize,Cotton,TRUE
+e1a5d6b0-ca1a-43b4-b65c-b24d8e11d5a1,MSME00797,Essential Shirts 797,Mens_Clothing,Shirts,Essential,35.77,23.1,08/09/2024,Multi,L,Cotton,TRUE
+331a25fd-cd97-43f1-ada8-d9364457ddca,MSME00798,Essential Trousers 798,Mens_Clothing,Trousers,Essential,5.88,3.65,18/07/2025,Multi,L,Cotton,TRUE
+a67bce0b-d854-42e7-a1fa-d9c15ef01868,MSME00799,Beauty Line Outerwear 799,Mens_Clothing,Outerwear,Beauty Line,17.84,11.18,22/10/2024,Blue,OneSize,Cotton,TRUE
+208cf804-0a84-49eb-bd57-b94486eae5ed,MSWO00800,Limited Edition Leggings 800,Womens_Clothing,Leggings,Limited Edition,2.48,1.39,11/12/2024,Black,L,Blend,FALSE
+b30691c8-15ca-469d-b263-d30b830817ab,MSHO00801,M&S Collection Kitchen 801,Home,Kitchen,M&S Collection,3.3,2.01,07/09/2024,Beige,XL,Linen,TRUE
+1179b8e1-ed58-4cfe-bdf3-b814a8327129,MSBE00802,Limited Edition Fragrance 802,Beauty,Fragrance,Limited Edition,12.7,7.36,10/12/2024,Green,XS,Blend,TRUE
+7e9b3de7-4fe3-4ded-b14a-7f6642e7de38,MSWO00803,Foodies Tops 803,Womens_Clothing,Tops,Foodies,11.64,6.52,03/11/2024,Green,XS,Polyester,TRUE
+b188a720-44a6-41ee-a8a5-9cf281319bc0,MSFO00804,Foodies Frozen 804,Food,Frozen,Foodies,13.64,8.74,20/05/2025,Multi,S,Cotton,FALSE
+1a4f90e9-7e5b-423f-8fcb-d4187734b8eb,MSFO00805,Per Una Bakery 805,Food,Bakery,Per Una,12.03,6.63,12/12/2024,Green,XS,Polyester,TRUE
+d4075729-d4be-4f3c-9555-46cbfab0f419,MSWO00806,Home Range Leggings 806,Womens_Clothing,Leggings,Home Range,3.05,1.74,15/10/2024,Multi,OneSize,Cotton,TRUE
+10409993-f226-474c-ba19-b4519cd4739e,MSME00807,Autograph Shorts 807,Mens_Clothing,Shorts,Autograph,3.2,2.54,09/06/2025,Blue,L,Polyester,TRUE
+5cd68c95-9d36-4096-91c7-5863ba7f744b,MSFO00808,Beauty Line Ambient 808,Food,Ambient,Beauty Line,3.89,2.09,17/07/2025,Beige,S,Cotton,TRUE
+4e1c4f38-0b49-493f-a982-9ed5d2062f82,MSHO00809,Essential Kitchen 809,Home,Kitchen,Essential,13.61,8.22,19/09/2024,Red,L,Blend,TRUE
+8edcd06e-f31c-48aa-8d09-75fb657d24b7,MSHO00810,Beauty Line Storage 810,Home,Storage,Beauty Line,19.86,10.17,15/07/2025,Blue,XL,Polyester,TRUE
+7d698c1d-6633-4bd7-bdf4-d99f9cb7dd57,MSHO00811,Essential Furniture 811,Home,Furniture,Essential,26.15,14.9,29/08/2024,Multi,XL,Linen,TRUE
+cf6cedc7-d55e-4f16-8135-ea6a1d1062b4,MSFO00812,Beauty Line Fresh 812,Food,Fresh,Beauty Line,12.87,7.36,08/11/2024,Green,M,Linen,TRUE
+04635e45-7b03-4367-982a-671440e3b9b1,MSWO00813,Foodies Leggings 813,Womens_Clothing,Leggings,Foodies,19,12.43,11/12/2024,Beige,S,Cotton,TRUE
+c187913a-99af-45a9-b628-29613b70eaa2,MSHO00814,Limited Edition Storage 814,Home,Storage,Limited Edition,78.78,48.93,08/05/2025,Green,OneSize,Cotton,TRUE
+f65fc0f3-005c-4547-9a86-b195be6f356a,MSFO00815,Limited Edition Bakery 815,Food,Bakery,Limited Edition,5.33,3.77,12/07/2025,White,OneSize,Silk,TRUE
+b4215acd-1222-4be2-b95b-47db3c007d1e,MSME00816,Essential Shorts 816,Mens_Clothing,Shorts,Essential,32.81,21.89,20/01/2025,Green,L,Blend,TRUE
+f04788d4-c097-4105-a203-8f2558d4a053,MSWO00817,Autograph Leggings 817,Womens_Clothing,Leggings,Autograph,70.99,50.1,16/08/2024,Red,S,Polyester,TRUE
+3afa0594-8493-4dcd-8f62-49f2377d821f,MSME00818,Beauty Line Shirts 818,Mens_Clothing,Shirts,Beauty Line,11.86,7.59,02/01/2025,Blue,XS,Cotton,TRUE
+23a2695f-bdb4-4fc7-91a8-ef3df3a5057a,MSBE00819,Essential Haircare 819,Beauty,Haircare,Essential,7.31,3.63,07/11/2024,Red,M,Polyester,TRUE
+f3b1655f-d654-4cf9-b377-5487f0d8d296,MSWO00820,Limited Edition Dresses 820,Womens_Clothing,Dresses,Limited Edition,15.31,9.75,26/12/2024,Beige,L,Cotton,TRUE
+62b2eb8a-9255-4c3d-b27f-3d75f27de2de,MSWO00821,Foodies Knitwear 821,Womens_Clothing,Knitwear,Foodies,18.56,8.6,11/04/2025,Multi,M,Blend,TRUE
+5e7d28ee-2d52-49c9-b6e2-4120d8922d19,MSFO00822,M&S Collection Ambient 822,Food,Ambient,M&S Collection,8.8,6.41,28/08/2024,Beige,XS,Wool,TRUE
+931dec54-8abf-4e65-b21c-076a2f76a472,MSME00823,Autograph Shorts 823,Mens_Clothing,Shorts,Autograph,15.68,9.62,20/08/2024,Red,OneSize,Polyester,TRUE
+b54264d4-9306-4bc4-90c7-ae737a0b5518,MSME00824,Limited Edition Trousers 824,Mens_Clothing,Trousers,Limited Edition,5.37,3.83,17/10/2024,White,OneSize,Polyester,TRUE
+3278767b-f340-4c90-b918-0284c52fe76f,MSFO00825,Autograph Bakery 825,Food,Bakery,Autograph,12.5,8.2,15/04/2025,Multi,OneSize,Linen,TRUE
+7ba64ae8-63e6-4d30-9e5d-62fec3a08a00,MSBE00826,Autograph Haircare 826,Beauty,Haircare,Autograph,227.96,147.48,27/02/2025,Blue,S,Linen,TRUE
+0dafd284-8389-496d-8dc4-6c8d2f168f7a,MSHO00827,Beauty Line Kitchen 827,Home,Kitchen,Beauty Line,3.97,3.06,07/04/2025,Green,M,Linen,FALSE
+a8da9b88-15c6-4941-b9fd-28077d149698,MSHO00828,Foodies Decor 828,Home,Decor,Foodies,19.74,12.03,08/11/2024,Multi,OneSize,Silk,TRUE
+feffe3ff-9965-4e13-a1f8-b87854a55579,MSHO00829,Limited Edition Storage 829,Home,Storage,Limited Edition,16.06,11.88,04/04/2025,White,XL,Polyester,TRUE
+5a0ef442-fc3f-4429-bc37-831304a3b0b5,MSFO00830,Home Range Ambient 830,Food,Ambient,Home Range,20.09,10.45,03/07/2025,Black,L,Silk,TRUE
+11b4eed3-e29c-43a1-aad4-50cfeb90d06b,MSWO00831,M&S Collection Knitwear 831,Womens_Clothing,Knitwear,M&S Collection,13.21,6.22,11/07/2025,White,S,Wool,TRUE
+4d47530f-cd45-4357-86d3-61253fb1e066,MSME00832,Home Range Trousers 832,Mens_Clothing,Trousers,Home Range,3.5,1.87,10/10/2024,Red,OneSize,Wool,FALSE
+50f2cf74-bfa8-4e40-9da9-e0bb5ee0e381,MSFO00833,Per Una Deli 833,Food,Deli,Per Una,28.99,22.01,29/06/2025,Red,XS,Silk,TRUE
+3021a31b-51c0-4468-bdcd-5ed7f5aa1694,MSME00834,Home Range Knitwear 834,Mens_Clothing,Knitwear,Home Range,99.48,77.02,04/03/2025,White,S,Polyester,TRUE
+c62914ae-6718-4871-895e-e91ef176bf16,MSHO00835,Foodies Bedding 835,Home,Bedding,Foodies,14.48,10.38,30/08/2024,White,S,Blend,TRUE
+7262f9aa-df9a-4da5-b12e-4a821d99245d,MSHO00836,Per Una Furniture 836,Home,Furniture,Per Una,33.51,23.2,02/06/2025,Black,OneSize,Blend,TRUE
+b47b1432-0523-475d-a155-ade935c154a5,MSWO00837,Essential Leggings 837,Womens_Clothing,Leggings,Essential,28.58,19.19,12/05/2025,Red,OneSize,Linen,TRUE
+852d7c07-3808-4543-ad9f-caeeca87ddd1,MSWO00838,Home Range Knitwear 838,Womens_Clothing,Knitwear,Home Range,34.15,18.7,08/02/2025,Multi,L,Silk,FALSE
+642cdffb-8751-427a-8b7d-2d8c7539c5f1,MSWO00839,M&S Collection Tops 839,Womens_Clothing,Tops,M&S Collection,7.55,4.79,18/03/2025,Beige,OneSize,Silk,TRUE
+e0fbcef8-36a9-4fdd-8b9a-52aab6cc73e8,MSFO00840,Home Range Frozen 840,Food,Frozen,Home Range,28.73,15.89,21/12/2024,White,XL,Polyester,TRUE
+bcbf3150-c15f-47a2-82fe-7c64bb072ea5,MSME00841,M&S Collection Trousers 841,Mens_Clothing,Trousers,M&S Collection,19.33,9,27/05/2025,Beige,OneSize,Silk,FALSE
+92d36e9b-ff83-4abf-bb75-247ed884554c,MSFO00842,Autograph Deli 842,Food,Deli,Autograph,19.37,9.68,28/03/2025,Blue,L,Wool,TRUE
+c357c90b-9de4-43c6-93ba-a3de904c604f,MSME00843,Home Range Trousers 843,Mens_Clothing,Trousers,Home Range,23.2,18.05,12/02/2025,Red,L,Linen,TRUE
+44954056-57d1-4e99-9431-5cbb3f02fb43,MSFO00844,Essential Bakery 844,Food,Bakery,Essential,35.52,26.5,18/02/2025,Red,L,Linen,TRUE
+69febeea-d119-472c-812a-e851f9af815f,MSME00845,Beauty Line Trousers 845,Mens_Clothing,Trousers,Beauty Line,23.05,11.21,31/08/2024,White,S,Silk,TRUE
+6f98da93-ce87-4f46-ad1e-4a06e3b17206,MSFO00846,Limited Edition Fresh 846,Food,Fresh,Limited Edition,5.82,3.45,01/08/2025,Blue,XS,Wool,TRUE
+5b943060-389b-49a5-9aae-e316a35d9748,MSHO00847,Autograph Storage 847,Home,Storage,Autograph,11.92,6.64,19/10/2024,Red,OneSize,Silk,TRUE
+13338e1c-e1e8-4026-baa7-c5cbae4e5a96,MSHO00848,Home Range Kitchen 848,Home,Kitchen,Home Range,13.41,10.48,25/05/2025,Green,XL,Blend,TRUE
+e2349114-7efe-4a00-bd4f-c5179ae30244,MSHO00849,Home Range Kitchen 849,Home,Kitchen,Home Range,10.79,4.88,30/10/2024,White,L,Linen,TRUE
+ea8fa75b-4f57-4f43-b7f6-7829083ea6b4,MSWO00850,Limited Edition Tops 850,Womens_Clothing,Tops,Limited Edition,2.22,1.06,17/01/2025,Beige,M,Polyester,TRUE
+d618eecb-6c33-4785-8170-bbf2ac31313e,MSWO00851,M&S Collection Dresses 851,Womens_Clothing,Dresses,M&S Collection,14.76,10.75,30/12/2024,Blue,XL,Polyester,TRUE
+091bfebb-a0ca-4cd0-a479-872d3e928e47,MSHO00852,Home Range Bedding 852,Home,Bedding,Home Range,4.27,2.98,08/02/2025,Beige,XS,Wool,TRUE
+11184628-dc32-431c-88e8-848d8033a3dd,MSWO00853,Limited Edition Knitwear 853,Womens_Clothing,Knitwear,Limited Edition,11.42,6.32,25/05/2025,Beige,XL,Polyester,TRUE
+4cbf954d-0b8f-4d18-8025-f40e3d69615c,MSFO00854,Beauty Line Ambient 854,Food,Ambient,Beauty Line,26.73,20.72,02/10/2024,White,OneSize,Polyester,TRUE
+fdfab479-7025-490a-b1f9-dc730293e786,MSWO00855,M&S Collection Coats 855,Womens_Clothing,Coats,M&S Collection,6.91,5.3,17/03/2025,Green,S,Cotton,TRUE
+8cee83ce-9d7e-4798-b8cf-eb8ee512c16d,MSFO00856,M&S Collection Ambient 856,Food,Ambient,M&S Collection,34.3,22.03,13/01/2025,Black,OneSize,Cotton,TRUE
+1e9585db-6193-4c2c-bc93-c247d36fca57,MSHO00857,Autograph Decor 857,Home,Decor,Autograph,15.67,12.42,29/08/2024,Red,M,Blend,TRUE
+76686466-626f-4dab-b66c-b1c01cab75b1,MSBE00858,Autograph Bath 858,Beauty,Bath,Autograph,8.45,6.05,08/09/2024,Green,L,Linen,TRUE
+092118f0-b160-483f-a0da-1e7d4fc2ca23,MSME00859,Beauty Line Trousers 859,Mens_Clothing,Trousers,Beauty Line,3.51,2.67,31/08/2024,White,OneSize,Cotton,TRUE
+22bcf427-df84-4c3a-b246-6318db72e4cc,MSFO00860,Home Range Ambient 860,Food,Ambient,Home Range,10.77,7.94,01/10/2024,Black,L,Blend,TRUE
+0ee9f7f1-d6ce-483e-a810-8ac6762fc2e3,MSHO00861,Home Range Decor 861,Home,Decor,Home Range,32.49,15.44,15/01/2025,Beige,M,Polyester,FALSE
+f9d0bee7-f9cd-42f4-ae51-0b182e02aa70,MSFO00862,M&S Collection Ambient 862,Food,Ambient,M&S Collection,1.26,0.67,30/09/2024,Beige,M,Silk,TRUE
+30123727-cb83-4b23-bf64-c7ef06a1bb6a,MSWO00863,Essential Leggings 863,Womens_Clothing,Leggings,Essential,61.6,45.05,30/08/2024,Blue,S,Wool,TRUE
+1bff8694-09ca-47bc-a1cd-6731cc459312,MSME00864,Foodies Shirts 864,Mens_Clothing,Shirts,Foodies,4.92,3.79,29/04/2025,White,OneSize,Linen,TRUE
+193171a3-c3fa-4f7e-8393-a7b78c2a6d4f,MSME00865,Limited Edition Outerwear 865,Mens_Clothing,Outerwear,Limited Edition,14.17,7.72,05/12/2024,White,S,Silk,FALSE
+1cc08872-1309-48b7-b135-dba28accb09e,MSFO00866,Beauty Line Ambient 866,Food,Ambient,Beauty Line,20.1,10.96,26/09/2024,White,S,Polyester,TRUE
+433ed421-fe69-4d9b-9301-06a9e4803a9c,MSFO00867,Limited Edition Deli 867,Food,Deli,Limited Edition,25.31,14.2,06/04/2025,Multi,S,Wool,TRUE
+54028e78-c00c-4d9d-9395-40ae3c1fe608,MSFO00868,Foodies Fresh 868,Food,Fresh,Foodies,6.93,3.79,29/05/2025,Multi,S,Blend,FALSE
+b5777b33-66ea-4cfb-a73d-0c0a0c18bfb6,MSME00869,Autograph Knitwear 869,Mens_Clothing,Knitwear,Autograph,12.35,9.43,04/11/2024,White,XL,Blend,TRUE
+8aed42f4-fe37-45b4-86a8-2ece48cad09f,MSHO00870,M&S Collection Kitchen 870,Home,Kitchen,M&S Collection,25.6,14.35,25/12/2024,Multi,M,Silk,FALSE
+266f396b-05f3-4177-b334-a097e98e40bf,MSHO00871,Essential Furniture 871,Home,Furniture,Essential,5.58,4.13,23/11/2024,Blue,S,Cotton,TRUE
+7025a6ec-36cf-4adc-aeec-62994adef5bf,MSWO00872,Essential Leggings 872,Womens_Clothing,Leggings,Essential,23.47,13.14,16/11/2024,White,XL,Linen,TRUE
+c87d6b2b-027f-4bf3-b031-cdffdb1ebbd4,MSME00873,M&S Collection Trousers 873,Mens_Clothing,Trousers,M&S Collection,7.85,6.03,11/06/2025,Green,XS,Blend,TRUE
+647c220e-0dd8-46ea-9ea1-373df33582d9,MSME00874,Beauty Line Shorts 874,Mens_Clothing,Shorts,Beauty Line,26.2,15.25,03/02/2025,Beige,OneSize,Wool,TRUE
+b25139d2-d866-4e86-95ae-1354dfb56d23,MSBE00875,Beauty Line Haircare 875,Beauty,Haircare,Beauty Line,10.77,5.18,10/02/2025,Blue,S,Polyester,TRUE
+26370832-3d4e-4524-8ff5-c6853732457b,MSBE00876,Essential Skincare 876,Beauty,Skincare,Essential,13.07,10.14,13/03/2025,Black,S,Blend,TRUE
+6ca9aa42-fdc4-4de8-8592-fe4d0e39664c,MSME00877,Autograph Trousers 877,Mens_Clothing,Trousers,Autograph,7.39,5.15,30/01/2025,Blue,L,Linen,TRUE
+31e3c002-b1a7-471c-b2db-f0967dec1b56,MSHO00878,Limited Edition Furniture 878,Home,Furniture,Limited Edition,19.49,13.32,01/09/2024,Black,L,Cotton,TRUE
+114d8b16-847d-429a-b07a-a4c805307570,MSBE00879,Foodies Fragrance 879,Beauty,Fragrance,Foodies,5.84,4.18,08/05/2025,White,OneSize,Linen,TRUE
+3fd3b6c6-c143-44fb-9507-e7cbf614db3f,MSFO00880,Autograph Frozen 880,Food,Frozen,Autograph,17.43,9.48,14/07/2025,Black,L,Cotton,TRUE
+043ecad6-edc2-46b0-8b3e-3b4d99cfdf6d,MSME00881,Foodies Shorts 881,Mens_Clothing,Shorts,Foodies,14.04,10.16,26/12/2024,Beige,XS,Linen,TRUE
+fb039dab-2d8c-487f-87ba-a09523392881,MSWO00882,Essential Tops 882,Womens_Clothing,Tops,Essential,1.37,1.03,29/07/2025,Black,L,Wool,TRUE
+ae427504-5efa-4c2e-93b5-3053b9f64bbf,MSHO00883,Per Una Furniture 883,Home,Furniture,Per Una,11.86,7.24,01/01/2025,Black,M,Linen,FALSE
+5ebcc241-81a2-46ee-bb0b-b7be9b9dbf06,MSFO00884,Beauty Line Fresh 884,Food,Fresh,Beauty Line,38.23,17.24,21/08/2024,Multi,OneSize,Silk,TRUE
+08c225ca-397a-4f3d-afcb-00d14374c036,MSFO00885,Per Una Frozen 885,Food,Frozen,Per Una,21.49,12.8,16/11/2024,Multi,XL,Blend,TRUE
+cfb05e01-097d-4dfc-9e87-a638635ffe9d,MSBE00886,Home Range Haircare 886,Beauty,Haircare,Home Range,8.53,5.8,14/06/2025,Black,XS,Polyester,TRUE
+1adf24a7-d185-4726-b200-b14e9a3809b7,MSME00887,Autograph Outerwear 887,Mens_Clothing,Outerwear,Autograph,18.81,14.26,16/11/2024,Green,M,Blend,TRUE
+11e9af79-ef54-4df7-b3e7-822acf3d8f2a,MSME00888,Autograph Shirts 888,Mens_Clothing,Shirts,Autograph,29.19,16.15,12/03/2025,Red,OneSize,Silk,TRUE
+720ca8f0-d76f-4050-8c72-10fef20327c0,MSWO00889,Foodies Leggings 889,Womens_Clothing,Leggings,Foodies,51.52,39.97,27/05/2025,Beige,XL,Linen,FALSE
+15726e0e-0adc-485c-983a-3ee621845e78,MSBE00890,Foodies Bath 890,Beauty,Bath,Foodies,5.57,3.76,04/01/2025,Red,S,Wool,TRUE
+7d681192-c3fe-4995-80b3-57d35b8357d6,MSME00891,Per Una Trousers 891,Mens_Clothing,Trousers,Per Una,33.55,23.11,14/06/2025,Blue,OneSize,Cotton,TRUE
+4407587a-e9eb-401b-9ee4-64c72357876d,MSHO00892,Essential Furniture 892,Home,Furniture,Essential,14.48,7.97,23/03/2025,Beige,S,Cotton,TRUE
+d434ac39-0344-4be8-a199-acbe8a224996,MSME00893,Essential Shirts 893,Mens_Clothing,Shirts,Essential,10.66,7.29,26/09/2024,Red,L,Silk,TRUE
+54fd25d7-edd9-4538-a27d-8ae0e000755a,MSFO00894,Beauty Line Frozen 894,Food,Frozen,Beauty Line,12.64,6.87,30/09/2024,Blue,S,Linen,TRUE
+e5d0aa42-565e-49f6-8eb4-8255b0035937,MSBE00895,Beauty Line Haircare 895,Beauty,Haircare,Beauty Line,4.94,3.41,21/08/2024,Red,XL,Linen,TRUE
+b2f1036a-5588-4829-97a1-9f13c3d1479a,MSFO00896,Limited Edition Ambient 896,Food,Ambient,Limited Edition,3.09,1.41,30/07/2025,Red,S,Polyester,TRUE
+97c421b3-d2c5-467d-8575-e34626b2b226,MSHO00897,Per Una Bedding 897,Home,Bedding,Per Una,4.39,3.43,18/01/2025,Multi,XS,Blend,TRUE
+e4908c8f-1861-43b9-af07-77f5729aae17,MSFO00898,Home Range Ambient 898,Food,Ambient,Home Range,1.21,0.77,06/02/2025,Red,XS,Cotton,TRUE
+259dec35-50d0-4229-bf8b-a86c7c69430e,MSME00899,Essential Trousers 899,Mens_Clothing,Trousers,Essential,10.26,5.57,06/09/2024,White,OneSize,Blend,TRUE
+c68fc93e-5104-4311-9b2c-85e65d10bace,MSFO00900,Per Una Deli 900,Food,Deli,Per Una,19.77,12.49,26/03/2025,Black,OneSize,Linen,TRUE
+47edfa1c-a416-41ba-b1ce-6f02e525391c,MSWO00901,Essential Dresses 901,Womens_Clothing,Dresses,Essential,11.73,8.41,05/12/2024,Green,M,Silk,TRUE
+c6d63fb6-6f66-489b-90c0-0f5611c63a67,MSBE00902,Autograph Bath 902,Beauty,Bath,Autograph,23.19,14.67,10/02/2025,Green,L,Polyester,TRUE
+4057a2b9-2f5a-407f-9db6-2957f0197726,MSHO00903,Foodies Decor 903,Home,Decor,Foodies,23.25,17.44,05/02/2025,White,S,Blend,TRUE
+69e5abae-d1a4-45d3-bf33-214b3a6873a7,MSWO00904,Autograph Dresses 904,Womens_Clothing,Dresses,Autograph,10.25,5.93,20/12/2024,Black,OneSize,Blend,TRUE
+d32ad489-c125-4aad-93e8-2d9ec19da1b4,MSHO00905,Home Range Furniture 905,Home,Furniture,Home Range,6.54,3.94,20/03/2025,Green,XL,Linen,FALSE
+e0af115e-eaa3-4311-8bcb-b29d7fa76f33,MSHO00906,Beauty Line Kitchen 906,Home,Kitchen,Beauty Line,29.45,18.59,09/04/2025,White,OneSize,Blend,TRUE
+a0e19aba-c63a-4c73-816f-ff883ddcbf73,MSME00907,Limited Edition Shorts 907,Mens_Clothing,Shorts,Limited Edition,6.25,4.22,20/08/2024,Beige,M,Polyester,TRUE
+4e4e70ea-0125-4519-9414-543e38fc4cc1,MSWO00908,Autograph Coats 908,Womens_Clothing,Coats,Autograph,14.13,10.55,15/01/2025,Beige,S,Linen,FALSE
+d5a07c26-f4c4-4704-b576-a6f089b611bd,MSBE00909,Home Range Skincare 909,Beauty,Skincare,Home Range,12.75,9.75,21/03/2025,Green,XL,Blend,TRUE
+6eddbfc0-4f90-40c3-b158-87605003805c,MSME00910,Essential Knitwear 910,Mens_Clothing,Knitwear,Essential,3.01,1.57,06/10/2024,Multi,XS,Wool,TRUE
+48309e7d-f2f5-4fad-ac03-93b3ca1caa17,MSFO00911,M&S Collection Ambient 911,Food,Ambient,M&S Collection,24.78,13.78,19/02/2025,Red,OneSize,Wool,TRUE
+5b3347da-0e7b-444a-b199-48fa122bdf29,MSFO00912,M&S Collection Deli 912,Food,Deli,M&S Collection,16.13,10.66,01/03/2025,Multi,S,Polyester,TRUE
+68ce0e24-3f2c-4d2d-8f1e-c3e84fb75116,MSHO00913,Beauty Line Furniture 913,Home,Furniture,Beauty Line,13.94,9.92,14/03/2025,Multi,XS,Blend,TRUE
+d2e11e92-6343-4929-a39b-9de2dae50f73,MSME00914,Home Range Outerwear 914,Mens_Clothing,Outerwear,Home Range,13.96,7.45,16/06/2025,Black,L,Blend,TRUE
+5bde095a-9557-47fb-b780-b08eae486155,MSFO00915,Home Range Ambient 915,Food,Ambient,Home Range,12.46,9.93,05/07/2025,White,XL,Cotton,TRUE
+60e99552-b509-49be-a547-c223897b701e,MSHO00916,Autograph Decor 916,Home,Decor,Autograph,3.92,2.03,05/08/2025,Blue,M,Cotton,TRUE
+d0c524f3-2aed-4b36-9827-1f89943e4f07,MSBE00917,Per Una Bath 917,Beauty,Bath,Per Una,7,5.35,02/09/2024,White,XL,Silk,TRUE
+09de4377-645c-4b90-88c7-81d135caa54d,MSWO00918,Home Range Knitwear 918,Womens_Clothing,Knitwear,Home Range,17.36,8.7,05/02/2025,Beige,XS,Wool,TRUE
+e1c0db13-8246-4b5d-996f-1c241cac9ce7,MSBE00919,Home Range Makeup 919,Beauty,Makeup,Home Range,43.45,27.57,15/10/2024,Black,M,Polyester,TRUE
+55bc102c-c59b-4018-9921-535c206b74cd,MSME00920,Home Range Shirts 920,Mens_Clothing,Shirts,Home Range,50.53,27.34,26/09/2024,Multi,XS,Polyester,FALSE
+73acc7b2-eaf7-4a76-843e-e1fa11b22dba,MSBE00921,M&S Collection Bath 921,Beauty,Bath,M&S Collection,4.89,3.82,18/11/2024,Multi,L,Linen,TRUE
+a661449a-666d-42ad-89ae-be2f179382ed,MSHO00922,Essential Furniture 922,Home,Furniture,Essential,9.61,7.32,29/01/2025,Multi,M,Polyester,TRUE
+4ecfe0f1-3c94-4b65-a66f-e944a938dd64,MSWO00923,Per Una Leggings 923,Womens_Clothing,Leggings,Per Una,2.33,1.1,06/04/2025,Blue,OneSize,Cotton,TRUE
+1e8ead4c-2121-4a19-9a57-b113cac99e04,MSFO00924,M&S Collection Frozen 924,Food,Frozen,M&S Collection,12.13,6.44,13/04/2025,Green,XS,Blend,TRUE
+ccf1f120-c3d2-491e-a9d2-d3a721ecdd93,MSWO00925,Beauty Line Knitwear 925,Womens_Clothing,Knitwear,Beauty Line,24.43,12.14,22/03/2025,Red,XS,Linen,TRUE
+c42132f7-4702-4a07-8b50-73a70ae0ac99,MSHO00926,Essential Bedding 926,Home,Bedding,Essential,12.22,8.41,29/05/2025,Beige,S,Wool,TRUE
+902ecfa6-a5d4-46f8-b0b7-36c7025f539b,MSHO00927,Home Range Decor 927,Home,Decor,Home Range,2.82,2.19,06/03/2025,Multi,L,Blend,TRUE
+6d1dd504-dbde-4f2e-9186-4d27f0b74119,MSME00928,Essential Trousers 928,Mens_Clothing,Trousers,Essential,3.76,2.3,11/08/2024,Red,XS,Linen,TRUE
+eaa8f09c-b872-4b30-88a2-f9bd9d9e1d9d,MSWO00929,Home Range Tops 929,Womens_Clothing,Tops,Home Range,14.48,7.36,09/11/2024,White,M,Wool,TRUE
+72aee8e2-7e6c-4ccb-8651-e2ac24af346f,MSHO00930,Limited Edition Storage 930,Home,Storage,Limited Edition,28.74,19.72,05/03/2025,Blue,XS,Wool,TRUE
+5870c49f-bbdb-4675-9ef6-078ccfb6c126,MSHO00931,Beauty Line Storage 931,Home,Storage,Beauty Line,11.7,9.28,07/07/2025,Red,S,Cotton,TRUE
+d9f5cad7-f3de-4617-938c-6965395809e7,MSWO00932,Foodies Dresses 932,Womens_Clothing,Dresses,Foodies,1.44,0.98,24/01/2025,Red,XS,Silk,TRUE
+be52ab7e-a2b2-4900-89b1-72caafae6d8b,MSFO00933,Beauty Line Deli 933,Food,Deli,Beauty Line,20.87,10.83,29/07/2025,White,M,Wool,TRUE
+89f46c2d-0038-4097-8074-c8d51e48e809,MSME00934,Autograph Shorts 934,Mens_Clothing,Shorts,Autograph,1.18,0.92,06/07/2025,Multi,L,Linen,TRUE
+aa6ea079-a7a6-4722-bc30-ef7ee739fa0d,MSBE00935,Beauty Line Skincare 935,Beauty,Skincare,Beauty Line,11.66,6.31,05/11/2024,Green,OneSize,Blend,TRUE
+fe8fba4b-f87b-44b8-9f33-1c2831f5bc34,MSBE00936,Limited Edition Haircare 936,Beauty,Haircare,Limited Edition,5.81,4.03,03/06/2025,Blue,S,Linen,TRUE
+da389a6a-65f4-4915-baec-b84ec40515f2,MSHO00937,Per Una Furniture 937,Home,Furniture,Per Una,39.86,25.21,12/04/2025,Beige,OneSize,Wool,TRUE
+4db80fe5-31ff-4c09-933b-af494fa9685a,MSHO00938,Beauty Line Furniture 938,Home,Furniture,Beauty Line,31.34,22.58,10/11/2024,Red,XS,Silk,TRUE
+ff7584f4-8055-40be-8180-71b00c35a254,MSBE00939,Per Una Haircare 939,Beauty,Haircare,Per Una,9.15,6.17,16/09/2024,Green,M,Linen,TRUE
+719f4e11-519f-44cd-b204-fa6978408008,MSFO00940,Foodies Frozen 940,Food,Frozen,Foodies,20.21,13.36,21/10/2024,Multi,OneSize,Cotton,TRUE
+f8ec4707-3fc8-48a4-9abc-b29a26a2353e,MSWO00941,Beauty Line Knitwear 941,Womens_Clothing,Knitwear,Beauty Line,17.73,12.85,11/01/2025,Black,XL,Silk,TRUE
+aa184e0d-c189-4dc5-a703-be8b0c5b5b96,MSME00942,Per Una Shorts 942,Mens_Clothing,Shorts,Per Una,21.45,11.32,17/04/2025,Black,L,Cotton,TRUE
+6aa3c15b-a795-4a4f-9187-4883c2aa08a0,MSFO00943,Foodies Bakery 943,Food,Bakery,Foodies,3.89,1.99,02/10/2024,White,M,Linen,TRUE
+6ef40df8-9221-4b4d-aa8d-e76606fe4829,MSME00944,Beauty Line Shirts 944,Mens_Clothing,Shirts,Beauty Line,7.98,4.79,23/07/2025,Red,XL,Linen,TRUE
+6a6ba5a6-8899-4cf6-ad37-97787ba2840e,MSFO00945,Beauty Line Frozen 945,Food,Frozen,Beauty Line,15.48,9.57,27/12/2024,Blue,M,Silk,TRUE
+32466d1e-d474-4bec-af32-14a2b0e08135,MSWO00946,Foodies Leggings 946,Womens_Clothing,Leggings,Foodies,12.1,7.62,01/07/2025,Green,L,Blend,TRUE
+ddb7049c-8957-4dd1-8824-c0dddad66507,MSWO00947,Per Una Tops 947,Womens_Clothing,Tops,Per Una,21.19,12.29,03/12/2024,White,OneSize,Cotton,TRUE
+43c08dc0-3bb0-4b65-9700-1abd4547449f,MSME00948,Essential Outerwear 948,Mens_Clothing,Outerwear,Essential,2.63,1.76,28/01/2025,Black,XL,Linen,TRUE
+5ccf38e2-e945-48b9-9498-b4efcd087d5e,MSME00949,Essential Knitwear 949,Mens_Clothing,Knitwear,Essential,8.33,4.48,05/02/2025,White,OneSize,Wool,FALSE
+d38ac121-f81d-410e-afbd-612f309e53e8,MSBE00950,Autograph Fragrance 950,Beauty,Fragrance,Autograph,42.13,22.5,05/10/2024,White,XS,Linen,FALSE
+6006f31f-fde6-40de-b2a9-d5884afef65a,MSBE00951,Essential Makeup 951,Beauty,Makeup,Essential,3.97,3.01,02/12/2024,Red,M,Linen,FALSE
+78b5b840-b06a-4dc4-8f53-00ba7005142a,MSWO00952,Home Range Leggings 952,Womens_Clothing,Leggings,Home Range,5.91,4.64,13/05/2025,Red,M,Cotton,TRUE
+4ab6d73f-626a-4fdf-bc17-b17197b433cd,MSFO00953,Home Range Bakery 953,Food,Bakery,Home Range,23.84,17.96,02/04/2025,Beige,L,Silk,TRUE
+8c7a62a8-5bcd-46aa-a99a-edddd2f6b853,MSFO00954,Per Una Fresh 954,Food,Fresh,Per Una,8.77,6.15,16/06/2025,Black,S,Polyester,TRUE
+c3735780-6936-4679-824d-ed84af6bacc6,MSHO00955,Per Una Furniture 955,Home,Furniture,Per Una,3.27,2.14,15/11/2024,Green,OneSize,Polyester,TRUE
+35ac6166-ab59-4852-bbfc-9206878d2f08,MSWO00956,Per Una Dresses 956,Womens_Clothing,Dresses,Per Una,28.04,14.03,23/02/2025,Beige,L,Blend,TRUE
+6817c5eb-29f6-48e8-9eba-a68ed8908877,MSME00957,Per Una Shirts 957,Mens_Clothing,Shirts,Per Una,7.95,6.07,01/07/2025,Beige,L,Silk,TRUE
+f748fbe5-bb08-4aff-895f-99875573f912,MSFO00958,Per Una Bakery 958,Food,Bakery,Per Una,9.17,6.58,14/05/2025,Black,XL,Silk,TRUE
+6954052a-3733-43d4-b2af-162b7b0d55d1,MSBE00959,Home Range Haircare 959,Beauty,Haircare,Home Range,32.88,20.28,07/04/2025,Blue,S,Silk,TRUE
+f12cb7fd-7c02-43ce-be2f-21d4e198ce46,MSFO00960,Limited Edition Bakery 960,Food,Bakery,Limited Edition,17.6,9.07,02/01/2025,Beige,XL,Wool,TRUE
+847dd8c7-bca3-4659-ba48-c3bec2e10729,MSFO00961,Home Range Deli 961,Food,Deli,Home Range,3.7,2.43,23/09/2024,Red,XS,Linen,TRUE
+3ddfb858-e0ae-44dc-a56e-8f6939ef38f6,MSHO00962,Beauty Line Bedding 962,Home,Bedding,Beauty Line,1.17,0.86,17/09/2024,Beige,XS,Polyester,TRUE
+07d5aeb6-d24c-4b13-8128-f98cb9ee0e1b,MSFO00963,Beauty Line Ambient 963,Food,Ambient,Beauty Line,14.57,6.8,19/01/2025,White,XS,Linen,TRUE
+e3138d90-a6b8-489b-9e99-aa47b90ec7b6,MSWO00964,Beauty Line Tops 964,Womens_Clothing,Tops,Beauty Line,30.98,21.04,27/06/2025,Beige,OneSize,Blend,FALSE
+3b788c81-bba3-4a94-9875-37f7526c3946,MSWO00965,Essential Leggings 965,Womens_Clothing,Leggings,Essential,23.73,14.96,05/02/2025,White,XS,Wool,TRUE
+6ee71b7b-ae8d-4cec-92d3-450a78a97e5d,MSWO00966,Beauty Line Coats 966,Womens_Clothing,Coats,Beauty Line,7.27,3.37,19/04/2025,White,L,Linen,TRUE
+e9380eca-95bf-4747-abaa-7854c5b156c7,MSBE00967,Essential Fragrance 967,Beauty,Fragrance,Essential,2.72,1.74,24/01/2025,Green,S,Cotton,TRUE
+fad555a3-a098-4026-a3a8-4bc5c33bad35,MSFO00968,Essential Ambient 968,Food,Ambient,Essential,6.63,5.24,19/11/2024,Red,OneSize,Silk,TRUE
+a40ccd59-008a-4104-898f-224c078207b9,MSFO00969,Essential Frozen 969,Food,Frozen,Essential,12.56,6.99,21/06/2025,Multi,OneSize,Linen,TRUE
+8aa3ce62-da2e-443b-abcf-d8cfab15e6be,MSBE00970,Per Una Skincare 970,Beauty,Skincare,Per Una,29.83,13.97,06/07/2025,White,XS,Wool,TRUE
+a78342b9-78cb-48de-a9e1-a2d2fa331940,MSFO00971,Essential Ambient 971,Food,Ambient,Essential,10.52,5.56,04/04/2025,Multi,M,Cotton,TRUE
+a855df9a-3656-4469-bd0d-86d840c0972f,MSFO00972,Per Una Fresh 972,Food,Fresh,Per Una,46.27,30.69,07/09/2024,Beige,L,Wool,TRUE
+072bd2bc-efd9-443e-8647-cdd2d1b65955,MSHO00973,Beauty Line Kitchen 973,Home,Kitchen,Beauty Line,7.9,4.45,02/09/2024,Blue,XL,Cotton,TRUE
+99dcebac-ad01-4099-9f4c-311198b2ced2,MSWO00974,Per Una Tops 974,Womens_Clothing,Tops,Per Una,5.65,2.79,24/09/2024,Multi,L,Silk,TRUE
+5eea2ea0-741b-4187-8f1e-6d54b5a88240,MSME00975,Per Una Outerwear 975,Mens_Clothing,Outerwear,Per Una,5.31,3.89,16/09/2024,Blue,XL,Blend,TRUE
+3f41d4d5-63a0-42b2-afb3-75f0de5c3601,MSWO00976,Autograph Knitwear 976,Womens_Clothing,Knitwear,Autograph,22.98,14.7,06/04/2025,Red,S,Silk,TRUE
+b7073424-47dd-4bb3-a19e-3d8728a1caef,MSHO00977,Limited Edition Furniture 977,Home,Furniture,Limited Edition,6.2,3.62,22/05/2025,Black,OneSize,Blend,TRUE
+6325b480-d49c-49d9-bd56-1c0ed03e48d8,MSHO00978,Foodies Kitchen 978,Home,Kitchen,Foodies,13.73,7.47,18/08/2024,Red,M,Silk,TRUE
+c807bf45-fbc9-4393-9c6e-351c2948df80,MSHO00979,M&S Collection Storage 979,Home,Storage,M&S Collection,2.52,1.56,08/05/2025,Red,XL,Blend,TRUE
+85aacffa-d24c-4844-8ad0-cd8b95fb5bea,MSBE00980,Essential Bath 980,Beauty,Bath,Essential,2.92,2.04,31/07/2025,Green,M,Wool,TRUE
+c8ea7f87-44ca-4349-8d66-197e7501db00,MSHO00981,Foodies Storage 981,Home,Storage,Foodies,24.87,12.08,25/06/2025,Black,OneSize,Blend,TRUE
+d2fd1653-7e2d-4905-968a-2cab1dd9ddb3,MSFO00982,Home Range Fresh 982,Food,Fresh,Home Range,5.68,4.49,04/11/2024,Beige,OneSize,Polyester,TRUE
+5c4b43f3-fbc6-4dd4-b060-159b51a5fd75,MSWO00983,Autograph Dresses 983,Womens_Clothing,Dresses,Autograph,19.79,10.01,06/05/2025,Red,L,Cotton,TRUE
+29fa2c29-e192-47a7-a35a-9ef6a82d80ab,MSBE00984,Limited Edition Fragrance 984,Beauty,Fragrance,Limited Edition,9.13,7.05,22/01/2025,Beige,M,Wool,TRUE
+a51e9df2-9ba1-4f68-80cf-af03c5f1315c,MSWO00985,Autograph Leggings 985,Womens_Clothing,Leggings,Autograph,61.29,45.82,17/06/2025,Red,XL,Blend,TRUE
+7b41bcea-6d69-423b-997a-0113d6c8030c,MSME00986,Autograph Shorts 986,Mens_Clothing,Shorts,Autograph,25.92,13.44,27/12/2024,Beige,XS,Cotton,TRUE
+65987928-2528-4211-8ca9-bd9425350000,MSME00987,Per Una Outerwear 987,Mens_Clothing,Outerwear,Per Una,6.99,3.67,14/07/2025,Red,OneSize,Polyester,TRUE
+b9208eef-19fc-4b1c-993f-4d886e088b2b,MSBE00988,Beauty Line Skincare 988,Beauty,Skincare,Beauty Line,31.58,20.42,07/02/2025,Green,L,Blend,FALSE
+35e1cc62-d814-4fe5-8dd6-11087ba0dbd7,MSHO00989,Per Una Decor 989,Home,Decor,Per Una,28.33,18.2,11/07/2025,Multi,XS,Wool,TRUE
+823dbf23-56f6-4612-85f0-b01bba0d2028,MSBE00990,Home Range Haircare 990,Beauty,Haircare,Home Range,4.56,3.31,14/12/2024,Red,M,Wool,TRUE
+d15c6ae8-705c-4621-8846-6807f6f59651,MSWO00991,Limited Edition Coats 991,Womens_Clothing,Coats,Limited Edition,8.6,6.6,13/07/2025,White,L,Polyester,TRUE
+b89ab454-e30d-417d-a200-1879d54e751a,MSWO00992,Foodies Tops 992,Womens_Clothing,Tops,Foodies,8.51,6.2,24/05/2025,Blue,XL,Blend,TRUE
+a97b2374-ffdf-4559-af31-900e6328089c,MSBE00993,Autograph Fragrance 993,Beauty,Fragrance,Autograph,15.96,12.6,13/02/2025,Red,XS,Cotton,TRUE
+98e98f92-af67-4784-88ac-3a6868f8bf38,MSHO00994,M&S Collection Furniture 994,Home,Furniture,M&S Collection,13.72,8.58,23/01/2025,Black,S,Blend,TRUE
+9d42ae6e-37c3-44af-8a00-6f752706dff7,MSWO00995,Essential Coats 995,Womens_Clothing,Coats,Essential,5.43,2.54,17/02/2025,Blue,OneSize,Wool,FALSE
+c87df1a7-e566-4e4a-97de-3c39e0921cf2,MSFO00996,Beauty Line Frozen 996,Food,Frozen,Beauty Line,10.35,5.09,05/04/2025,Black,L,Silk,TRUE
+8777b403-32bf-4d5b-b0a3-26aad4dbc693,MSWO00997,Limited Edition Leggings 997,Womens_Clothing,Leggings,Limited Edition,2.11,1.54,02/01/2025,Red,L,Blend,TRUE
+3cc14be0-bc10-44f5-bf48-47280fec133a,MSBE00998,Home Range Skincare 998,Beauty,Skincare,Home Range,4.97,3.74,03/01/2025,Green,OneSize,Wool,TRUE
+86cb0b67-ec26-49e1-823f-eac6ac2390d5,MSWO00999,Home Range Knitwear 999,Womens_Clothing,Knitwear,Home Range,9.47,6.51,06/01/2025,Red,L,Wool,TRUE

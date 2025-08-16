@@ -1,0 +1,46 @@
+import pandas as pd
+import plotly.express as px
+from dash import Dash, dcc, html
+
+# Load data
+products = pd.read_csv("marks_synthetic/products.csv")
+transactions = pd.read_csv("marks_synthetic/transactions.csv")
+line_items = pd.read_csv("marks_synthetic/transaction_line_items.csv")
+customers = pd.read_csv("marks_synthetic/customers.csv")
+inventory = pd.read_csv("marks_synthetic/inventory_snapshots_30days.csv")
+reviews = pd.read_csv("marks_synthetic/reviews.csv")
+
+# Sales by Category
+sales_cat = line_items.groupby('category')['line_total'].sum().reset_index()
+fig_sales_cat = px.bar(sales_cat, x='category', y='line_total', color='category',
+                       title='Total Sales by Category')
+
+# Average Rating by Category
+avg_rating = reviews.merge(products[['product_id','category']], on='product_id')
+avg_rating = avg_rating.groupby('category')['rating'].mean().reset_index()
+fig_rating = px.bar(avg_rating, x='category', y='rating', color='category',
+                    title='Average Product Rating by Category')
+
+# Total Orders by Month
+transactions['tx_datetime'] = pd.to_datetime(transactions['tx_datetime'])
+transactions['month'] = transactions['tx_datetime'].dt.to_period('M')
+monthly_sales = transactions.groupby('month')['order_total'].sum().reset_index()
+fig_monthly = px.line(monthly_sales, x='month', y='order_total', markers=True,
+                      title='Monthly Sales Trend')
+
+# Dash App
+app = Dash(__name__)
+
+app.layout = html.Div([
+    html.H1("M&S Retail Analytics Dashboard"),
+    
+    html.Div([
+        html.Div(dcc.Graph(figure=fig_sales_cat), style={'width': '48%', 'display': 'inline-block'}),
+        html.Div(dcc.Graph(figure=fig_rating), style={'width': '48%', 'display': 'inline-block'})
+    ]),
+    
+    html.Div(dcc.Graph(figure=fig_monthly))
+])
+
+if __name__ == '__main__':
+    app.run_server(debug=True)
