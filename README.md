@@ -90,5 +90,6 @@ Key Takeaways
 This project demonstrates the ability to work independently from data creation to an analysis-ready format, simulating real-world scenarios that analysts encounter in the retail sector.
 It’s not just about making charts — it’s about understanding the business process, designing the right data structure, and delivering a usable, realistic dataset for decision-making.
 
+<img width="1069" height="885" alt="Screenshot 2025-08-15 at 18 18 24" src="https://github.com/user-attachments/assets/5263efad-a893-4745-9e4f-9b7cd3c2785b" />
 
-<img width="1069" height="885" alt="Screenshot 2025-08-15 at 18 18 24" src="https://github.com/user-attachments/assets/9a1c12fd-94da-4607-8743-d86654604bec" />
+
