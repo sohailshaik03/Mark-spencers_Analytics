@@ -51,15 +51,21 @@ monthly_sales = transactions.groupby("month")["order_total"].sum().reset_index()
 
 
 def handle_partial_months(monthly_sales, transactions):
-    """Stop partly covered months from looking like real sales drops.
+    """Keep only the months the transaction data covers from start to end.
 
     The transactions run from 9 Aug 2024 to 7 Aug 2025, so the first and
-    last months hold only a few days of sales each and appear as false dips
-    in the monthly trend. Returns the table to plot.
+    last months hold only a few days of sales each and would appear as false
+    dips in the monthly trend. Monthly totals are only comparable for whole
+    months, so partial months are dropped rather than plotted.
     """
-    # TODO(Sohail): choose and implement how to treat the partial first and
-    # last months (see the pull request description for the options).
-    return monthly_sales
+    first_day = transactions["tx_datetime"].min().normalize()
+    last_day = transactions["tx_datetime"].max().normalize()
+
+    months = pd.PeriodIndex(monthly_sales["month"], freq="M")
+    starts_in_range = months.start_time >= first_day
+    ends_in_range = months.end_time.normalize() <= last_day
+
+    return monthly_sales[starts_in_range & ends_in_range].reset_index(drop=True)
 
 
 monthly_sales = handle_partial_months(monthly_sales, transactions)
@@ -68,9 +74,11 @@ fig_monthly = px.line(
     x="month",
     y="order_total",
     markers=True,
-    title="Monthly Sales Trend",
+    title="Monthly Sales Trend (complete months only)",
     labels={"order_total": "Sales (£)", "month": "Month"},
 )
+# Start the axis at zero so month-to-month noise is shown in proportion.
+fig_monthly.update_yaxes(rangemode="tozero")
 
 # Dash app
 app = Dash(__name__)
