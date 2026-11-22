@@ -52,7 +52,7 @@ Every product, transaction and store key resolves to a row in its parent table. 
 
 - total sales by product category
 - average review rating by category
-- monthly sales trend
+- monthly sales trend for complete months only (September 2024 to July 2025); the partial first and last months, which hold only a few days of data, are left out so they do not appear as false drops
 
 ### Run it
 
